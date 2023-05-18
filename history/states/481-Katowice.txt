@@ -1,0 +1,23 @@
+
+state={
+	id=481
+	name="STATE_481"
+	provinces={
+		5322 8816 
+	}
+	history={
+		owner = GER
+		add_core_of = GER
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = POL
+        victory_points = {
+            5322 20
+        }
+  	}
+	manpower=352577
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

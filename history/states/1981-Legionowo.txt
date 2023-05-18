@@ -1,0 +1,30 @@
+
+state={
+	id=1981
+	name="STATE_1981"
+	provinces={
+		246 2388 3409 3781 5243 8127 8534 11613 11747 11801 11837 
+	}
+	history={
+		owner = SOV
+		add_core_of = POL
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 1
+			11747 = {
+				bunker = 1
+			}
+			2388 = {
+				bunker = 1
+			}
+		}
+        victory_points = {
+            5243 5
+        }
+  	}
+	manpower=1150472
+	state_category=metropolis
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=480
+	name="STATE_480"
+
+	history={
+		owner = BEL
+		add_core_of = BEL
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 6
+			19891 = {
+				bunker = 1
+			}
+			3006 = {
+				bunker = 1
+			}
+		}
+		 
+		victory_points = {
+			19891 10 #Liège
+		}
+		victory_points = {
+            12494 2 #Andenne
+        }
+	}
+
+	provinces={
+		3006 12494 19891 
+	}
+	manpower=535000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

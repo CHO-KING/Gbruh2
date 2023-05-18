@@ -1,0 +1,20 @@
+state={
+	id=2861
+	name="STATE_2861"
+	provinces={
+		20193 
+	}
+	history={
+		owner = AUS
+		add_core_of = SER
+		buildings = {
+			infrastructure = 3
+
+		}
+		set_compliance = 25
+	}
+	manpower=14022
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,31 @@
+﻿capital = 69
+
+set_research_slots = 3
+
+add_ideas = {
+	extensive_conscription
+}
+
+set_technology = {
+
+}
+
+set_convoys = 5
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1933.7.1"
+	election_frequency = 36
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 10
+	fascism = 10
+	communism = 1
+	neutrality = 79
+}
+
+recruit_character = FIN_svinhufvud
+recruit_character = FIN_carl_gustaf_emil_mannerheim
+
+
