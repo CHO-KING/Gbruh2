@@ -19,11 +19,8 @@ state={
 		}
 		 
 		victory_points = {
-			19891 10 #Liège
+			19891 10 #Liége
 		}
-		victory_points = {
-            12494 2 #Andenne
-        }
 	}
 
 	provinces={
