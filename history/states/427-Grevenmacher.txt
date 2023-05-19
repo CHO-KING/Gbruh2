@@ -3,16 +3,16 @@ state={
 	id=427
 	name="STATE_427"
 	history={
-		owner = LUX
-		add_core_of = LUX
+		owner = BEL
+		add_core_of = BEL
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 		}
     }
 	provinces={
-		12857 
+		12481
 	}
-	manpower=38100
+	manpower=25100
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 	state_category = pastoral
