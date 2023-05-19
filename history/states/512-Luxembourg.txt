@@ -3,7 +3,7 @@ state={
 	id=512
 	name="STATE_512"
 	provinces={
-		12852 12895 
+		12852 12857 12895
 	}
 	resources={
 		steel=200
@@ -17,10 +17,10 @@ state={
 			industrial_complex = 2
 		}
         victory_points = {
-            12895 5 #Stad Lëtzebuerg
+            12895 5 #Luxemburg
         }
     }
-	manpower=199200
+	manpower=237340
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 	state_category = town
