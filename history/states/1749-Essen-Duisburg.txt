@@ -15,7 +15,10 @@ state={
        	 	}
         	victory_points = {
            	 20738 40 #Duisburg
-      		  }
+      		}
+        	victory_points = {
+           	 12020 10 #Hamborn
+      		}
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4

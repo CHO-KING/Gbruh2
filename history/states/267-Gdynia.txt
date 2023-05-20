@@ -9,13 +9,11 @@ state={
 		owner = GER
 		add_core_of = GER
 		buildings = {
-			infrastructure = 3
-			dockyard = 1
-			10920 = { naval_base = 6 }
+			infrastructure = 2
 		}
 		add_core_of = POL
         victory_points = {
-            10920 20 #Gdynia
+            6271 5 #Karthaus
         }
   	}
 	manpower=170992

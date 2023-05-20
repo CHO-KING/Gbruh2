@@ -8,9 +8,6 @@ state={
 		victory_points = {
 			13519 20 #Freiburg im Breisgau
 		}
-		victory_points = {
-			3091 2 #Waldshut-Tiengen
-		}
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4

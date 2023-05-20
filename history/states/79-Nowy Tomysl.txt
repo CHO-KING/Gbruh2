@@ -12,7 +12,10 @@ state={
 		owner = GER
 		add_core_of = GER
 		victory_points = {
-			11715 1 #Nowy Tomyśl
+			11715 1 #Neutomischl
+		}
+		victory_points = {
+			3190 2 #Czarnikau
 		}
 		buildings = {
 			infrastructure = 3

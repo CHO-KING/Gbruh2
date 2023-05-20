@@ -10,7 +10,7 @@ state={
 		}
 		add_core_of = GER
 
-		victory_points = { 19617 2 }
+		victory_points = { 10768 2 } #Apenrade
 	}
 	provinces={
 		10768 19614 19617 
