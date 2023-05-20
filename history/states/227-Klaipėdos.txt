@@ -6,8 +6,6 @@ state={
 	history={
 		owner = GER
 		add_core_of = GER
-
-		add_core_of = SOV
 		buildings = {
 			infrastructure = 3
 			19907 = { naval_base = 1 }
