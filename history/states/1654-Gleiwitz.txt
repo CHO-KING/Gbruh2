@@ -5,6 +5,7 @@ state={
 	history={
 		owner = GER
 		add_core_of = GER
+		add_claim_by = POL
 		buildings = {
 			infrastructure = 3
 			arms_factory = 3
@@ -14,13 +15,13 @@ state={
 		
 		
 		victory_points = {
-			19942 10 #Gleiwitz
+			19942 20 #Gleiwitz
 		}
 		victory_points = {
-			6758 5 #Kandrzin-Cosel
+			6758 5 #Cosel
 		}
 		victory_points = {
-			12567 5 #Hindenburg
+			12567 15 #Beuthen
 		}
     }
 	provinces={

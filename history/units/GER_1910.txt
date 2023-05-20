@@ -96,43 +96,43 @@ units = {
     }
     division = {
         name = "5. Infanterie-Division"
-        location = 11711
+        location = 19942
         division_template = "Infanterie Division"
         start_experience_factor = 0.2
     }
     division = {
         name = "6. Infanterie-Division"
-        location = 11711
+        location = 19942
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "7. Infanterie-Division"
-        location = 11711
+        location = 9490
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "8. Infanterie-Division"
-        location = 11711
+        location = 9490
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "17. Infanterie-Division"
-        location = 11711
+        location = 8274
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "18. Infanterie-Division"
-        location = 11711
+        location = 8274
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "10th Mixed Infantry Brigade"
-        location = 11711
+        location = 5425
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -140,25 +140,25 @@ units = {
     }
     division = {
         name = "1. Infanterie-Division"
-        location = 11711
+        location = 5425
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "2. Infanterie-Division"
-        location = 11711
+        location = 4870
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "35. Infanterie-Division"
-        location = 11711
+        location = 4870
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "36. Infanterie-Division"
-        location = 11711
+        location = 4870
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
@@ -176,91 +176,91 @@ units = {
     }
     division = {
         name = "87. Infanterie Division"
-        location = 11711
+        location = 11367
         division_template = "Infanterie Division"
         start_experience_factor = 0.3
     }
     division = {
         name = "88. Infanterie Division"
-        location = 11711
+        location = 11367
         division_template = "Infanterie Division"
         start_experience_factor = 0.3
     }
     division = {
         name = "89. Infanterie Division"
-        location = 11711
+        location = 11407
         division_template = "Infanterie Division"
         start_experience_factor = 0.3
     }
     division = {
         name = "90. Infanterie Division"
-        location = 11711
+        location = 11407
         division_template = "Infanterie Division"
         start_experience_factor = 0.3
     }
     division = {
         name = "91. Infanterie Division"
-        location = 11711
+        location = 11407
         division_template = "Infanterie Division"
         start_experience_factor = 0.3
     }
     division = {
         name = "92. Infanterie Division"
-        location = 11711
+        location = 19921
         division_template = "Infanterie Division"
         start_experience_factor = 0.3
     }
     division = {
         name = "93. Infanterie Division"
-        location = 11711
+        location = 19921
         division_template = "Infanterie Division"
         start_experience_factor = 0.3
     }
     division = {
         name = "94. Infanterie Division"
-        location = 11711
+        location = 19921
         division_template = "Infanterie Division"
         start_experience_factor = 0.3
     }
     division = {
         name = "95. Infanterie Division"
-        location = 11711
+        location = 1577
         division_template = "Infanterie Division"
         start_experience_factor = 0.3
     }
     division = {
         name = "96. Infanterie Division"
-        location = 11711
+        location = 1577
         division_template = "Infanterie Division"
         start_experience_factor = 0.3
     }
     division = {
         name = "97. Infanterie Division"
-        location = 11711
+        location = 10853
         division_template = "Infanterie Division"
         start_experience_factor = 0.3
     }
     division = {
         name = "98. Infanterie Division"
-        location = 11711
+        location = 10853
         division_template = "Infanterie Division"
         start_experience_factor = 0.3
     }
     division = {
         name = "99. Infanterie Division"
-        location = 11711
+        location = 10853
         division_template = "Infanterie Division"
         start_experience_factor = 0.3
     }
     division = {
         name = "103. Infanterie Division"
-        location = 11711
+        location = 19906
         division_template = "Infanterie Division"
         start_experience_factor = 0.3
     }
     division = {
         name = "Konigsberg Garrison"
-        location = 11711
+        location = 19906
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -268,7 +268,7 @@ units = {
     }
     division = {
         name = "43 Infantry Brigade"
-        location = 11711
+        location = 11193
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -276,7 +276,7 @@ units = {
     }
     division = {
         name = "45. Infantry Brigade"
-        location = 11711
+        location = 11257
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -284,7 +284,7 @@ units = {
     }
     division = {
         name = "53. Infantry Brigade"
-        location = 11711
+        location = 20575
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -292,7 +292,7 @@ units = {
     }
     division = {
         name = "9. Bayerisches Infantry Brigade"
-        location = 11711
+        location = 9258
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -300,7 +300,7 @@ units = {
     }
     division = {
         name = "16. Infantry Brigade"
-        location = 11711
+        location = 9258
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -308,7 +308,7 @@ units = {
     }
     division = {
         name = "9. Reserve-Division"
-        location = 11711
+        location = 13461
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -316,7 +316,7 @@ units = {
     }
     division = {
         name = "10. Reserve-Division"
-        location = 11711
+        location = 13296
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -324,7 +324,7 @@ units = {
     }
     division = {
         name = "11. Reserve-Division"
-        location = 11711
+        location = 13296
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -332,7 +332,7 @@ units = {
     }
     division = {
         name = "12. Reserve-Division"
-        location = 11711
+        location = 13059
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -340,19 +340,19 @@ units = {
     }
     division = {
         name = "9. Infanterie-Division"
-        location = 11711
+        location = 13059
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "10. Infanterie-Division"
-        location = 11711
+        location = 13047
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "35. Reserve Division"
-        location = 11711
+        location = 9043
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -360,7 +360,7 @@ units = {
     }
     division = {
         name = "19. Infantry Brigade"
-        location = 11711
+        location = 20736
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -368,7 +368,7 @@ units = {
     }
     division = {
         name = "69. Ersatz Division"
-        location = 11711
+        location = 20736
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -376,7 +376,7 @@ units = {
     }
     division = {
         name = "Bayerisches Ersatz-Division"
-        location = 11711
+        location = 12953
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -384,7 +384,7 @@ units = {
     }
     division = {
         name = "Garde-Ersatz-Division"
-        location = 11711
+        location = 20739
         division_template = "Infanterie Corps"
         start_experience_factor = 0.1
         # start_equipment_factor = 0.3
@@ -392,7 +392,7 @@ units = {
     }
     division = {
         name = "4. Ersatz-Division"
-        location = 11711
+        location = 20739
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -400,7 +400,7 @@ units = {
     }
     division = {
         name = "8. Ersatz-Division"
-        location = 11711
+        location = 12020
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -408,7 +408,7 @@ units = {
     }
     division = {
         name = "10. Ersatz-Division"
-        location = 11711
+        location = 7843
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -416,7 +416,7 @@ units = {
     }
     division = {
         name = "19. Ersatz-Division"
-        location = 11711
+        location = 7843
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -424,7 +424,7 @@ units = {
     }
     division = {
         name = "4. Infantry Kommando"
-        location = 11711
+        location = 11888
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -432,7 +432,7 @@ units = {
     }
     division = {
         name = "3. Infantry Kommando"
-        location = 11711
+        location = 11888
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -440,7 +440,7 @@ units = {
     }
     division = {
         name = "2. Infantry Brigade"
-        location = 11711
+        location = 11888
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -448,7 +448,7 @@ units = {
     }
     division = {
         name = "6. Infantry Brigade"
-        location = 11711
+        location = 11684
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -456,7 +456,7 @@ units = {
     }
     division = {
         name = "70. Infantry Brigade"
-        location = 11711
+        location = 11684
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -464,19 +464,19 @@ units = {
     }
     division = {
         name = "31. Infanterie-Division"
-        location = 11711
+        location = 11684
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "42. Infanterie-Division"
-        location = 11711
+        location = 20688
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "1. Bayerisches Infanterie-Division"
-        location = 11711
+        location = 12918
         division_template = "Infanterie Corps"
         start_experience_factor = 0.3
         # start_equipment_factor = 0.3
@@ -484,139 +484,139 @@ units = {
     }
     division = {
         name = "2. Bayerisches Infanterie-Division"
-        location = 11711
+        location = 12918
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "3. Bayerisches Infanterie-Division"
-        location = 11711
+        location = 13100
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "4. Bayerisches Infanterie-Division"
-        location = 11711
+        location = 13100
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "5. Bayerisches Infanterie-Division"
-        location = 11711
+        location = 4897
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "5. Bayerisches Infanterie-Division"
-        location = 11711
+        location = 13352
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "28. Infanterie-Division"
-        location = 11711
+        location = 3588
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "29. Infanterie-Division"
-        location = 11711
+        location = 1598
         division_template = "Infanterie Division"
         start_experience_factor = 0
     }
     division = {
         name = "30. Infanterie-Division"
-        location = 11711
+        location = 13519
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "39. Infanterie-Division"
-        location = 11711
+        location = 13519
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "26. Infanterie-Division"
-        location = 11711
+        location = 12673
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "27. Infanterie-Division"
-        location = 11711
+        location = 12673
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "33. Infanterie-Division"
-        location = 11711
+        location = 12672
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "34. Infanterie-Division"
-        location = 11711
+        location = 12672
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "11. Infanterie-Division"
-        location = 11711
+        location = 20622
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "12. Infanterie-Division"
-        location = 11711
+        location = 20622
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "15. Infanterie-Division"
-        location = 11711
+        location = 12268
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "16. Infanterie-Division"
-        location = 11711
+        location = 12268
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "21. Infanterie-Division"
-        location = 11711
+        location = 11685
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "25. Infanterie-Division"
-        location = 11711
+        location = 20634
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "22. Infanterie-Division"
-        location = 11711
+        location = 20634
         division_template = "Infanterie Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "Garde-Kavallerie-Division"
-        location = 11711
+        location = 4322
         division_template = "Hussars"
         start_experience_factor = 0.2
     }
     division = {
         name = "5. Kavallerie-Division"
-        location = 11711
+        location = 10768
         division_template = "Hussars"
         start_experience_factor = 0.1
     }
     division = {
         name = "Ostafrikanische Schutztruppe 11-14"
-        location = 11711
+        location = 18767
         division_template = "Hussars"
         start_experience_factor = 0.15
         # start_equipment_factor = 0.3
@@ -624,7 +624,7 @@ units = {
     }
     division = {
         name = "1. DSWA Regiment"
-        location = 11711
+        location = 11207
         division_template = "Hussars"
         start_experience_factor = 0.15
     }

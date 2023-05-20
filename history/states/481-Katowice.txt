@@ -13,8 +13,11 @@ state={
 		}
 		add_core_of = POL
         victory_points = {
-            5322 20
-        }
+            5322 10
+        }	#Kattowitz
+        victory_points = {
+            8816 10
+        }	#Königshütte
   	}
 	manpower=352577
 	buildings_max_level_factor=1.000

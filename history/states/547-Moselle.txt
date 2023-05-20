@@ -10,7 +10,10 @@ state={
 		add_core_of = FRA
 		add_core_of = GER
 		victory_points = {
-			13089 1 
+			13089 1 #Forbach
+		}
+		victory_points = {
+			12938 5 #Diedenhofen
 		}
 		buildings = {
 			infrastructure = 4

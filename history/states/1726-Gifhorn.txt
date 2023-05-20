@@ -10,11 +10,6 @@ state={
 		buildings = {
 			infrastructure = 4
 		}
-		
-		
-        victory_points = {
-            11719 10 #Wolfsburg
-        }
     }
 	manpower=71335
 	buildings_max_level_factor=1.000

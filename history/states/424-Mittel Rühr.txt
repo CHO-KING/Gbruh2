@@ -17,12 +17,11 @@ state={
 		 
 		owner = GER
         victory_points = {
-            8574 10 #Recklinghausen und Marl
+            8574 10 #Recklinghausen
         }
         victory_points = {
-            12083 40 #Bochum und Gelsenkirchen
+            12083 20 #Gelsenkirchen
         }
-
 	}
 
 	provinces={

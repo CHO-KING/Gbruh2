@@ -15,7 +15,7 @@ state={
             20737 40 #Düsseldorf
         }
         victory_points = {
-            12193 20 #Wuppertal
+            12193 15 #Elberfeld
         }
         victory_points = {
             12234 10 #Solingen

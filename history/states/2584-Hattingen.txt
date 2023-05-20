@@ -12,6 +12,9 @@ state={
 		
 		 
 		owner = GER
+        victory_points = {
+            12141 10 #Barmen
+        }
 
 	}
 	manpower=74019
