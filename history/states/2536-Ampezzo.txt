@@ -4,6 +4,7 @@ state={
 	name="STATE_2536"
 	history = {
 		owner = AUS
+		add_core_of = AUS
 		add_core_of = ITA
 		
 		

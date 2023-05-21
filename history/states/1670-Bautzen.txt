@@ -2,7 +2,7 @@ state={
 	id=1670
 	name="STATE_1670"
 	provinces={
-		12210 12251 12287 12326 20612 
+		12210 12251 12287 12326 12327 20612 
 	}
 	resources ={
 		aluminium = 50
@@ -19,7 +19,7 @@ state={
             12210 2 #Bautzen
         }
     }
-	manpower=349830
+	manpower=353933
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 	state_category = city

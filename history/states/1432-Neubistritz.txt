@@ -4,18 +4,18 @@ state={
 	name="STATE_1432"
 	history={
 		owner = AUS
-		add_core_of = CZE
 		add_core_of = AUS
+		add_claim_by = CZE
 		
         victory_points = {
-            20058 2 #Jindřichův Hradec
+            20563 1 #Neubistritz
         }
 		buildings = {
 			infrastructure = 3
 		}
 	}
 	provinces={
-		7372 20058 20059 
+		7372 20563 20059 
 	}
 	manpower=46226
 	buildings_max_level_factor=1.000

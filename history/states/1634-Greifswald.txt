@@ -10,11 +10,14 @@ state={
 		
 		
 		victory_points = {
-			6227 5 #Greifswald
+			6227 2 #Greifswald
 		}
+	        victory_points = {
+            19659 5 #Swinemünde
+        }
     }
 	provinces={
-		5868 6227 11044 19659 20559 
+		5868 6227 11044 19659 20559
 	}
 	manpower=110796
 	buildings_max_level_factor=1.000
