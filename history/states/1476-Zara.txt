@@ -3,13 +3,13 @@ state={
 	name="STATE_1476"
 	history = {
 		owner = AUS
+		add_core_of = ITA
 		add_core_of = SER
 		buildings = {
 			infrastructure = 2
 			14584 = { naval_base = 1 }
 		}
 		victory_points = { 14584 5 }
-		set_compliance = 25
 	}
 	provinces={
 		14584 
