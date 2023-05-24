@@ -6,6 +6,7 @@ state={
 	history={
 		owner = AUS
 		add_core_of = SER
+		add_claim_by = HUN
 		buildings = {
 			infrastructure = 2
 			20146 = {

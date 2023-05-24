@@ -6,6 +6,7 @@ state={
 	history={
 		owner = AUS
 		add_core_of = SER
+		add_claim_by = HUN
 		buildings = {
 			infrastructure = 2
 
@@ -14,9 +15,9 @@ state={
 	}
 
 	provinces={
-		3381 16127 20131 20145 
+		3381 14391 16127 20131 20145 
 	}
-	manpower=31036
+	manpower=51036
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 	local_supplies=0.000
