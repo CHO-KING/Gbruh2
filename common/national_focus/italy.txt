@@ -577,6 +577,9 @@ focus_tree = {
 		x = 20
 		y = 0
 		cost = 5
+		ai_will_do = {
+			factor = 100
+		}
 		
 		completion_reward = {
 			add_political_power = 50
@@ -592,7 +595,7 @@ focus_tree = {
 		relative_position_id = ITA_grand_ambitions
 		cost = 5
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -882,7 +885,7 @@ focus_tree = {
 			}
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {

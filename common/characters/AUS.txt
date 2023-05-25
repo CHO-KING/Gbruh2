@@ -17,7 +17,7 @@ characters={
 		name="Karl I"
 		portraits={
 			civilian={
-				large="gfx/leaders/AUS/portrait_franz_josef.dds"
+				large="gfx/leaders/AUS/portrait_karl.dds"
 			}
 		}
 		country_leader={

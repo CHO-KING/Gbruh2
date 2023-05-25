@@ -248,7 +248,7 @@ focus_tree = {
 		relative_position_id = USA_wilson_presidency
 		cost = 10
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -268,7 +268,7 @@ focus_tree = {
 			has_global_flag = great_war_started_flag
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -285,7 +285,7 @@ focus_tree = {
 		relative_position_id = USA_declare_neutrality
 		cost = 10
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -317,7 +317,7 @@ focus_tree = {
 			}
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {

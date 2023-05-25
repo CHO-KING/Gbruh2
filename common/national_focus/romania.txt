@@ -36,7 +36,7 @@ focus_tree = {
 		relative_position_id = ROM_path_to_a_greater_romania
 		cost = 10
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -58,7 +58,7 @@ focus_tree = {
 		relative_position_id = ROM_the_old_king
 		cost = 10
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -79,7 +79,7 @@ focus_tree = {
 			has_idea = ROM_peter_carp
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -100,7 +100,7 @@ focus_tree = {
 		relative_position_id = ROM_balance_the_budget
 		cost = 10
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -120,7 +120,7 @@ focus_tree = {
 		relative_position_id = ROM_promote_culture
 		cost = 10
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -141,7 +141,7 @@ focus_tree = {
 		relative_position_id = ROM_the_old_king
 		cost = 10
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -159,7 +159,7 @@ focus_tree = {
 		relative_position_id = ROM_appoint_liberals
 		cost = 10
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -179,7 +179,7 @@ focus_tree = {
 		relative_position_id = ROM_start_land_reform
 		cost = 10
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -201,7 +201,7 @@ focus_tree = {
 		relative_position_id = ROM_democratisation
 		cost = 20
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -218,7 +218,7 @@ focus_tree = {
 		relative_position_id = ROM_appoint_conservatives
 		cost = 10
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -238,7 +238,7 @@ focus_tree = {
 		relative_position_id = ROM_industrial_investments
 		cost = 10
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -255,7 +255,7 @@ focus_tree = {
 		relative_position_id = ROM_kings_diplomacy
 		cost = 10
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -287,7 +287,7 @@ focus_tree = {
 			has_global_flag = great_war_started_flag
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -308,7 +308,7 @@ focus_tree = {
 		relative_position_id = ROM_wartime_government
 		cost = 10
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -328,7 +328,7 @@ focus_tree = {
 		relative_position_id = ROM_military_buildup
 		cost = 10
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -345,7 +345,7 @@ focus_tree = {
 		relative_position_id = ROM_foreign_loans
 		cost = 10
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -367,7 +367,7 @@ focus_tree = {
 			has_idea = war_economy
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
@@ -389,7 +389,7 @@ focus_tree = {
 			}
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 100
 		}
 		
 		completion_reward = {
