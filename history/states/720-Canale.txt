@@ -4,11 +4,13 @@ state={
 	name="STATE_720"
 	history = {
 		owner = AUS
+		add_core_of = SER
+		add_claim_by = ITA
+		set_compliance = 25
 		
 		buildings = {
 			infrastructure = 3
 		}
-		add_core_of = ITA
 		
 		buildings = {
 			infrastructure = 2

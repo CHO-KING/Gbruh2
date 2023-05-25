@@ -7,14 +7,9 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		
-		
-        victory_points = {
-            20563 2 #Swinemünde
-        }
     }
 	provinces={
-		19660 20563 
+		19660
 	}
 	manpower=39150
 	buildings_max_level_factor=1.000

@@ -178,7 +178,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 19659;20559;sea;16684;-1;-1;-1;-1;;Greifswald 2
 19659;768;sea;16684;-1;-1;-1;-1;;Greifswald 3
 19660;11027;sea;17981;-1;-1;-1;-1;;Wolin 1
-19660;20563;sea;17981;-1;-1;-1;-1;;Wolin 2
+19660;19659;sea;17981;-1;-1;-1;-1;;Wolin 2
 14170;8532;impassable;-1;-1;-1;-1;-1;;Valais-Haute Savoie
 20096;4789;impassable;-1;-1;-1;-1;-1;;Valais-Oberland
 14014;4789;impassable;-1;-1;-1;-1;-1;;Wallis-Oberland

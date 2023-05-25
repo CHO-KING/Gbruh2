@@ -20054,7 +20054,7 @@
 20053;234;148;134;land;false;mountain;1
 20054;234;149;134;land;false;mountain;1
 20055;234;150;134;land;false;mountain;1
-20056;234;151;134;land;false;plains;1
+20056;234;151;134;land;false;urban;1
 20057;234;152;134;land;false;plains;1
 20058;234;153;134;land;false;forest;1
 20059;234;154;134;land;false;plains;1
@@ -20561,7 +20561,7 @@
 20560;250;119;150;land;false;plains;1
 20561;250;120;150;land;false;plains;1
 20562;250;121;150;land;true;plains;1
-20563;250;122;150;land;true;forest;1
+20563;250;122;150;land;false;forest;1
 20564;250;123;150;land;false;forest;1
 20565;250;124;150;land;false;urban;1
 20566;250;125;150;land;false;plains;1

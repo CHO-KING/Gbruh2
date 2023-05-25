@@ -19,7 +19,7 @@ state={
             13650 10
         }
     }
-	manpower=217369
+	manpower=183367
 	buildings_max_level_factor=1.000
 	state_category=large_town
 	local_supplies=0.000

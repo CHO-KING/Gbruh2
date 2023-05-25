@@ -11,11 +11,12 @@ state={
 	history={
 		owner = AUS
 		add_core_of = POL
+		add_claim_by = CZE
 		buildings = {
 			infrastructure = 3
 		}
         victory_points = {
-            12818 10
+            12818 10 #Bielitz
         }
   	}
 	manpower=183054

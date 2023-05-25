@@ -3,7 +3,7 @@ state={
 	id=2798
 	name="STATE_2798"
 	provinces={
-		1435 17925 
+		1435 7664 17925 
 	}
 	history={
 		owner = SER
@@ -13,7 +13,7 @@ state={
 
 		}
 		victory_points = {
-			1435 1
+			1435 20
 		}
 		 
 	}
