@@ -1216,7 +1216,7 @@ focus_tree = {
 		}
 		
 		completion_reward = {
-			1749 = {
+			265 = {
 				add_dynamic_modifier = { modifier = tula_arms }
 			}
 		}

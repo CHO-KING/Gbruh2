@@ -410,6 +410,10 @@ mobilization = {
 		fire_only_once = yes
 
 		cost = 0
+		
+		ai_will_do = {
+			base = 100
+		}
 
 		complete_effect = {
 			activate_mission = BUL_mobilise_north
@@ -706,6 +710,10 @@ mobilization = {
 				}
 				has_war_with = TUR
 			}
+		}
+		
+		ai_will_do = {
+			base = 100
 		}
 
 		fire_only_once = yes
