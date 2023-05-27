@@ -2,19 +2,18 @@ state={
 	id=888
 	name="STATE_888"
 	provinces={
-		3622 4463 
+		17206 
 	}
 	history = {
 		owner = TUR
-		add_core_of = ALB
 		add_core_of = SER
-		add_claim_by = BUL
+		add_core_of = BUL
 		buildings = {
 			infrastructure = 1
 		}
 		 
 	}
-	manpower=56871
+	manpower=6042
 	state_category=pastoral
 	buildings_max_level_factor=1.000
 }

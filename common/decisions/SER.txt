@@ -328,6 +328,7 @@ balkan_wars = {
 				transfer_state = 805
 				transfer_state = 888
 				transfer_state = 873
+				transfer_state = 2805
 			}
 			if = {
 				limit = {

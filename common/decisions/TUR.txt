@@ -631,6 +631,7 @@ balkan_wars = {
 			}
 			GRE = {
 				transfer_state = 1542
+				transfer_state = 2000
 				transfer_state = 1543
 				transfer_state = 995
 				transfer_state = 2001
@@ -679,7 +680,6 @@ balkan_wars = {
 				transfer_state = 1548
 				transfer_state = 929
 				transfer_state = 1549
-				transfer_state = 2000
 				transfer_state = 905
 				transfer_state = 1531
 				transfer_state = 1532

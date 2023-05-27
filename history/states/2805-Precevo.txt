@@ -5,9 +5,9 @@ state={
 
 	history={
 		owner = TUR
-		add_core_of = BUL
+		add_core_of = ALB
 		add_core_of = SER
-		add_claim_by = ALB
+		add_core_of = BUL
 		buildings = {
 			infrastructure = 2
 
@@ -16,9 +16,9 @@ state={
 	}
 
 	provinces={
-		14856 17206 
+		14856
 	}
-	manpower=12085
+	manpower=6043
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 	local_supplies=0.000
