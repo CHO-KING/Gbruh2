@@ -608,7 +608,6 @@ balkan_wars = {
 				transfer_state = 858
 				transfer_state = 1994
 				transfer_state = 873
-				transfer_state = 2243
 				transfer_state = 904
 				transfer_state = 1528
 				transfer_state = 959

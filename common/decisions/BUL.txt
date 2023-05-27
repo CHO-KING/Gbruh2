@@ -264,7 +264,8 @@ balkan_wars = {
 				division_template = "Reservists"
 			}
 			GRE = {
-				transfer_state = 2000
+				transfer_state = 1545
+				transfer_state = 969
 				transfer_state = 1546
 				transfer_state = 1549
 				transfer_state = 1548

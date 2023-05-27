@@ -323,6 +323,11 @@ balkan_wars = {
 				transfer_state = 904
 				transfer_state = 2796
 				transfer_state = 959
+				transfer_state = 846
+				transfer_state = 865
+				transfer_state = 805
+				transfer_state = 888
+				transfer_state = 873
 			}
 			if = {
 				limit = {
