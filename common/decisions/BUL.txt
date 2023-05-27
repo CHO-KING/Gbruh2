@@ -248,7 +248,6 @@ balkan_wars = {
 					transfer_state = 906
 					transfer_state = 2753
 					transfer_state = 1969
-					transfer_state = 2835
 					transfer_state = 2006
 				}
 			}
