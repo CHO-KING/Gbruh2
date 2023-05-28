@@ -4,6 +4,7 @@ state={
 	history={
 		owner = TUR
 		add_core_of = GRE
+		add_core_of = ALB
 		buildings = {
 			infrastructure = 2
 			20280 = { naval_base = 1 }

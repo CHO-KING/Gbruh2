@@ -5,7 +5,7 @@ state={
 
 	history={
 		owner = TUR
-		 
+		add_core_of = ALB
 		add_core_of = SER
 		buildings = {
 			infrastructure = 2
@@ -14,9 +14,6 @@ state={
 		
 		victory_points = {
 			20222 10 
-		}
-		victory_points = {
-			14848 5 
 		}
 
 	}

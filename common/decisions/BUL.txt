@@ -248,7 +248,6 @@ balkan_wars = {
 					transfer_state = 906
 					transfer_state = 2753
 					transfer_state = 1969
-					transfer_state = 2835
 					transfer_state = 2006
 				}
 			}
@@ -264,13 +263,15 @@ balkan_wars = {
 				division_template = "Reservists"
 			}
 			GRE = {
-				transfer_state = 2000
+				transfer_state = 1545
+				transfer_state = 969
 				transfer_state = 1546
 				transfer_state = 1549
 				transfer_state = 1548
 				transfer_state = 2840
 				transfer_state = 2016
 				transfer_state = 929
+				transfer_state = 2002
 				add_ideas = TUR_diplo_isolation
 				delete_unit = {
 					disband = no

@@ -68,7 +68,7 @@ units = {
 	
 	division= { 
 			name = "Divizia 3 Infanterie"
-			location = 5837 # Bucharest
+			location = 7492 # Tulcea
 			division_template="Infantry Division"
 			start_experience_factor=0.05
 			}
@@ -76,7 +76,7 @@ units = {
 	
 	division= { 
 			name = "Divizia 4 Infanterie"
-			location = 5837 # Bucharest
+			location = 14398 # Ploiesti
 			division_template="Infantry Division"
 			start_experience_factor=0.1
 			}
@@ -84,7 +84,7 @@ units = {
 	
 	division= { 
 			name = "Divizia 9 Infanterie"
-			location = 5837 # Bucharest
+			location = 4245
 			division_template="Infantry Division"
 			start_experience_factor=0.1
 			}
@@ -92,7 +92,7 @@ units = {
 	
 	division= { 
 			name = "1. Brigazi Calarasi"
-			location = 5837 # Bucharest
+			location = 1176
 			division_template="Infantry Division"
 			start_experience_factor=0.1
 			}
@@ -100,7 +100,7 @@ units = {
 	
 	division= { 
 			name = "2. Brigazi Calarasi"
-			location = 5837 # Bucharest
+			location = 14572 # Constanta
 			division_template="Infantry Division"
 			start_experience_factor=0.1
 			}
@@ -108,7 +108,7 @@ units = {
 	
 	division= { 
 			name = "Divizia 5 Infanterie"
-			location = 5837 # Bucharest
+			location = 14622 # Giurgiu
 			division_template="Infantry Division"
 			start_experience_factor=0.1
 			}
@@ -116,7 +116,7 @@ units = {
 	
 	division= { 
 			name = "Divizia 6 Infanterie"
-			location = 5837 # Bucharest
+			location = 20395 # Turnu
 			division_template="Infantry Division"
 			start_experience_factor=0.1
 			}
@@ -124,7 +124,7 @@ units = {
 	
 	division= { 
 			name = "Divizia 7 Infanterie"
-			location = 5837 # Bucharest
+			location = 20395 # Turnu
 			division_template="Infantry Division"
 			start_experience_factor=0.1
 			}
@@ -132,7 +132,7 @@ units = {
 	
 	division= { 
 			name = "Divizia 8 Infanterie"
-			location = 5837 # Bucharest
+			location = 13609 # Botosani
 			division_template="Infantry Division"
 			start_experience_factor=0.05
 			}
@@ -140,7 +140,7 @@ units = {
 	
 	division= { 
 			name = "Divizia 1 Cavalerie"
-			location = 5837 # Bucharest
+			location = 13814 # Iasi
 			division_template="Infantry Division"
 			start_experience_factor=0.1
 			}
@@ -148,21 +148,21 @@ units = {
 	
 	division= { 
 			name = "Brigazi 4. Rosiori"
-			location = 5837 # Bucharest
+			location = 4554 # Braila
 			division_template="Infantry Division"
 			start_experience_factor=0.1
 			}
 
 	division= { 
 			name = "Divizia 20 Infanterie"
-			location = 5837 # Bucharest
+			location = 4554 # Braila
 			division_template="Infantry Division"
 			start_experience_factor=0.1
 			}
 
 	division= { 
 			name = "Divizia 21 Infanterie"
-			location = 5837 # Bucharest
+			location = 20439 # Galati
 			division_template="Infantry Division"
 			start_experience_factor=0.1
 			}

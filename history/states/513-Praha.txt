@@ -15,7 +15,10 @@ state={
 			industrial_complex = 5
 		}
         victory_points = {
-            20056 80 #Praha
+            20056 80 #Prag
+        }
+        victory_points = {
+            12646 5 #Königliche Weinberge
         }
     }
 	manpower=1035600

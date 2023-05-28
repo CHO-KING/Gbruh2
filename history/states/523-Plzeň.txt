@@ -18,7 +18,7 @@ state={
 			industrial_complex = 1
 		}
         victory_points = {
-            2925 20 #Pilsen
+            2925 15 #Pilsen
         }
     }
 	manpower=340100

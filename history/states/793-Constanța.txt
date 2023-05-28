@@ -5,6 +5,7 @@ state={
 	history = {
 		owner = ROM
 		add_core_of = ROM
+		add_claim_by = BUL
 		
 		 
 		buildings = {
@@ -13,8 +14,7 @@ state={
 			industrial_complex = 3
 			14572 = { naval_base = 8 }
 		}
-		victory_points = { 14572 20 }
-		victory_points = { 1176 2 }
+		victory_points = { 14572 15 }
 	}
 	provinces={
 		960 1176 3146 14572 14574 14598 20383 
