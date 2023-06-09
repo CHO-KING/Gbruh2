@@ -14,7 +14,7 @@ state={
 		add_claim_by = POL
 		buildings = {
 			infrastructure = 3
-			arms_factory = 3
+			arms_factory = 5
 			industrial_complex = 3
 		}
 		
