@@ -370,7 +370,7 @@ prospect_for_resources = {
 
 		highlight_states = {
 			highlight_state_targets = {
-				state = 1581
+				state = 2670
 			}
 		}
 
@@ -378,7 +378,7 @@ prospect_for_resources = {
 			OR = {
 				AND = {
 					has_tech = excavation1
-					1581 = {
+					2670 = {
 						NOT = {
 							has_state_flag = coal_developed_1
 						}
@@ -386,20 +386,20 @@ prospect_for_resources = {
 				}
 				AND = {
 					has_tech = excavation2
-					1581 = {
+					2670 = {
 						has_state_flag = coal_developed_1
 					}
 				}
 			}
 			num_of_civilian_factories_available_for_projects > 4
-			owns_state = 1581
-			controls_state = 1581
+			owns_state = 2670
+			controls_state = 2670
 		}
 
 		visible = {
-			owns_state = 1581
-			controls_state = 1581
-			1581 = {
+			owns_state = 2670
+			controls_state = 2670
+			2670 = {
 				NOT = {
 					has_state_flag = coal_developed_2
 				}
@@ -418,18 +418,18 @@ prospect_for_resources = {
 		remove_effect = {
 			if = {
 				limit = {
-					1581 = {
+					2670 = {
 						NOT = {
 							has_state_flag = coal_developed_1
 						}
 					}
 				}
-				1581 = { set_state_flag = coal_developed_1 }
+				2670 = { set_state_flag = coal_developed_1 }
 			}
 			else = {
-				1581 = { set_state_flag = coal_developed_2 }
+				2670 = { set_state_flag = coal_developed_2 }
 			}
-			1581 = {
+			2670 = {
 				add_resource = {
 					type = aluminium
 					amount = 10
@@ -443,7 +443,7 @@ prospect_for_resources = {
 
 		highlight_states = {
 			highlight_state_targets = {
-				state = 1581
+				state = 736
 			}
 		}
 

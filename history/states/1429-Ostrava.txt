@@ -16,7 +16,7 @@ state={
 			infrastructure = 4
 		}
         victory_points = {
-            12810 15 #Ostrau
+            12810 20 #Ostrau
         }
     }
 	manpower=446750

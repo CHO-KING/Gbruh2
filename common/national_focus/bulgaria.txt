@@ -334,7 +334,6 @@ focus_tree = {
 					has_global_flag = balkan_2_bul_deafeat
 				}
 				transfer_state = 1969
-				transfer_state = 2835
 				transfer_state = 2006
 			}
 			remove_ideas = TUR_diplo_isolation
