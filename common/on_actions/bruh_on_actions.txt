@@ -12,9 +12,14 @@ on_actions = {
 			}
 		}
 	}
-	on_daily_ENG = {
+	on_monthly_ENG = {
 		effect = {
 			if = {
+				limit = {
+					ENG = {
+						has_war_with = GER
+					}
+				}
 				set_variable = { global.blockade_var_count = 0 }
 				set_variable = { ENG.block_frame_count_1 = 0 }
 				set_variable = { ENG.block_frame_count_2 = 0 }
@@ -26,14 +31,12 @@ on_actions = {
 				set_variable = { GER.block_frame_count_3 = 0 }
 				set_variable = { GER.block_frame_count_4 = 0 }
 				set_variable = { GER.block_frame_count_5 = 0 }
-				limit = {
-					ENG = {
-						has_war_with = GER
-					}
-				}
 				if = {
 					limit = {
-						ships_in_area = { area = 236 size > 20 }
+						any_navy_leader = {
+							ships_in_area = { type = capital_ship area = 236 size > 4 }
+							ships_in_area = { type = screen_ship area = 236 size > 19 }
+						}
 					}
 					add_to_variable = { global.blockade_var_count = 1 }
 					set_variable = { ENG.block_frame_count_1 = 3 }
@@ -41,7 +44,8 @@ on_actions = {
 				}
 				if = {
 					limit = {
-						ships_in_area = { area = 240 size > 20 }
+						ships_in_area = { type = capital_ship area = 240 size > 4 }
+						ships_in_area = { type = screen_ship area = 240 size > 19 }
 					}
 					add_to_variable = { global.blockade_var_count = 1 }
 					set_variable = { ENG.block_frame_count_2 = 3 }
@@ -49,7 +53,8 @@ on_actions = {
 				}
 				if = {
 					limit = {
-						ships_in_area = { area = 209 size > 20 }
+						ships_in_area = { type = capital_ship area = 209 size > 4 }
+						ships_in_area = { type = screen_ship area = 209 size > 19 }
 					}
 					add_to_variable = { global.blockade_var_count = 1 }
 					set_variable = { ENG.block_frame_count_3 = 3 }
@@ -57,7 +62,8 @@ on_actions = {
 				}
 				if = {
 					limit = {
-						ships_in_area = { area = 238 size > 20 }
+						ships_in_area = { type = capital_ship area = 238 size > 4 }
+						ships_in_area = { type = screen_ship area = 238 size > 19 }
 					}
 					add_to_variable = { global.blockade_var_count = 2 }
 					set_variable = { ENG.block_frame_count_4 = 3 }
@@ -65,7 +71,8 @@ on_actions = {
 				}
 				if = {
 					limit = {
-						ships_in_area = { area = 239 size > 20 }
+						ships_in_area = { type = capital_ship area = 239 size > 4 }
+						ships_in_area = { type = screen_ship area = 239 size > 19 }
 					}
 					add_to_variable = { global.blockade_var_count = 2 }
 					set_variable = { ENG.block_frame_count_5 = 3 }
@@ -74,7 +81,7 @@ on_actions = {
 			}
 		}
 	}
-	on_daily_GER = {
+	on_monthly_GER = {
 		effect = {
 			if = {
 				set_variable = { global.blockade_var = global.blockade_var_count }
@@ -95,7 +102,8 @@ on_actions = {
 				}
 				if = {
 					limit = {
-						ships_in_area = { area = 236 size > 20 }
+						ships_in_area = { type = capital_ship area = 236 size > 4 }
+						ships_in_area = { type = screen_ship area = 236 size > 19 }
 					}
 					add_to_variable = { global.blockade_var = -1 }
 					if = {
@@ -112,7 +120,8 @@ on_actions = {
 				}
 				if = {
 					limit = {
-						ships_in_area = { area = 240 size > 20 }
+						ships_in_area = { type = capital_ship area = 240 size > 4 }
+						ships_in_area = { type = screen_ship area = 240 size > 19 }
 					}
 					add_to_variable = { global.blockade_var = -1 }
 					if = {
@@ -129,7 +138,8 @@ on_actions = {
 				}
 				if = {
 					limit = {
-						ships_in_area = { area = 209 size > 20 }
+						ships_in_area = { type = capital_ship area = 209 size > 4 }
+						ships_in_area = { type = screen_ship area = 209 size > 19 }
 					}
 					add_to_variable = { global.blockade_var = -1 }
 					if = {
@@ -146,7 +156,8 @@ on_actions = {
 				}
 				if = {
 					limit = {
-						ships_in_area = { area = 238 size > 20 }
+						ships_in_area = { type = capital_ship area = 238 size > 4 }
+						ships_in_area = { type = screen_ship area = 238 size > 19 }
 					}
 					add_to_variable = { global.blockade_var = -2 }
 					if = {
@@ -163,7 +174,8 @@ on_actions = {
 				}
 				if = {
 					limit = {
-						ships_in_area = { area = 239 size > 20 }
+						ships_in_area = { type = capital_ship area = 239 size > 4 }
+						ships_in_area = { type = screen_ship area = 239 size > 19 }
 					}
 					add_to_variable = { global.blockade_var = -2 }
 					if = {
@@ -184,7 +196,7 @@ on_actions = {
 				}
 				if = {
 					limit = {
-						check_variable = { global.blockade_total > 999 }
+						check_variable = { global.blockade_total > 79 }
 					}
 					set_variable = { global.blockade_total = 0 }
 					if = {
@@ -200,7 +212,7 @@ on_actions = {
 					limit = {
 						check_variable = { global.blockade_total < 0 }
 					}
-					set_variable = { global.blockade_total = 999 }
+					set_variable = { global.blockade_total = 79 }
 					blockade_decrease_effect = yes
 				}
 			}

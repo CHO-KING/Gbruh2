@@ -268,7 +268,7 @@ ideas={
 		}
 		
 		RUS_economic_reforms = {
-			picture = spr_appropriate_church_riches
+			picture = SPR_appropriate_church_riches
 			modifier = {
 				consumer_goods_factor = 0.05
 				political_power_cost = 0.2

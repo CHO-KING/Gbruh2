@@ -368,7 +368,7 @@ ideas = {
 			picture = hol_caved_to_the_british
 
 			modifier = {
-				weekly_convoys_war_support = -0.002
+				weekly_convoys_war_support = -0.003
 			}
 		}
 
@@ -383,7 +383,7 @@ ideas = {
 			picture = hol_caved_to_the_british
 
 			modifier = {
-				weekly_convoys_war_support = -0.003
+				weekly_convoys_war_support = -0.004
 			}
 		}
 
@@ -398,7 +398,7 @@ ideas = {
 			picture = hol_caved_to_the_british
 
 			modifier = {
-				weekly_convoys_war_support = -0.003
+				weekly_convoys_war_support = -0.005
 			}
 		}
 
@@ -413,7 +413,7 @@ ideas = {
 			picture = hol_caved_to_the_british
 
 			modifier = {
-				weekly_convoys_war_support = -0.004
+				weekly_convoys_war_support = -0.006
 			}
 		}
 
@@ -428,7 +428,7 @@ ideas = {
 			picture = hol_caved_to_the_british
 
 			modifier = {
-				weekly_convoys_war_support = -0.004
+				weekly_convoys_war_support = -0.007
 			}
 		}
 
@@ -443,7 +443,7 @@ ideas = {
 			picture = hol_caved_to_the_british
 
 			modifier = {
-				weekly_convoys_war_support = -0.005
+				weekly_convoys_war_support = -0.008
 			}
 		}
 
@@ -458,7 +458,7 @@ ideas = {
 			picture = hol_caved_to_the_british
 
 			modifier = {
-				weekly_convoys_war_support = -0.005
+				weekly_convoys_war_support = -0.009
 			}
 		}
 
@@ -473,7 +473,7 @@ ideas = {
 			picture = hol_caved_to_the_british
 
 			modifier = {
-				weekly_convoys_war_support = -0.006
+				weekly_convoys_war_support = -0.01
 			}
 		}
 
@@ -488,7 +488,7 @@ ideas = {
 			picture = hol_caved_to_the_british
 
 			modifier = {
-				weekly_convoys_war_support = -0.006
+				weekly_convoys_war_support = -0.012
 			}
 		}
 
