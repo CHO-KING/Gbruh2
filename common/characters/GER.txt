@@ -14,7 +14,7 @@ characters={
 		}
 	}
 	GER_von_falkenhayn_erich={
-		name="von Falkenhayn Erich"
+		name="Erich von Falkenhayn"
 		portraits={
 			army={
 				large="gfx/leaders/GER/portrait_falkenhayen.dds"
@@ -82,7 +82,7 @@ characters={
 		}
 	}
 	GER_von_kluck={
-		name="von Kluck"
+		name="Alexander von Kluck"
 		portraits={
 			army={
 				large="gfx/leaders/GER/portrait_von_cluck.dds"
@@ -99,7 +99,7 @@ characters={
 		}
 	}
 	GER_von_hutier={
-		name="von Hutier"
+		name="Oskar von Hutier"
 		portraits={
 			army={
 				large="gfx/leaders/GER/portrait_von_hutier.dds"
@@ -150,7 +150,7 @@ characters={
 		}
 	}
 	GER_von_hindenburg={
-		name="von Hindenburg"
+		name="Paul von Hindenburg"
 		portraits={
 			army={
 				large="gfx/leaders/GER/portrait_hindenburg.dds"
@@ -167,7 +167,7 @@ characters={
 		}
 	}
 	GER_von_mackensen={
-		name="von Mackensen"
+		name="August von Mackensen"
 		portraits={
 			army={
 				large="gfx/leaders/GER/portrait_mackensen.dds"
@@ -201,7 +201,7 @@ characters={
 		}
 	}
 	GER_bruchmuller={
-		name="Georg Bruchmuller"
+		name="Georg Bruchmüller"
 		portraits={
 			army={
 				large="gfx/leaders/GER/portrait_bruchmuller.dds"
