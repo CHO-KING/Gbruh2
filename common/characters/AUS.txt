@@ -1,6 +1,6 @@
 characters={
 	AUS_franz_joseph_i={
-		name="Franz Joseph I"
+		name="Franz Joseph"
 		portraits={
 			civilian={
 				large="gfx/leaders/AUS/portrait_franz_josef.dds"
@@ -14,7 +14,7 @@ characters={
 		}
 	}
 	AUS_karl_i={
-		name="Karl I"
+		name="Karl"
 		portraits={
 			civilian={
 				large="gfx/leaders/AUS/portrait_karl.dds"
@@ -62,7 +62,7 @@ characters={
 		}
 	}
 	AUS_stogersteiner_von_steinstatten={
-		name="Stöger-Steiner von Steinstätten"
+		name="Rudolf Stöger-Steiner von Steinstätten"
 		portraits={
 			army={
 				large="gfx/leaders/AUS/portrait_steinstatten.dds"
@@ -113,7 +113,7 @@ characters={
 		}
 	}
 	AUS_viktor_dankl_von_krasnik={
-		name="Viktor Dankl von Krasnik"
+		name="Viktor Dankl"
 		portraits={
 			army={
 				large="gfx/leaders/AUS/portrait_von_krasnik.dds"
@@ -197,7 +197,7 @@ characters={
 		}
 	}
 	AUS_moritz={
-		name="Moritz Auffenberg"
+		name="Moritz von Auffenberg"
 		portraits={
 			army={
 				small="gfx/interface/ideas/idea_moritz.dds"

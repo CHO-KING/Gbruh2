@@ -16,9 +16,6 @@ state={
         victory_points = {
             6945 10 #Argenteuil
         }
-        victory_points = {
-            13124 2 #Pontoise
-        }
     }
 	manpower=350500
 	buildings_max_level_factor=1.000

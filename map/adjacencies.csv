@@ -195,11 +195,9 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13835;4744;impassable;-1;-1;-1;-1;-1;;Glarus-St Gallen
 13835;13884;impassable;-1;-1;-1;-1;-1;;St Gallen
 13819;20105;impassable;-1;-1;-1;-1;-1;;Zug-Schwyz
-997;15898;impassable;-1;-1;-1;-1;-1;;Briga
+14529;17972;impassable;-1;-1;-1;-1;-1;;Nice
 14582;3619;impassable;-1;-1;-1;-1;-1;;Nice-Alpes de Haute Provence
 20488;3619;impassable;-1;-1;-1;-1;-1;;Alpes de Haute Provence
-17972;15898;impassable;-1;-1;-1;-1;-1;;Nice-Briga
-1407;15898;impassable;-1;-1;-1;-1;-1;;Menton-Briga
 20529;16400;impassable;-1;-1;-1;-1;-1;;Sampeyre-Nice
 20529;14582;impassable;-1;-1;-1;-1;-1;;Sampeyre-Nice
 20488;396;impassable;-1;-1;-1;-1;-1;;Alpes de Haute Provence-Hautes Alpes

@@ -18,6 +18,9 @@ state={
 		victory_points = {
 			1405 2 #Złoczów
 		}
+		victory_points = {
+			4627 2 #Brody
+		}
   	}
 	manpower=232602
 	buildings_max_level_factor=1.000

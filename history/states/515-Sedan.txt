@@ -7,14 +7,14 @@ state={
 		add_core_of = FRA
 		
         victory_points = {
-            19864 2 #Sedan
+            20532 2 #Sedan
         }
 		buildings = {
 			infrastructure = 4
 		}
     }
 	provinces={
-		12754 19864 
+		19864 20532 
 	}
 	manpower=28860
 	buildings_max_level_factor=1.000

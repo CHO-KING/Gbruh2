@@ -15,10 +15,10 @@ state={
 			infrastructure = 3
 		}
         victory_points = {
-            12622 20 #Sosnowiec
+            12622 10 #Sosnowiec
         }
 		victory_points = {
-			12568 5 #Myszków
+			12558 15 #Bendzin
 		}
   	}
 	manpower=353400

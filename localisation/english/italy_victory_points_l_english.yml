@@ -41,21 +41,10 @@
         VICTORY_POINTS_14360:0 "Rovigo" #20k
         VICTORY_POINTS_14079:0 "Belluno" #20k
         VICTORY_POINTS_9279:0 "Pieve di Cadore"
-    #Trentino
-        VICTORY_POINTS_14112:0 "Trient" #50k
-        VICTORY_POINTS_14010:0 "Bozen" #20k
-        VICTORY_POINTS_5380:0 "Meran" #20k
     #Friuli
         VICTORY_POINTS_20015:0 "Udine" #50k
         VICTORY_POINTS_5701:0 "Pordenone" #20k
-        VICTORY_POINTS_20482:0 "Görz" #20k
         VICTORY_POINTS_5779:0 "Tolmezzo"
-    #Julian March
-        VICTORY_POINTS_7575:0 "Triest" #200k
-        VICTORY_POINTS_5331:0 "Pola" #50k
-        VICTORY_POINTS_14309:0 "Fiume" #50k
-        VICTORY_POINTS_14257:0 "Adelsberg" #10k
-    VICTORY_POINTS_14584:0 "Zara" #20k
     #Liguria
         VICTORY_POINTS_20022:0 "Genova" #500k
         VICTORY_POINTS_20021:0 "Savona" #50k
@@ -155,4 +144,4 @@
         VICTORY_POINTS_7275:0 "Olbia" #10k
         
  #Malta
-        VICTORY_POINTS_20535:0 "Il-Belt Valletta"
+        VICTORY_POINTS_20535:0 "Valletta"

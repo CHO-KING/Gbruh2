@@ -13,9 +13,6 @@ state={
 		victory_points = {
 			20004 5 #Narva
 		}
-		victory_points = {
-			2277 2 #Kohtla-Järve
-		}
 	}
 
 	provinces={

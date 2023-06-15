@@ -14,9 +14,7 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		victory_points = {
-			998 2 #Brody
-		}
+
 		victory_points = {
 			3385 2 #Dubno
 		}

@@ -11,9 +11,12 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
+		victory_points = {
+			11421 2 #Mława
+		}
   	}
 	manpower=272900
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = rural
 }
