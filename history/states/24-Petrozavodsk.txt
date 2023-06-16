@@ -6,17 +6,16 @@ state={
 	history={
 		owner = SOV
 		add_core_of = SOV
+		add_core_of = FIN
 
 		buildings = {
-			infrastructure = 3
-			19716 = { naval_base = 1 }
+			infrastructure = 2
 		}
-		victory_points = { 19716 20 }
-		victory_points = { 17908 2 }
+		victory_points = { 19716 2 }
 	}
 
 	provinces={
-		959 1864 3069 3261 3920 4162 6318 8211 9228 9825 9851 9871 16312 16452 16763 17113 17240 17325 17908 18142 18164 18637 18984 18991 19716 19726 
+		959 1864 3069 3261 3920 4162 4899 6318 8211 9228 9825 9851 9871 16020 16312 16452 16763 17094 17113 17240 17325 17908 18142 18164 18637 18984 18991 19716 19722 19726 
 	}
 	manpower=155000
 	buildings_max_level_factor=1.000
