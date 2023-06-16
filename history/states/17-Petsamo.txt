@@ -8,15 +8,8 @@ state={
 		add_core_of = SOV
 		add_core_of = FIN
 		buildings = {
-			infrastructure = 2
-			533 = {
-				naval_base = 1
-
-			}
-
+			infrastructure = 1
 		}
-		
-
 	}
 
 	provinces={

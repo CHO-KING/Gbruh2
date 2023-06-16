@@ -34,7 +34,7 @@
  ##The Soviet Union
   #Belarus
    VICTORY_POINTS_11069:0 "Minsk"
-   VICTORY_POINTS_11379:0 "Bobrujsk"
+   VICTORY_POINTS_11379:0 "Bobruisk"
    VICTORY_POINTS_9085:0 "Gomel"
    VICTORY_POINTS_11163:0 "Mogilev"
    VICTORY_POINTS_10730:0 "Vitebsk"
@@ -121,3 +121,4 @@
  VICTORY_POINTS_12048:0 "Slavutych"
  VICTORY_POINTS_9230:0 "Gorodnia"
  VICTORY_POINTS_12154:0 "Ovruch"
+  VICTORY_POINTS_12425:0 "Vladimir-Volynsk"

@@ -9,9 +9,8 @@ state={
 		owner = SOV
 		add_core_of = POL
 		buildings = {
-			infrastructure = 4
-			arms_factory = 2
-			industrial_complex = 1
+			infrastructure = 3
+			arms_factory = 1
 			11747 = {
 				bunker = 1
 			}

@@ -16,7 +16,7 @@ state={
 			}
 		}
         victory_points = {
-            6830 5
+            6830 10
         }
   	}
 	manpower=113862

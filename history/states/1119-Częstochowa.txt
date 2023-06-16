@@ -12,7 +12,7 @@ state={
 			infrastructure = 3
 		}
         victory_points = {
-            12429 20
+            12429 15
         }
   	}
 	manpower=299500

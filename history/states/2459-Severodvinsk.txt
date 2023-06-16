@@ -8,15 +8,7 @@ state={
 		add_core_of = SOV
 
 		buildings = {
-			infrastructure = 3
-			18923 = { naval_base = 1 }
-		}
-		
-		victory_points = {
-			18923 10 
-		}
-		victory_points = {
-			1618 2 
+			infrastructure = 2
 		}
 
 	}
@@ -26,6 +18,6 @@ state={
 	}
 	manpower=197807
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=pastoral
 	local_supplies=0.000
 }

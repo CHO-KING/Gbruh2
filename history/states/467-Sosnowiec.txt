@@ -15,14 +15,14 @@ state={
 			infrastructure = 3
 		}
         victory_points = {
-            12622 10 #Sosnowiec
+            12622 20 #Sosnowiec
         }
 		victory_points = {
-			12558 15 #Bendzin
+			12558 5 #Bendzin
 		}
   	}
 	manpower=353400
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = large_city
 }

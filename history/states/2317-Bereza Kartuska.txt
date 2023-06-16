@@ -7,7 +7,7 @@ state={
 	}
 	history={
 		owner = SOV
-		add_core_of = POL
+		add_claim_by = POL
 		victory_points = {
 			11526 2 #Iwacewicze
 		}

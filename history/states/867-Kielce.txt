@@ -17,7 +17,7 @@ state={
 			industrial_complex = 1
 		}
         victory_points = {
-            19912 20 #Kielce
+            19912 10 #Kielce
         }
 		victory_points = {
 			7907 2 #Końskie
@@ -26,5 +26,5 @@ state={
 	manpower=244100
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = large_town
+	state_category = town
 }

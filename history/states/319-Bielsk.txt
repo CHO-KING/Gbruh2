@@ -7,12 +7,13 @@ state={
 	}
 	history={
 		owner = SOV
+		add_core_of = SOV
 		add_core_of = POL
 		victory_points = {
-			2542 2 #Bielsk Podlaski
+			2542 2 #Belsk
 		}
 		victory_points = {
-			11514 2 #Hajnówka
+			11514 2 #Gaynovka
 		}
 		buildings = {
 			infrastructure = 3
