@@ -26,3 +26,12 @@
  GER_fascism_party_long:0 "Alldeutscher Verband"
  GER_communism_party:0 "Spartakisten"
  GER_communism_party_long:0 "Spartakusbund"
+ FIN_neutrality_party:1 "NSP"
+ FIN_neutrality_party_long:1 "Nuorsuomalainen Puolue"
+ FIN_democratic_party:1 "Kok"
+ FIN_democratic_party_long:1 "Kansallinen Kokoomus"
+ FIN_fascism_party:0 "IKL"
+ FIN_fascism_party_long:0 "Isämaallinnen Kansanliike"
+ FIN_communism_party:0 "SDP"
+ FIN_communism_party_long:0 "Suomen sosialidemokraattinen puolue"
+
