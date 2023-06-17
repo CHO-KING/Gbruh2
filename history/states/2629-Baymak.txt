@@ -10,10 +10,8 @@ state={
 		add_core_of = SOV
 
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 		}
-		
-		victory_points = { 11631 2 }
 	}
 	manpower=19576
 	state_category=pastoral
