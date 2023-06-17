@@ -12,9 +12,6 @@ state={
 		buildings = {
 			infrastructure = 2
 		}
-		buildings = {
-			infrastructure = 3
-		}
   	}
 	manpower=43936
 	state_category=pastoral

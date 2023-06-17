@@ -8,9 +8,9 @@ state={
 		add_core_of = SOV
 		add_claim_by = UKR
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 		}
-		victory_points = { 11861 10 }
+		victory_points = { 11861 5 }
 	}
 
 	provinces={

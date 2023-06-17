@@ -6,6 +6,7 @@ state={
 	history={
 		owner = SOV
 		add_core_of = SOV
+		add_core_of = FIN
 
 		buildings = {
 			infrastructure = 3
@@ -14,7 +15,7 @@ state={
 		}
 
 		victory_points = {
-			17400 2
+			17400 2 #Shlisselburg
 		}
 	}
 
@@ -23,6 +24,6 @@ state={
 	}
 	manpower=520842
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 	local_supplies=0.000
 }

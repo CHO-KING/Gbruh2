@@ -7,7 +7,7 @@ state={
 		add_core_of = SOV
 		add_core_of = UKR
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 		}
 	}
 	provinces={
