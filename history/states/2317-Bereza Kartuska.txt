@@ -7,10 +7,7 @@ state={
 	}
 	history={
 		owner = SOV
-		add_core_of = POL
-		victory_points = {
-			11526 2 #Iwacewicze
-		}
+		add_claim_by = POL
 		buildings = {
 			infrastructure = 2
 		}

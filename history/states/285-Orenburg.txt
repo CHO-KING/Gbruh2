@@ -12,11 +12,10 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		victory_points = { 5473 40 }
-		victory_points = { 12110 2 }
+		victory_points = { 5473 20 }
 	}
 	manpower=739720
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=large_town
 	local_supplies=0.000
 }

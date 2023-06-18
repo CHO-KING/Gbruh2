@@ -15,16 +15,9 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-
-        	victory_points = {
-       	    	19941 10 #Mołodeczno
-       		}
-			victory_points = {
-				20002 2 #Postawy
-			}
   	}
 	manpower=206800
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = large_town
+	state_category = rural
 }

@@ -7,14 +7,11 @@ state={
 	}
 	history={
 		owner = SOV
-		add_core_of = POL
+		add_claim_by = POL
 		buildings = {
 			infrastructure = 2
 		}
 		add_core_of = SOV
-		buildings = {
-			infrastructure = 3
-		}
   	}
 	manpower=67300
 	buildings_max_level_factor=1.000

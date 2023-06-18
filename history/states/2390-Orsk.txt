@@ -13,23 +13,11 @@ state={
 		add_core_of = SOV
 
 		buildings = {
-			infrastructure = 3
-		}
-		victory_points = {
-			3599 10
-		}
-		victory_points = {
-			12012 2
-		}
-		victory_points = {
-			12150 2
-		}
-		victory_points = {
-			2236 2
+			infrastructure = 2
 		}
 	}
-	manpower=403216
+	manpower=303216
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 	local_supplies=0.000
 }

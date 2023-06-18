@@ -7,18 +7,18 @@ state={
 	}
 	history={
 		owner = SOV
-		add_core_of = POL
-		add_core_of = UKR
 		add_core_of = SOV
+		add_core_of = UKR
+		add_claim_by = POL
 		buildings = {
 			infrastructure = 3
 		}
-    	victory_points = {
-   	    	2165 5
-   		}
+		victory_points = {
+			12425 2 #Vladirmir
+		}
   	}
 	manpower=242500
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=rural
 	local_supplies=0.000
 }

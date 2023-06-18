@@ -5,7 +5,7 @@ state={
 
 	history={
 		owner = SOV
-		add_core_of = POL
+		add_claim_by = POL
 		victory_points = {
 			11238 2 #Nowogródek
 		}
@@ -28,6 +28,6 @@ state={
 	}
 	manpower=276000
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 	local_supplies=0.000
 }

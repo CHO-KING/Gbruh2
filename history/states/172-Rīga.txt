@@ -15,7 +15,7 @@ state={
 		}
 		
 		victory_points = {
-			19998 40 
+			19998 80 
 		}
 
 	}
@@ -25,6 +25,6 @@ state={
 	}
 	manpower=601689
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=metropolis
 	local_supplies=0.000
 }

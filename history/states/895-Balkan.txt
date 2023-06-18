@@ -8,16 +8,13 @@ state={
 	history = {
 		owner = SOV
 		add_core_of = SOV
-		
-		victory_points = { 15048 5 }
-		victory_points = { 7680 5 }
 		buildings = {
 			infrastructure = 1
-			15048 = { naval_base = 2 }
 		}
 	}
-	manpower=76670
+	impassable=yes
+	manpower=6670
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=wasteland
 	local_supplies=0.000
 }

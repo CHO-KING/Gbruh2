@@ -10,9 +10,8 @@ state={
 		add_core_of = SOV
 		
 		buildings = {
-			infrastructure = 2
+			infrastructure = 1
 		}
-		victory_points = { 2306 2 }
 	}
 	manpower=49108
 	buildings_max_level_factor=1.000

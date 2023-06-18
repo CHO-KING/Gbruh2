@@ -15,7 +15,7 @@ state={
 		}
 		add_core_of = FIN
 		victory_points = {
-			19664 5 
+			19664 20 
 		}
 
 	}
@@ -25,6 +25,6 @@ state={
 	}
 	manpower=238980
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=city
 	local_supplies=0.000
 }

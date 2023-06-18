@@ -5,17 +5,11 @@ state={
 
 	history={
 		owner = SOV
+		add_core_of = SOV
 		add_core_of = FIN
 		buildings = {
-			infrastructure = 2
-			533 = {
-				naval_base = 1
-
-			}
-
+			infrastructure = 1
 		}
-		
-
 	}
 
 	provinces={
@@ -23,6 +17,6 @@ state={
 	}
 	manpower=118000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 	local_supplies=0.000
 }

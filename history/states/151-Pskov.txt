@@ -11,7 +11,7 @@ state={
 			infrastructure = 3
 		}
 		victory_points = {
-			19089 20
+			19089 5
 		}
 
 	}
@@ -21,6 +21,6 @@ state={
 	}
 	manpower=302977
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 	local_supplies=0.000
 }

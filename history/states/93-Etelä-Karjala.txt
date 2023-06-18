@@ -11,10 +11,7 @@ state={
 		}
 		add_core_of = FIN
 		victory_points = {
-			19712 5 
-		}
-		victory_points = {
-			9900 2 
+			19712 2 
 		}
 
 	}

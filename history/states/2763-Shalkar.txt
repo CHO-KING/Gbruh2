@@ -10,12 +10,12 @@ state={
 		add_core_of = SOV
 		
 		buildings = {
-			infrastructure = 2
+			infrastructure = 1
 		}
-		victory_points = { 53 2 }
 	}
+	impassable=yes
 	manpower=21294
-	state_category=pastoral
+	state_category=wasteland
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

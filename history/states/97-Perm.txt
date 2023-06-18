@@ -17,17 +17,14 @@ state={
 		}
 		
 		victory_points = {
-			10219 40
+			10219 15
 		}
 		victory_points = {
-			18053 5
-		}
-		victory_points = {
-			1121 2
+			18053 2
 		}
 	}
 	manpower=872740
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=town
 	local_supplies=0.000
 }

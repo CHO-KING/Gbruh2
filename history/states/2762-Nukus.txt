@@ -8,16 +8,13 @@ state={
 	history = {
 		owner = SOV
 		add_core_of = SOV
-		
-		
-		
-		victory_points = { 9375 20 }
 		buildings = {
 			infrastructure = 1
 		}
 	}
+	impassable=yes
 	manpower=240381
-	state_category=large_town
+	state_category=wasteland
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

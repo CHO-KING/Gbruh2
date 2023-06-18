@@ -7,14 +7,14 @@ state={
 	}
 	history={
 		owner = SOV
-		add_core_of = POL
+		add_core_of = SOV
+		add_core_of = UKR
+		add_claim_by = POL
 		victory_points = {
 			6917 2 #Sarny
 		}
-		add_core_of = UKR
-		add_core_of = SOV
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 		}
   	}
 	manpower=66609

@@ -9,8 +9,7 @@ state={
 			infrastructure = 2
 			19662 = { naval_base = 4 }
 		}
-		victory_points = { 19662 10 }
-		victory_points = { 9940 2 }
+		victory_points = { 19662 15 }
 	}
 	provinces={
 		461 1426 5427 6206 6871 8393 9909 9940 9955 19654 19655 19656 19662 19663 
@@ -18,5 +17,5 @@ state={
 	manpower=321090
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = large_town
 }
