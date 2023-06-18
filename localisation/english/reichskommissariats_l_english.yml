@@ -1,6 +1,6 @@
 ﻿l_english:
  RKN:0 "Reichskommissariat Norwegen"
- RKN:0 "the Reichskommissariat Norwegen"
+ RKN_DEF:0 "the Reichskommissariat Norwegen"
  RKN_ADJ:0 "Norwegian"
  RKH:0 "Reichskommissariat Niederlande"
  RKH_DEF:0 "the Reichskommissariat Niederlande"
