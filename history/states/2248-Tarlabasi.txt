@@ -2,7 +2,7 @@ state={
 	id=2248
 	name="STATE_2248"
 	history = {
-		owner = RUS
+		owner = SOV
 		add_core_of = TUR
 		
 		
