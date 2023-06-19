@@ -6,6 +6,7 @@ state={
 		add_core_of = SOV
 		
 		buildings = {
+			14926 = { naval_base = 1 }
 			infrastructure = 2
 		}
 		
