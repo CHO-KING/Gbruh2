@@ -3,7 +3,7 @@ state={
 	id=778
 	name="STATE_778"
 	provinces={
-		7896 8311 9524 16813 16978 17106 
+		7896 8311 9524 16813 16978 
 	}
 	history = {
 		owner = SOV
