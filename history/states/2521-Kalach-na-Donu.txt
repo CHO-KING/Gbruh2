@@ -9,11 +9,10 @@ state={
 		owner = SOV
 
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 		}
 		add_core_of = SOV
 		
-		victory_points = { 13180 2 }
 	}
 	manpower=140436
 	state_category=rural
