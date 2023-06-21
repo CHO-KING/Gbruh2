@@ -9,7 +9,7 @@ state={
 		victory_points = { 14363 10 }
 		owner = SOV
 		add_core_of = SOV
-
+		add_claim_by = UKR
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1

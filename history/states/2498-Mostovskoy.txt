@@ -7,12 +7,12 @@ state={
 	}
 	history = {
 		owner = SOV
-
+		add_claim_by = UKR
 		buildings = {
 			infrastructure = 3
 		}
 		add_core_of = SOV
-		
+		add_claim_by = UKR
 	}
 	manpower=42042
 	state_category=pastoral

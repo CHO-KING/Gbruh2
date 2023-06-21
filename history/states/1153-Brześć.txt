@@ -6,7 +6,7 @@ state={
 		aluminium = 20
 	}
 	provinces={
-		462 5974 6146 8616 9269 11748 11946 12015 19923 
+		462 5974 6146 8616 9269 11946 12015 19923 
 	}
 	history={
 		owner = SOV
@@ -17,9 +17,6 @@ state={
 		buildings = {
 			infrastructure = 3
 			19923 = {
-				bunker = 1
-			}
-			11748 = {
 				bunker = 1
 			}
 		}
