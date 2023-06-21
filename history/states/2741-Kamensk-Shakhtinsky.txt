@@ -5,7 +5,7 @@ state={
 		9441 13383 13479 13510 15825 
 	}
 	history={
-		victory_points = { 13383 5 }
+		victory_points = { 13383 2 }
 		owner = SOV
 
 		buildings = {
@@ -16,7 +16,7 @@ state={
 
 	}
 	manpower=162878
-	state_category=town
+	state_category=rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }
