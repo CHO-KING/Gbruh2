@@ -13,6 +13,8 @@ set_popularities = {
     neutrality = 44
 }
 
+recruit_character = UKR_skoropadsky
+
 set_research_slots = 3
 set_stability = 1.0
 set_war_support = 1.0
@@ -57,4 +59,3 @@ set_technology = {
 	engines_3 = 1
 	mtg_transport = 1
 }
-
