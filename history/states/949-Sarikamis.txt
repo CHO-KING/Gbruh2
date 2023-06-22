@@ -3,7 +3,7 @@ state={
 	id=949
 	name="STATE_949"
 	history = {
-		owner = TUR
+		owner = SOV
 		add_core_of = TUR
 		
 		
