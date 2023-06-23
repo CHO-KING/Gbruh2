@@ -6,14 +6,14 @@ state={
 		5293 6852 13765 13832 13888 15855 
 	}
 	history = {
-		victory_points = { 13888 20 }
-		victory_points = { 15855 1 }
+		victory_points = { 13888 40 }
 		owner = SOV
 		add_core_of = SOV
 		add_core_of = UKR
 		 
 		buildings = {
 			infrastructure = 3
+			13888 = { naval_base = 5 }
 		}
 	}
 	manpower=405562

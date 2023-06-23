@@ -10,9 +10,6 @@ state={
 		add_core_of = SOV
 		add_core_of = UKR
 		add_claim_by = POL
-		victory_points = {
-			6615 2 #Kostopol
-		}
 		buildings = {
 			infrastructure = 3
 		}

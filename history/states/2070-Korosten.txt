@@ -3,13 +3,12 @@ state={
 	id=2070
 	name="STATE_2070"
 	history={
-		victory_points = { 12308 5 }
-		victory_points = { 8854 2 }
+		victory_points = { 12308 2 }
 		owner = SOV
 		add_core_of = SOV
 		add_core_of = UKR
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 		}
 	}
 	provinces={
