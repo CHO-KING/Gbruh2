@@ -3,12 +3,12 @@ state={
 	id=2258
 	name="STATE_2258"
 	provinces={
-		3345 11937 11973 11977 
+		11937 11973 11977 
 	}
 	history={
 		owner = SOV
 		add_core_of = SOV
-		add_core_of = UKR
+		add_claim_by = UKR
 		add_claim_by = POL
 		
 		buildings = {

@@ -5,7 +5,7 @@ state={
 
 	history={
 		victory_points = {
-			17588 10 
+			17588 5 
 		}
 		owner = SOV
 		add_core_of = SOV
@@ -24,6 +24,6 @@ state={
 	}
 	manpower=146356
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 	local_supplies=0.000
 }

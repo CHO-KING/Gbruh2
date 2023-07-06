@@ -4,20 +4,14 @@ state={
 	name="STATE_642"
 
 	history={
-		victory_points = {
-			13931 5 
-		}
-		victory_points = {
-			8105 2 
-		}
 		owner = SOV
 
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 
 		}
 		add_core_of = SOV
-		
+		add_claim_by = UKR
 
 	}
 
@@ -26,6 +20,6 @@ state={
 	}
 	manpower=218642
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=pastoral
 	local_supplies=0.000
 }

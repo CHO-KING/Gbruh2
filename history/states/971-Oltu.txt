@@ -3,7 +3,7 @@ state={
 	id=971
 	name="STATE_971"
 	history = {
-		owner = TUR
+		owner = SOV
 		add_core_of = TUR
 		
 		
@@ -13,7 +13,7 @@ state={
 		}
 	}
 	provinces={
-		2188 15091 21530 21633 18588
+		2188 15091 18588 21530 21633
 	}
 	manpower=14712
 	buildings_max_level_factor=1.000

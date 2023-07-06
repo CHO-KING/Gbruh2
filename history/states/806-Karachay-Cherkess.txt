@@ -8,12 +8,9 @@ state={
 		add_core_of = SOV
 
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 
 		}
-		
-		
-		
 
 	}
 
@@ -22,6 +19,6 @@ state={
 	}
 	manpower=137735
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=pastoral
 	local_supplies=0.000
 }
