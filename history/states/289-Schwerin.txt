@@ -10,9 +10,11 @@ state={
 		add_core_of = GER
 		buildings = {
 			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 1
 		}
 		
-		victory_points = { 11159 5 }
+		victory_points = { 11159 5 } #Schwerin
 	}
 	manpower=148500
 	buildings_max_level_factor=1.000

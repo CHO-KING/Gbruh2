@@ -10,7 +10,7 @@ state={
 		
 		
 		victory_points = {
-			9655 5 #Stargard in Pommern
+			9655 2 #Stargard
 		}
     }
 	provinces={
