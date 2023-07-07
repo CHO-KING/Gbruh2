@@ -8,7 +8,10 @@ state={
 	history={
 	    owner = GER
         victory_points = {
-            20551 10 #Landsberg an der Warthe
+            20551 5 #Landsberg an der Warthe
+        }
+        victory_points = {
+            11580 2 #Cüstrin
         }
 		add_core_of = GER
 		buildings = {
@@ -19,6 +22,6 @@ state={
     }
 	manpower=243619
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=rural
 	local_supplies=0.000
 }
