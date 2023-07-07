@@ -13,7 +13,10 @@ state={
 		}
 		
 		victory_points = {
-			7035 5 #Zwickau
+			7035 15 #Zwickau
+		}
+		victory_points = {
+			12504 2 #Crimmitschau
 		}
     }
 	manpower=450977

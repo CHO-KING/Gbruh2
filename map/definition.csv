@@ -7033,7 +7033,7 @@
 7032;139;229;145;land;false;plains;1
 7033;161;150;212;land;false;plains;6
 7034;105;193;243;land;false;plains;1
-7035;128;252;168;land;false;plains;1
+7035;128;252;168;land;false;urban;1
 7036;159;243;200;land;false;plains;1
 7037;147;196;231;land;false;plains;1
 7038;221;223;114;land;false;plains;1
@@ -8039,7 +8039,7 @@
 8038;213;123;179;land;true;plains;1
 8039;158;206;166;land;false;plains;1
 8040;136;156;243;land;false;desert;6
-8041;67;252;247;land;false;hills;1
+8041;67;252;247;land;false;urban;1
 8042;184;247;169;land;true;hills;1
 8043;227;241;102;land;false;plains;1
 8044;133;243;219;land;false;plains;1

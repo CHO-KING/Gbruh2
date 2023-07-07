@@ -12,7 +12,7 @@ state={
 		}
 		
         victory_points = {
-            6951 2 #Freiberg
+            6951 5 #Freiberg
         }
     }
 	manpower=178594

@@ -12,10 +12,17 @@ state={
 			infrastructure = 4
 			industrial_complex = 1
 		}
+
+        victory_points = {
+            12321 2 #Mittelweida
+        }
+        victory_points = {
+            12216 2 #Döbeln
+        }
 		
     }
 	manpower=313373
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = town
 }

@@ -13,7 +13,10 @@ state={
 		}
 		
 		victory_points = {
-			8041 5 #Plauen
+			8041 25 #Plauen
+		}
+		victory_points = {
+			20613 2 #Reichenbach
 		}
     }
 	manpower=500335
