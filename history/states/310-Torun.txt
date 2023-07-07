@@ -14,7 +14,7 @@ state={
 		add_core_of = POL
 
         victory_points = {
-            11407 20
+            11407 5
         }
         victory_points = {
             19921 5
@@ -26,6 +26,6 @@ state={
 	}
 	manpower=201700
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 	local_supplies=0.000
 }

@@ -6,6 +6,13 @@ state={
 		add_core_of = GER
 		buildings = {
 			infrastructure = 3
+			20573 = {
+				bunker = 1
+			}
+		}
+		
+		victory_points = {
+			20573 2 #Cüstrin
 		}
 		
 		

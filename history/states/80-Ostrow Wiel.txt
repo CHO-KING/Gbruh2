@@ -8,9 +8,6 @@ state={
 	history={
 		owner = GER
 		add_core_of = GER
-        victory_points = {
-            1781 5 #Ostrów Wielkopolski
-        }
 		buildings = {
 			infrastructure = 3
 		}
@@ -19,5 +16,5 @@ state={
 	manpower=254000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = rural
 }

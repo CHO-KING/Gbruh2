@@ -9,12 +9,6 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		
-		
-		
-		victory_points = {
-			20602 2 #Kreuzburg
-		}
     }
 	provinces={
 		6180 12322 20602 

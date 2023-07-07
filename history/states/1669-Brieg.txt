@@ -10,7 +10,7 @@ state={
 		
 		
 		victory_points = {
-			12313 2 #Ohlau
+			20599 2 #Brieg
 		}
     }
 	provinces={

@@ -13,14 +13,11 @@ state={
 		}
 		add_core_of = POL
         victory_points = {
-            11924 5 #Leszno
-        }
-        victory_points = {
-            8903 2 #Rawicz
+            11924 2 #Lissa
         }
   	}
 	manpower=145900
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = large_town
+	state_category = rural
 }
