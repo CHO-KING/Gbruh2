@@ -8,7 +8,10 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		
+
+		victory_points = {
+			12267 2 #Gotha
+		}
 		
     }
 	provinces={
@@ -16,6 +19,6 @@ state={
 	}
 	manpower=257456
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 	local_supplies=0.000
 }

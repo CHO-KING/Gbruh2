@@ -18,7 +18,7 @@ state={
 			19942 15 #Gleiwitz
 		}
 		victory_points = {
-			12567 20 #Beuthen
+			12567 15 #Beuthen
 		}
     }
 	provinces={
