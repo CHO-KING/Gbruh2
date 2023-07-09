@@ -6,15 +6,11 @@ state={
 		owner = GER
 		add_core_of = GER
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
-		
-		
+
 		victory_points = {
-			20774 5 #Bayreuth
-		}
-		victory_points = {
-			12687 2 #Kulmbach
+			20774 2 #Bayreuth
 		}
     }
 	provinces={

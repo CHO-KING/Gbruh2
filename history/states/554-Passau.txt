@@ -10,7 +10,7 @@ state={
 		}
 		
 		victory_points = {
-			4897 5 #Passau
+			4897 2 #Passau
 		}
     }
 	provinces={
@@ -19,5 +19,5 @@ state={
 	manpower=241306
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = large_town
+	state_category = rural
 }
