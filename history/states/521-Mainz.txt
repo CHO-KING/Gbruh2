@@ -15,7 +15,7 @@ state={
 		}
 		
 		victory_points = {
-			20729 10 #Mainz
+			20729 20 #Mainz
 		}
 		victory_points = {
 			12876 5 #Worms

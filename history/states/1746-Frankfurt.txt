@@ -15,9 +15,11 @@ state={
 		
 		
 		victory_points = {
-			12673 40 
+			12673 40 #Frankfurt
 		}
-
+		victory_points = {
+			20728 15 #Offenbach
+		}
 	}
 
 	provinces={
