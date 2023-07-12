@@ -7,9 +7,9 @@ state={
 		buildings = {
 			infrastructure = 4
 		}
-		
-		
-
+		victory_points = {
+            20705 2 #Wesel
+        }
     }
 	provinces={
 		20705 

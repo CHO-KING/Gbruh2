@@ -12,10 +12,12 @@ state={
 			industrial_complex = 1
 		}
 		
-		
+		victory_points = {
+			12369 5 #Mülheim
+		}		
 
 		victory_points = {
-			12413 5 #Troisdorf und Siegburg
+			12413 2 #Siegburg
 		}
 	}
 
@@ -24,6 +26,6 @@ state={
 	}
 	manpower=345512
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=large_town
 	local_supplies=0.000
 }

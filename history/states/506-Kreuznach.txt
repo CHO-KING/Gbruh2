@@ -10,10 +10,8 @@ state={
 			arms_factory = 2
 			industrial_complex = 1
 		}
-		
-		
         victory_points = {
-            7401 2 #Bad Kreuznach
+            8179 10 #Coblenz
         }
 
     }
@@ -23,5 +21,5 @@ state={
 	manpower=117611
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = large_town
+	state_category = town
 }

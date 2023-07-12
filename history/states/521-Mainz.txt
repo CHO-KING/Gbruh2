@@ -20,6 +20,12 @@ state={
 		victory_points = {
 			12876 5 #Worms
 		}
+		victory_points = {
+			7510 2 #Bingen
+		}
+		victory_points = {
+			20713 2 #Kreuznach
+		}
 
     }
 	manpower=251836

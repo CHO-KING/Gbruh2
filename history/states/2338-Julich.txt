@@ -10,7 +10,7 @@ state={
 		
 		
 		victory_points = {
-			12404 5 #Düren
+			12404 2 #Düren
 		}
 
     }

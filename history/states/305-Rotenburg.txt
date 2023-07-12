@@ -17,7 +17,7 @@ state={
 			4891 2 #Verden
 		}
     }
-	manpower=85464
+	manpower=96964
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 	state_category = rural

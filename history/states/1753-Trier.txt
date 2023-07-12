@@ -3,7 +3,7 @@ state={
 	id=1753
 	name="STATE_1753"
 	provinces={
-		1105 5991 12836 
+		1105 5991 12798 12836 
 	}
 	history={
 	    owner = GER
@@ -13,13 +13,14 @@ state={
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4
+			arms_factory = 2
 		}
 		
 		
 
     }
-	manpower=149817
+	manpower=189817
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 	local_supplies=0.000
 }

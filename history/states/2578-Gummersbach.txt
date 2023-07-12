@@ -10,11 +10,6 @@ state={
 		buildings = {
 			infrastructure = 4
 		}
-		
-		
-		victory_points = {
-			8947 2 #Gummersbach
-		}
 	}
 	manpower=59509
 	state_category=pastoral

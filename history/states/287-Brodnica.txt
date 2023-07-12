@@ -3,7 +3,7 @@ state={
 	id=287
 	name="STATE_287"
 	provinces={
-		2958 4274 5984 7733 11243 11314 
+		2958 4274 7733 11243 11314 
 	}
 	history={
 		owner = GER
@@ -13,7 +13,7 @@ state={
 			infrastructure = 3
 		}
   	}
-	manpower=147700
+	manpower=127700
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 	state_category = pastoral

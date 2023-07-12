@@ -3,7 +3,7 @@ state={
 	id=638
 	name="STATE_638"
 	provinces={
-		6613 13630 13679 
+		6613 13679 
 	}
 	history={
 		owner = FRA
@@ -13,9 +13,6 @@ state={
 			infrastructure = 4
 			6613 = {
 				bunker = 2
-			}
-			13630 = {
-				bunker = 1
 			}
 			13679 = {
 				bunker = 1

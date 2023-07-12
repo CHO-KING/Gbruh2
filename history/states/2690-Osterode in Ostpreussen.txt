@@ -11,7 +11,8 @@ state={
 			infrastructure = 3
 		}
 		
-		victory_points = { 11161 2 }
+		victory_points = { 11161 2 } #Osterode
+		victory_points = { 8528 1 } #Tannenberg
 	}
 
 	provinces={
