@@ -14,11 +14,14 @@ state={
 		}
 		
         victory_points = {
-            11372 10 #Oldenburg
+            11372 2 #Oldenburg
+        }
+        victory_points = {
+            8727 2 #Delmenhorst
         }
     }
 	manpower=226224
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = large_town
+	state_category = rural
 }

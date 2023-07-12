@@ -16,7 +16,10 @@ state={
 		
 		
         victory_points = {
-            11684 40
+            11684 40 #Hannover
+        }
+        victory_points = {
+            11757 10 #Linden
         }
     }
 	manpower=592356
