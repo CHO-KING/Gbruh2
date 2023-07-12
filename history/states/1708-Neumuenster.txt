@@ -14,7 +14,7 @@ state={
 		
 		
 		victory_points = {
-			8430 5 #Neumünster
+			8430 2 #Neumünster
 		}
     }
 	manpower=148025

@@ -7,10 +7,7 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		
-        victory_points = {
-            2528 1 #Weiden
-        }
+
     }
 	provinces={
 		2528 3078 3685 12761 12815 12858 20780 

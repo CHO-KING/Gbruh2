@@ -14,7 +14,7 @@ state={
 		 
 		owner = GER
 		victory_points = {
-			11888 20 #Münster
+			11888 15 #Münster
 		}
 
 	}
