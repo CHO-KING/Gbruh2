@@ -6,7 +6,7 @@ state={
 	history={
 		owner = SOV
 		add_core_of = SOV
-		add_core_of = FIN
+		add_claim_by = FIN
 
 		buildings = {
 			infrastructure = 2
