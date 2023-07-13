@@ -13,8 +13,7 @@ state={
 		add_core_of = BEL
 		buildings = {
 			infrastructure = 4
-			arms_factory = 2
-			industrial_complex = 10
+			industrial_complex = 4
 			8746 = { naval_base = 3 }
 		}
 		
@@ -25,17 +24,17 @@ state={
             12255 5 #Ostend
         }
         victory_points = {
-            12361 5 #Roeselare
+            12361 2 #Roeselare
         }
         victory_points = {
             3958 5 #Kortrijk
         }
         victory_points = {
-            8779 2 #Ieper
+            8779 1 #Ieper
         }
     }
 	manpower=939400
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = large_city
+	state_category = city
 }

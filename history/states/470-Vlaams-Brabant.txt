@@ -13,7 +13,7 @@ state={
 		add_core_of = BEL
 		buildings = {
 			infrastructure = 4
-			arms_factory = 6
+			arms_factory = 5
 			industrial_complex = 8
 		}
 		
@@ -21,7 +21,13 @@ state={
             12389 80 #Bruxelles
         }
 		victory_points = {
-            12362 5 #Leuven
+            12362 2 #Leuven
+        }
+		victory_points = {
+            12312 10 #Mechelen
+        }
+		victory_points = {
+            5139 10 #Anderlecht
         }
     }
 	manpower=1362900

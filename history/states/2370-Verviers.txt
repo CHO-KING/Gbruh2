@@ -7,7 +7,8 @@ state={
 		add_core_of = BEL
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 2
+			arms_factory = 2
+			industrial_complex = 4
 			12503 = {
 				bunker = 1
 			}
@@ -27,7 +28,7 @@ state={
 		12503 12542 12549 
 	}
 	manpower=148730
-	state_category=town
+	state_category=city
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

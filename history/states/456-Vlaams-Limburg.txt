@@ -13,7 +13,7 @@ state={
 		add_core_of = BEL
 		buildings = {
 			infrastructure = 3
-			arms_factory = 2
+			arms_factory = 3
 			industrial_complex = 4
 			12412 = {
 				bunker = 1
@@ -21,7 +21,10 @@ state={
 		}
 		
         victory_points = {
-            19892 5 #Hasselt
+            19892 2 #Hasselt
+        }
+       victory_points = {
+            12412 2 #Herstal
         }
     }
 	manpower=393400
