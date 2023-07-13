@@ -15,7 +15,7 @@ state={
 		
 		
 		victory_points = {
-			9110 5 #Flensburg
+			9110 10 #Flensburg
 		}
 		victory_points = {
 			10927 2 #Schleswig
@@ -24,5 +24,5 @@ state={
 	manpower=227249
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = large_town
+	state_category = town
 }

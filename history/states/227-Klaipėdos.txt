@@ -12,10 +12,7 @@ state={
 
 		}
 		victory_points = {
-			19907 10 
-		}
-		victory_points = {
-			136 2 
+			19907 2
 		}
 
 	}
@@ -25,6 +22,6 @@ state={
 	}
 	manpower=153800
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=pastoral
 	local_supplies=0.000
 }

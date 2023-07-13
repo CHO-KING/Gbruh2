@@ -12,7 +12,7 @@ state={
 		
 		
 		victory_points = {
-			12710 5 #Aschaffenburg
+			12710 2 #Aschaffenburg
 		}
 	}
 
@@ -21,6 +21,6 @@ state={
 	}
 	manpower=236542
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=rural
 	local_supplies=0.000
 }

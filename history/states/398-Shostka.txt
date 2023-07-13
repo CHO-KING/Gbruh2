@@ -4,13 +4,13 @@ state={
 	name="STATE_398"
 
 	history={
-		victory_points = { 11916 5 }
-		victory_points = { 1257 1 }
+		victory_points = { 1257 2 }
 		owner = SOV
 		add_core_of = SOV
 		add_core_of = UKR
 		buildings = {
 			infrastructure = 3
+			arms_factory = 1
 		}
 
 	}
@@ -20,6 +20,6 @@ state={
 	}
 	manpower=180792
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 	local_supplies=0.000
 }

@@ -8,16 +8,16 @@ state={
 		add_core_of = FRA
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
+			arms_factory = 4
 			industrial_complex = 1
 
 		}
 		add_core_of = GER
 		victory_points = {
-			19848 5 
+			19848 5 #Colmar
 		}
 		victory_points = {
-			19849 10 
+			19849 20 #Mülhausen		
 		}
 
 	}
@@ -27,6 +27,6 @@ state={
 	}
 	manpower=507600
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=city
 	local_supplies=0.000
 }

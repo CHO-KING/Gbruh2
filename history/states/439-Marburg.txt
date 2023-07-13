@@ -12,14 +12,12 @@ state={
 			infrastructure = 4
 		}
 		
-		
-		
 		victory_points = {
-			7596 5 #Marburg
+			7596 2 #Marburg
 		}
     }
 	manpower=179871
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 	local_supplies=0.000
 }

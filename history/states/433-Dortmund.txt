@@ -22,10 +22,13 @@ state={
         victory_points = {
             20711 20 #Bochum
         }
+        victory_points = {
+            20623 2 #Herne
+        }
 	}
 
 	provinces={
-		7843 20711 
+		7843 20623 20711 
 	}
 	manpower=1106045
 	buildings_max_level_factor=1.000

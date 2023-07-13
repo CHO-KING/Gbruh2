@@ -9,10 +9,16 @@ state={
 		buildings = {
 			infrastructure = 4
 		}
+	victory_points = {
+		4248 2 #Lehe
+	}	
+	victory_points = {
+		20691 2 #Geestemünde
+	}
 		
 		
 	}
-
+	
 	provinces={
 		4248 8508 11254 20691 
 	}

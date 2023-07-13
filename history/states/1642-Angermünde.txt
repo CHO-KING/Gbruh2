@@ -6,13 +6,8 @@ state={
 		owner = GER
 		add_core_of = GER
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
-		
-		
-        victory_points = {
-            20569 2 #Schwedt
-        }
     }
 	provinces={
 		11361 20569 20570 20594 

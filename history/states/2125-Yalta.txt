@@ -6,18 +6,17 @@ state={
 		6224 8718 14478 
 	}
 	history = {
-		victory_points = { 8718 5 }
+		victory_points = { 8718 2 }
 		owner = SOV
-		add_core_of = SOV
-		
+		add_core_of = SOV	
 		add_core_of = UKR
 
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 		}
 	}
 	manpower=198161
-	state_category=town
+	state_category=rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

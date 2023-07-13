@@ -18,10 +18,13 @@ state={
 		}
 		
         victory_points = {
-            12379 20 #Chemnitz
+            12379 40 #Chemnitz
         }
         victory_points = {
-            12517 2 #Annaberg-Buchholz
+            12517 2 #Annaberg
+        }
+        victory_points = {
+            12423 2 #Glauchau
         }
     }
 	manpower=1027581

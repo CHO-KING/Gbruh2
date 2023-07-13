@@ -8,7 +8,7 @@ state={
 			14591 10 
 		}
 		victory_points = {
-			14614 10 
+			14614 2 
 		}
 		owner = SOV
 		add_core_of = SOV
@@ -27,6 +27,6 @@ state={
 	}
 	manpower=685738
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 	local_supplies=0.000
 }

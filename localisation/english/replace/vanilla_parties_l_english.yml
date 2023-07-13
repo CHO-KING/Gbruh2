@@ -42,4 +42,11 @@
  SWI_neutrality_party_long:0 "Schweizerische Konservative Volkspartei"
  SWI_fascism_party:0 "Heimatwehr"
  SWI_fascism_party_long:0 "Heimatwehr"
-
+ UKR_neutrality_party:1 "Skoropadskyi Loyalists"
+ UKR_neutrality_party_long:1 "Skoropadskyi Loyalists"
+ UKR_democratic_party:1 "USDRP"
+ UKR_democratic_party_long:1 "Ukrainian Social Democratic Labour Party"
+ UKR_fascism_party:0 "LUN"
+ UKR_fascism_party_long:0 "League of Ukrainian Nationalists"
+ UKR_communism_party:0 "CP(b)U"
+ UKR_communism_party_long:0 "Communist Party (Bolsheviks) of Ukraine"

@@ -14,7 +14,11 @@ state={
 		
 		
 		
-		victory_points = { 20565 5 }
+		victory_points = { 20565 7 } #Cottbus
+		victory_points = { 8870 2 } #Spremberg
+		victory_points = { 9495 2 } #Forst
+		victory_points = { 12043 2 } #Senftenberg
+		
 	}
 
 	provinces={
@@ -22,6 +26,6 @@ state={
 	}
 	manpower=257327
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=large_town
 	local_supplies=0.000
 }

@@ -6,11 +6,10 @@ state={
 		207 3875 4861 5658 8555 14210 14239 14282 14297 14320 
 	}
 	history = {
-		victory_points = { 14282 5 }
 		victory_points = { 14320 2 }
 		owner = SOV
 		add_core_of = SOV
-
+		add_claim_by = UKR
 		buildings = {
 			infrastructure = 3
 		}
@@ -18,6 +17,6 @@ state={
 	}
 	manpower=206120
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=rural
 	local_supplies=0.000
 }

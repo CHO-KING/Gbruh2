@@ -9,14 +9,8 @@ state={
 		owner = GER
 		add_core_of = GER
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
-		
-		
-		
-        victory_points = {
-            2247 2 #Eisenhüttenstadt
-        }
 	}
 	manpower=27458
 	state_category=pastoral

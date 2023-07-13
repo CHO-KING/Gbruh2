@@ -11,11 +11,11 @@ state={
 		add_core_of = UKR
 		 
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 		}
 	}
 	manpower=192100
-	state_category=town
+	state_category=pastoral
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

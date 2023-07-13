@@ -10,15 +10,10 @@ state={
 		buildings = {
 			infrastructure = 4
 		}
-		
-		
-		
-		victory_points = {
-			12654 2 #Gelnhausen
-		}
+
 	}
 	manpower=110719
-	state_category=rural
+	state_category=pastoral
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

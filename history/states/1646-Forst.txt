@@ -9,10 +9,8 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		
-		
 		victory_points = {
-			1579 2 #Sorau
+			20581 2 #Guben
 		}
 	}
 

@@ -11,11 +11,7 @@ state={
 			infrastructure = 4
 			11183 = { naval_base = 1 }
 		}
-		
-		
-		victory_points = {
-			11183 2 #Stade
-		}
+
 	}
 	manpower=56147
 	state_category=pastoral

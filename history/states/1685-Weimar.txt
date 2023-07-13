@@ -17,14 +17,14 @@ state={
 		
 		
         victory_points = {
-            12363 5 #Weimar
+            12363 2 #Weimar
         }
 		victory_points = {
-            12392 10 #Jena
+            12392 2 #Jena
         }
     }
 	manpower=330709
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 	local_supplies=0.000
 }

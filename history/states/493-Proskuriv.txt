@@ -3,8 +3,7 @@ state={
 	id=493
 	name="STATE_493"
 	history={
-		victory_points = { 478 20 }
-		victory_points = { 5657 2 }
+		victory_points = { 478 10 }
 		owner = SOV
 		add_core_of = SOV
 		add_core_of = UKR
@@ -18,6 +17,6 @@ state={
 	}
 	manpower=304030
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 	local_supplies=0.000
 }

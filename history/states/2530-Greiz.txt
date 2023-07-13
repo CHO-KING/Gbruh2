@@ -7,14 +7,14 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		
+		victory_points = { 8680 2 }	#Greiz	
 		
     }
 	provinces={
 		8680 18846 
 	}
 	manpower=55000
-	state_category=pastoral
+	state_category=rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

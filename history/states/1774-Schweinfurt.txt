@@ -10,13 +10,13 @@ state={
 		}
 		
 		
-		victory_points = { 4871 5 }
+		victory_points = { 4871 2 } #Schweinfurt
     }
 	provinces={
 		4871 8198 12638 12674 12731 20777 20778 
 	}
 	manpower=173777
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 	local_supplies=0.000
 }

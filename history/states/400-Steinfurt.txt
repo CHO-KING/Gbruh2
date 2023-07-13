@@ -11,14 +11,9 @@ state={
 		buildings = {
 			infrastructure = 4
 		}
-		
-		
-		victory_points = {
-			11745 5 #Rheine
-		}
     }
 	manpower=197183
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = town
+	state_category = rural
 }

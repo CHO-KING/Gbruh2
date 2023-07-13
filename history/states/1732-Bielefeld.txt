@@ -15,7 +15,7 @@ state={
 		 
 		owner = GER
         victory_points = {
-            20697 20
+            20697 15
         }
     }
 	manpower=328248

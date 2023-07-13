@@ -8,7 +8,10 @@ state={
 	    owner = GER
         victory_points = {
             6184 80
-        }
+        } #Berlin
+        victory_points = {
+            805 2
+        } #Cöpenick
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4
@@ -22,5 +25,5 @@ state={
 	manpower=1101708
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = metropolis
+	state_category = megalopolis
 }

@@ -9,11 +9,6 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		
-		
-		victory_points = {
-			20578 2 #Schwiebus
-		}
 	}
 
 	provinces={

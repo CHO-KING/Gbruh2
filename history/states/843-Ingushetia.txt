@@ -3,12 +3,11 @@ state={
 	id=843
 	name="STATE_843"
 	history = {
-		victory_points = { 14688 10 }
 		owner = SOV
 		add_core_of = SOV
 
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 		}
 		
 		
@@ -19,6 +18,6 @@ state={
 	}
 	manpower=213684
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=pastoral
 	local_supplies=0.000
 }

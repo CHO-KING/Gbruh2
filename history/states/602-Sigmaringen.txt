@@ -4,12 +4,9 @@ state={
 	name="STATE_602"
 	history={
 		owner = GER
-		victory_points = {
-            2168 2 #Albstadt
-        }
 		add_core_of = GER
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
 		
 		

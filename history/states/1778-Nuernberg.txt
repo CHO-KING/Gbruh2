@@ -7,10 +7,13 @@ state={
 	history={
 	    owner = GER
         victory_points = {
-            12918 20 #Nürnberg
+            12918 40 #Nürnberg
         }
 		victory_points = {
-			12889 10 #Erlangen
+			12889 2 #Erlangen
+		}
+		victory_points = {
+			8154 10 #Fürth
 		}
 		add_core_of = GER
 		buildings = {

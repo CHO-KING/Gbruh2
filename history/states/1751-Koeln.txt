@@ -10,16 +10,13 @@ state={
 	history={
 		owner = GER
         victory_points = {
-            20736 40 #Köln
-        }
-        victory_points = {
-            5555 5 #Kerpen
+            20736 40 #Cöln
         }
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4
-			arms_factory = 4
-			industrial_complex = 3
+			arms_factory = 6
+			industrial_complex = 4
 		}
 		
 		

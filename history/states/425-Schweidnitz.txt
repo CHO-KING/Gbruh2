@@ -8,16 +8,14 @@ state={
 	history={
 		owner = GER
 		victory_points = {
-			8402 10 #Waldenburg
+			8402 2 #Waldenburg
 		}
 		victory_points = {
-			5693 5 #Schweidnitz
+			5693 2 #Schweidnitz
 		}
 		add_core_of = GER
 		buildings = {
 			infrastructure = 3
-			arms_factory = 3
-			industrial_complex = 3
 		}
 		
 		
@@ -25,5 +23,5 @@ state={
 	manpower=395932
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = rural
 }

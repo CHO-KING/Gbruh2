@@ -6,7 +6,7 @@ state={
 	history={
 		owner = GER
 		victory_points = {
-			13060 10 
+			13060 5 #Heilbronn 
 		}
 		add_core_of = GER
 		buildings = {

@@ -8,11 +8,7 @@ state={
 		buildings = {
 			infrastructure = 4
 		}
-		
-		
-		victory_points = {
-			12479 2 #Suhl
-		}
+
     }
 	provinces={
 		12479 18531 

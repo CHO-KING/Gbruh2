@@ -10,6 +10,9 @@ state={
         victory_points = {
             12390 20 #Aachen
         }
+        victory_points = {
+            12400 2 #Eschweiler
+        }
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4
@@ -20,6 +23,6 @@ state={
     }
 	manpower=541256
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=city
 	local_supplies=0.000
 }

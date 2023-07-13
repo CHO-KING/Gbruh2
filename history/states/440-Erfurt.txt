@@ -3,14 +3,14 @@ state={
 	id=440
 	name="STATE_440"
 	provinces={
-		5275 5719 20622 20623 20627 
+		5275 5719 20622 20627 
 	}
 	history={
 		owner = GER
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4
-			arms_factory = 1
+			arms_factory = 2
 			industrial_complex = 2
 		}
 		

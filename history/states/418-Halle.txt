@@ -16,7 +16,11 @@ state={
 		
 		
         victory_points = {
-            20615 20
+            20615 20 #Halle
+        } 
+		
+        victory_points = {
+            12042 2 #Merseburg
         }
     }
 	manpower=431470

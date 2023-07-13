@@ -5,16 +5,13 @@ state={
 	history={
 		owner = GER
 		victory_points = {
-            12434 20 #Bonn
-        }
-        victory_points = {
-            12461 2 #Euskirchen
+            12434 15 #Bonn
         }
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4
-			arms_factory = 4
-			industrial_complex = 3
+			arms_factory = 2
+			industrial_complex = 1
 			synthetic_refinery = 3
 		}
 		
@@ -27,5 +24,5 @@ state={
 	manpower=283783
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = large_town
 }

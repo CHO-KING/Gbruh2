@@ -7,11 +7,14 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
+	        victory_points = {
+            19659 2 #Swinemünde
+        }
     }
 	provinces={
-		19660
+		19659 19660
 	}
-	manpower=39150
+	manpower=52150
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 	state_category = pastoral

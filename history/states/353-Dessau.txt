@@ -12,10 +12,13 @@ state={
 			infrastructure = 4
 		}
 		
-		victory_points = { 3680 5 }
+		victory_points = { 3680 10 } #Dessau
+		victory_points = {
+            11985 2 #Cöthen
+        }
     }
 	manpower=287918
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = town
 }

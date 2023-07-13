@@ -5,7 +5,6 @@ state={
 		oil=100
 	}
 	history = {
-		victory_points = { 5442 5 }
 		owner = SOV
 		add_core_of = SOV
 		
@@ -18,7 +17,7 @@ state={
 		2472 5442 6545 7722 8322 15152 18741 
 	}
 	manpower=160416
-	state_category=town
+	state_category=rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

@@ -13,11 +13,11 @@ state={
 			infrastructure = 3
 		}
         victory_points = {
-            11367 20
+            11367 10
         }
   	}
 	manpower=123100
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = town
 }

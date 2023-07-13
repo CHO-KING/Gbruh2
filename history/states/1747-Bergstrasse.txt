@@ -9,7 +9,7 @@ state={
 	    owner = GER
 		add_core_of = GER
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
 		
 
@@ -17,5 +17,5 @@ state={
 	manpower=146237
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = rural
+	state_category = pastoral
 }

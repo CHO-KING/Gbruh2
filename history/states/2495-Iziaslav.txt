@@ -5,7 +5,7 @@ state={
 		4027 5581 12642 
 	}
 	history = {
-		victory_points = { 4027 1 }
+		victory_points = { 4027 2 }
 		victory_points = { 12642 2 }
 		owner = SOV
 		add_core_of = SOV

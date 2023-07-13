@@ -10,15 +10,10 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		
-		
-		
-		victory_points = {
-			4664 2 #Leer
-		}
+
     }
 	manpower=83258
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = rural
+	state_category = pastoral
 }
