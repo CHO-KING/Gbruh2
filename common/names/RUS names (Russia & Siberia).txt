@@ -16,77 +16,11 @@
 		}
 	}
 	callsigns = {
-		13 33 Furious Arrow Vortex Warlock Colonist Eagle Falcon Baron Snowflake Scout Shcherba Lily Baida Fright Fakir Hedgehopper Hawk Colorad Howl Blizzard Dawn Steel Iron Gull Thunder Swallow Dragon Flyer Beard Cherry Skomorokh Maestro Tiger Hot Kid Gypsy Navel Mordvin Varangian Swan Magpie Maple Pike Beagle "White Lily" "White Hundred"
+		"Eagle of Crimea" "Earl of the Goodwins" "The Turk" "Air Cossack of Verdun" "Air Cossack of Prussia" "Air Cossack Varshava"
 	}
 
 	prefix = o_operatsiya
 
 	use_geographical_default_operation_names = yes
-	offensive_operation_suffix = o_strat_offensive_ru
-	defensive_operation_suffix = o_strat_defensive_ru
-	naval_operation_suffix = o_strat_naval_ru
-
-	operation = {
-		13 = { #Finland
-			o_proryv
-			o_polar_star
-			o_venus
-			o_neva_1
-		}
-		37 = { #Baltics
-			o_baltic_strategic_offensive
-			o_alekseyev
-			o_iskra
-			o_neptune
-		}
-		39 = { #Belarus
-			o_mars
-			o_bagration
-			o_suvorov
-		}
-		38 = { #Poland
-			o_jupiter
-			o_warsaw_strategic_offensive
-			o_prussian_strategic_offensive
-			o_suvorov
-		}
-		130 = { #Ukraine
-			o_saturn
-			o_small_saturn
-			o_kutuzov
-			o_rumyantsev
-			o_ekaterina
-			o_skachok
-		}
-		8 = { #Germany
-			o_groza
-			o_berlin_strategic_offensive
-		}
-		134 = { #Caucasus
-			o_uranus
-			o_small_uranus
-			o_potyomkin
-		}
-		135 = { #North Caucasus-Kuban
-			o_north_caucasus_strategic_offensive
-			o_don_rus
-		}
-		133 = { #Central Russia
-			o_mercury
-			o_general_moroz
-			o_kontsert
-		}
-		132 = { #Western Russia
-			o_neva_2
-			o_star_rus
-			o_grom
-		}
-		135 = { #Caspian Lowlands
-			o_ring
-		}
-		136 = { #Kazakh Steppes
-			o_pustynya
-		}
-	}
 }
 
