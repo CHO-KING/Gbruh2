@@ -2,7 +2,7 @@ state={
 	id=1749
 	name="STATE_1749"
 	provinces={
-		5650 12020 20738 
+		1327 5650 6448 12020 18720 20738 
 	}
 	resources={
 		steel=400
@@ -17,8 +17,17 @@ state={
            	 20738 40 #Duisburg
       		}
         	victory_points = {
-           	 12020 10 #Hamborn
+           	 12020 20 #Hamborn
       		}
+        	victory_points = {
+           	 6448 15 #Mülheim
+      		}
+			victory_points = {
+            1327 5 #Bottrop
+			}
+			victory_points = {
+            18720 15 #Oberhausen
+			}
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4

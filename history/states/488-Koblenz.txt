@@ -7,22 +7,14 @@ state={
 	}
 	history={
 		owner = GER
-        victory_points = {
-            20739 10 #Koblenz
-        }
-        victory_points = {
-            12582 2 #Andernach
-        }
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4
-		}
-		
-		
+		}		
 
     }
 	manpower=350021
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = rural
 }

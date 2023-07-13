@@ -7,11 +7,6 @@ state={
 		buildings = {
 			infrastructure = 4
 		}
-		
-		
-        victory_points = {
-            12853 2 #Idar-Oberstein
-        }
 
     }
 	provinces={
@@ -20,5 +15,5 @@ state={
 	manpower=36401
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = pastoral
+	state_category = rural
 }

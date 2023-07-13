@@ -11,7 +11,10 @@ state={
 			industrial_complex = 4
 		}
 		victory_points = {
-			11654 15 #Spandau
+			11654 10 #Spandau
+		}
+		victory_points = {
+			11711 40 #Charlottenburg
 		}
 		
 		
@@ -22,5 +25,5 @@ state={
 	manpower=600983
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = metropolis
+	state_category = megalopolis
 }

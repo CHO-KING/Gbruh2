@@ -7,7 +7,7 @@ state={
 	history={
 	    owner = GER
         victory_points = {
-            5425 10 #Grünberg in Schlesien
+            5425 2 #Grünberg in Schlesien
         }
 		add_core_of = GER
 		buildings = {
@@ -19,6 +19,6 @@ state={
 	manpower=179634
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = town
+	state_category = rural
 }
 

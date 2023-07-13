@@ -5,11 +5,7 @@ state={
 		owner = GER
 		add_core_of = GER
 		buildings = {
-			infrastructure = 4
-		}
-		 
-		victory_points = {
-			13408 2 #Biberach
+			infrastructure = 3
 		}
     }
 	provinces={
@@ -18,5 +14,5 @@ state={
 	manpower=189726
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = town
+	state_category = rural
 }

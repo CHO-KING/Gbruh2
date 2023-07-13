@@ -5,7 +5,7 @@ state={
 
 	history={
 		victory_points = {
-			12262 20 #Dresden
+			12262 80 #Dresden
 		}
 		owner = GER
 		add_core_of = GER
@@ -23,6 +23,6 @@ state={
 	}
 	manpower=923065
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=metropolis
 	local_supplies=0.000
 }

@@ -6,6 +6,7 @@ state={
 		victory_points = { 14926 10 }
 		owner = SOV
 		add_core_of = SOV
+		add_claim_by = TUR
 		
 		
 		buildings = {

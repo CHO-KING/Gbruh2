@@ -11,7 +11,9 @@ state={
 		buildings = {
 			infrastructure = 4
 		}
-		
+		victory_points = {
+			11899 2 #Schönebeck
+		}
 		
     }
 	manpower=184588

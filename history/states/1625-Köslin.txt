@@ -7,7 +7,7 @@ state={
 	history={
 	    owner = GER
         victory_points = {
-            6762 10 #Köslin
+            6762 2 #Cöslin
         }
 		add_core_of = GER
 		buildings = {
@@ -20,5 +20,5 @@ state={
 	manpower=155622
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = town
+	state_category = rural
 }

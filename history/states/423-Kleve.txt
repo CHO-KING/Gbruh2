@@ -14,10 +14,10 @@ state={
 		
 		
         victory_points = {
-            8240 5 #Moers
+            8240 2 #Moers
         }
         victory_points = {
-            11955 2 #Kleve
+            11955 2 #Cleve
         }
 
     }
@@ -27,5 +27,5 @@ state={
 	manpower=339124
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = town
 }

@@ -7,12 +7,9 @@ state={
 		owner = GER
 		add_core_of = GER
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
-		
-        victory_points = {
-            20763 2 #Wertheim am Main
-        }
+
 	}
 
 	provinces={
@@ -20,6 +17,6 @@ state={
 	}
 	manpower=140958
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 	local_supplies=0.000
 }

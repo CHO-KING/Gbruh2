@@ -18,10 +18,13 @@ state={
             5375 20 #Charleroi
         }
 		victory_points = {
-            12533 5 #Mons
+            12533 2 #Mons
         }
 		victory_points = {
             9341 5 #Tournai
+        }
+		victory_points = {
+            12557 2 #La Louvière
         }
     }
 	manpower=1050000

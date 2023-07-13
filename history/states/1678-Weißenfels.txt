@@ -10,11 +10,17 @@ state={
 		buildings = {
 			infrastructure = 4
 		}
-		
+		victory_points = {
+            20619 2 #Zeitz
+        }	
+
+		victory_points = {
+            12257 2 #Weißenfels
+        }		
 		
     }
 	manpower=317000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = town
 }

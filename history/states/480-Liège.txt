@@ -8,8 +8,8 @@ state={
 		add_core_of = BEL
 		buildings = {
 			infrastructure = 4
-			arms_factory = 2
-			industrial_complex = 6
+			arms_factory = 3
+			industrial_complex = 10
 			19891 = {
 				bunker = 1
 			}
@@ -19,7 +19,7 @@ state={
 		}
 		 
 		victory_points = {
-			19891 10 #Liége
+			19891 20 #Liége
 		}
 	}
 
@@ -28,6 +28,6 @@ state={
 	}
 	manpower=535000
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=metropolis
 	local_supplies=0.000
 }

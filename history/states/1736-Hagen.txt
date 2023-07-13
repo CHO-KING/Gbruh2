@@ -14,7 +14,10 @@ state={
 		 
 		owner = GER
         victory_points = {
-            12207 10 #Hagen
+            12207 15 #Hagen
+        }
+        victory_points = {
+            20707 2 #Lüdenscheid
         }
 	}
 

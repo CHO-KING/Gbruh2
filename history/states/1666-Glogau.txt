@@ -10,10 +10,7 @@ state={
 		
 		
 		victory_points = {
-			20607 5 #Glogau
-		}
-		victory_points = {
-			6045 5 #Lüben
+			20607 2 #Glogau
 		}
     }
 	provinces={

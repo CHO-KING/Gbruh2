@@ -51,3 +51,25 @@ country_event = {
 		remove_ideas = SOV_rasputin
 	}
 }
+
+country_event = { #Rename Petersburg
+	id = russia.3
+	title = russia.3.t
+	desc = russia.3.d
+	fire_only_once = yes
+	picture = GFX_report_event_hungary_parliament
+
+	trigger = {
+ 		TAG = SOV
+		has_war_with = GER
+	}
+
+	option = { 
+		name = russia.3.a
+			set_global_flag = petersburg_renamed
+			119 = {
+				set_state_name = Petrograd
+				set_province_name = { id = 9973 name = Petrograd }
+			}
+	}
+}

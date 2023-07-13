@@ -13,9 +13,6 @@ state={
 		
 		 
 		owner = GER
-		victory_points = {
-			20698 5 #Ahlen
-		}
     }
 	manpower=135277
 	buildings_max_level_factor=1.000

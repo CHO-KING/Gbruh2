@@ -15,11 +15,11 @@ state={
 		
 		
         victory_points = {
-            20634 20
+            20634 40
         }
     }
 	manpower=447062
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = large_city
 }

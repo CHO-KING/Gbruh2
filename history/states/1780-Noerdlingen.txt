@@ -6,11 +6,7 @@ state={
 		owner = GER
 		add_core_of = GER
 		buildings = {
-			infrastructure = 4
-		}
-		
-		victory_points = {
-			5572 2 #Neuburg an der Donau
+			infrastructure = 3
 		}
     }
 	provinces={
@@ -19,5 +15,5 @@ state={
 	manpower=163679
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = town
+	state_category = rural
 }

@@ -12,14 +12,10 @@ state={
 			3214 = { naval_base = 1 }
 		}
 		
-		
-		
-		victory_points = {
-			3214 2 #Heide
-		}
+
     }
 	manpower=97303
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = rural
+	state_category = pastoral
 }

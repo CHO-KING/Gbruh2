@@ -18,9 +18,12 @@ state={
         victory_points = {
             12210 2 #Bautzen
         }
+        victory_points = {
+            20612 5 #Zittau
+        }
     }
 	manpower=353933
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = town
 }

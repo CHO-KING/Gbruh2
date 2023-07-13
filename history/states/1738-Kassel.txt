@@ -16,7 +16,7 @@ state={
 		
 		
         victory_points = {
-            9315 10
+            9315 20 #Cassel
         }
     }
 	manpower=299265

@@ -52,37 +52,37 @@ units = {
 
     division = {
         name = "3eme Division d'Armee"
-        location = 12389#Liège
+        location = 12389#Bruxelles
         division_template = "Infantry Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "3eme Division d'Armee 1"
-        location = 12389#Liège
+        location = 19891#Liège
         division_template = "Infantry Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "3eme Division d'Armee 2"
-        location = 12389#Liège
+        location = 12901#Arlon
         division_template = "Infantry Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "3eme Division d'Armee 3"
-        location = 12389#Liège
+        location = 9341#Tournai
         division_template = "Infantry Division"
         start_experience_factor = 0.1
     }
     division = {
         name = "3eme Division d'Armee 4"
-        location = 12389#Liège
+        location = 5375#Charleroi
         division_template = "Infantry Division"
         start_experience_factor = 0.1
     }
 	division = {
         name = "3eme Division d'Armee 5"
-        location = 12389#Liège
+        location = 12533#Mons
         division_template = "Infantry Division"
         start_experience_factor = 0.1
     }

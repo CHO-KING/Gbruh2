@@ -13,7 +13,12 @@ state={
 			arms_factory = 2
 			industrial_complex = 1
 		}
-		
+		victory_points = {
+			11192 5 #Wandsbek
+		}
+		victory_points = {
+			18643 20 #Altona
+		}		
 		
 		
 		

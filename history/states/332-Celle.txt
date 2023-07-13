@@ -13,7 +13,7 @@ state={
 		}
 		
 		
-		victory_points = { 20677 5 }
+		victory_points = { 20677 2 } #Celle
     }
 	manpower=149333
 	buildings_max_level_factor=1.000

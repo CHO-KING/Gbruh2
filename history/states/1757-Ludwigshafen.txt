@@ -16,10 +16,10 @@ state={
 		
 		
         victory_points = {
-            20743 10 #Ludwigshafen
+            20743 15 #Ludwigshafen
         }
         victory_points = {
-            5086 5 #Neustadt
+            12985 2 #Speyer
         }
 
     }

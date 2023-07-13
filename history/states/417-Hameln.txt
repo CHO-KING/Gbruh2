@@ -14,7 +14,7 @@ state={
 		
 		
 		victory_points = {
-			20659 5 #Hameln
+			20659 2 #Hameln
 		}
     }
 	manpower=116412
