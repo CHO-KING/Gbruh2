@@ -11,16 +11,10 @@ state={
 
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
-			industrial_complex = 1
-		}
-		
-		victory_points = {
-			10418 20
 		}
 	}
 	manpower=322963
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=pastoral
 	local_supplies=0.000
 }
