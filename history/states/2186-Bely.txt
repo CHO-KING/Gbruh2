@@ -12,9 +12,6 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		victory_points = {
-			10505 2
-		}
 	}
 	manpower=4871
 	buildings_max_level_factor=1.000
