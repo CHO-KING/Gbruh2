@@ -4,7 +4,7 @@ state={
 	name="STATE_436"
 
 	history={
-		victory_points = { 8021 20 }
+		victory_points = { 8021 15 }
 		owner = SOV
 		add_core_of = SOV
 		add_core_of = UKR

@@ -24,6 +24,7 @@
 			o_yorck
 			o_gneisenau
 			o_handstreich
+			o_katzensprung
 			o_gericht
 			o_alberich
 			o_albion

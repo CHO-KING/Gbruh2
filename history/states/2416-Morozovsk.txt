@@ -6,6 +6,7 @@ state={
 		1145 2409 4462 8245 8566 8640 9155 9165 13413 13552 13584 
 	}
 	history = {
+		victory_points = { 8245 2 } #Konstantinovskaya
 		owner = SOV
 
 		buildings = {
@@ -16,6 +17,6 @@ state={
 	}
 	manpower=147063
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 	local_supplies=0.000
 }

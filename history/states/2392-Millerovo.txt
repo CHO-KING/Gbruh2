@@ -4,7 +4,7 @@ state={
 	name="STATE_2392"
 
 	history={
-		victory_points = { 13164 2 }
+		victory_points = { 13164 2 } #Millerovo
 		owner = SOV
 
 		buildings = {
@@ -20,6 +20,6 @@ state={
 	}
 	manpower=461253
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 	local_supplies=0.000
 }

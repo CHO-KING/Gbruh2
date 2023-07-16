@@ -13,17 +13,11 @@ state={
 			infrastructure = 3
 		}
 		victory_points = {
-			1173 10
-		}
-		victory_points = {
-			2664 5
-		}
-		victory_points = {
-			11423 2
+			2664 2
 		}
 	}
 	manpower=285739
-	state_category=city
+	state_category=pastoral
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

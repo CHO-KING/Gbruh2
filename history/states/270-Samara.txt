@@ -15,17 +15,11 @@ state={
 			industrial_complex = 2
 		}
 		victory_points = {
-			11357 80
-		}
-		victory_points = {
-			5726 2
-		}
-		victory_points = {
-			11321 2
+			11357 40
 		}
 	}
 	manpower=1077405
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=large_city
 	local_supplies=0.000
 }
