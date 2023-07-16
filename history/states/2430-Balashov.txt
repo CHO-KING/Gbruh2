@@ -11,13 +11,16 @@ state={
 			infrastructure = 3
 		}
 		victory_points = {
-			1372 5 
+			1372 2 #Balashov
 		}
 		victory_points = {
-			7865 2
+			7865 2 #Rtishchevo
 		}
 		victory_points = {
-			11883 2
+			11883 2 #Atkarsk
+		}
+		victory_points = {
+			3482 2 #Balanda
 		}
 
 	}
@@ -27,6 +30,6 @@ state={
 	}
 	manpower=385036
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 	local_supplies=0.000
 }
