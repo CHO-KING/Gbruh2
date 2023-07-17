@@ -9,8 +9,10 @@ state={
 		owner = SOV
 		add_core_of = SOV
 
-		victory_points = { 3784 20 }
-		victory_points = { 10471 5 }
+		victory_points = { 3784 10 } #Vladimir
+		victory_points = { 10471 2 } #Alexandrov
+		victory_points = { 2145 2 } #Kirzhach
+		victory_points = { 10476 2 } #Suzdal
 		buildings = {
 			infrastructure = 3
 
@@ -23,6 +25,6 @@ state={
 	}
 	manpower=789426
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=town
 	local_supplies=0.000
 }

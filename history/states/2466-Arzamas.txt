@@ -7,10 +7,10 @@ state={
 		owner = SOV
 		add_core_of = SOV
 
-		victory_points = { 18999 10 }
-		victory_points = { 1863 5 }
-		victory_points = { 8129 5 }
-		victory_points = { 10708 5 }
+		victory_points = { 18999 2 } #Arzamas
+		victory_points = { 8129 2 } #Pavlovo
+		victory_points = { 10708 2 } #Vyksa
+		victory_points = { 16895 2 } #Kulebaki
 		buildings = {
 			infrastructure = 3
 
@@ -23,6 +23,6 @@ state={
 	}
 	manpower=479831
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 	local_supplies=0.000
 }

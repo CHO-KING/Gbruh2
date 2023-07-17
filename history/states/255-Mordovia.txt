@@ -14,14 +14,14 @@ state={
 		}
 		
 		victory_points = {
-			10954 20
+			10954 2 #Saransk
 		}
 		victory_points = {
-			11025 2
+			11025 2 #Ruzayevka
 		}
 	}
 	manpower=463264
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=pastoral
 	local_supplies=0.000
 }
