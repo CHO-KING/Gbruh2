@@ -225,6 +225,8 @@ country_event = {
 	
 	immediate = {
 		hidden_effect = {
+			1005 = { add_core_of = TUR }
+			1023 = { add_core_of = TUR }	
 			every_owned_state = {
 				limit = {
 					OR = {
@@ -377,7 +379,16 @@ country_event = {
 				transfer_state = 2248
 				transfer_state = 971
 				transfer_state = 949
-			}
+				transfer_state = 916
+				transfer_state = 1023
+				transfer_state = 914
+				transfer_state = 2271
+				transfer_state = 2285
+				transfer_state = 976
+				transfer_state = 2263
+				transfer_state = 2264
+				transfer_state = 1005
+			}	
 			release = FIN
 			FIN = {
 				start_civil_war = {
@@ -436,6 +447,7 @@ country_event = {
 		every_owned_state = {
 			limit = {
 				OR = {
+					has_state_category = city
 					has_state_category = large_city
 					has_state_category = metropolis
 					has_state_category = megalopolis
