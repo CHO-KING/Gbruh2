@@ -13,14 +13,14 @@ state={
 			infrastructure = 3
 		}
 		victory_points = {
-			12188 20
+			12188 2 #Stary Oskol
 		}
 		victory_points = {
-			2463 2
+			1153 2 #Chernyanka
 		}
 	}
 	manpower=352358
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 	local_supplies=0.000
 }

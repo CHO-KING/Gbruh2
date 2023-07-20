@@ -13,10 +13,13 @@ state={
 		}
 
 		victory_points = {
-			2423 2
+			3906 2 #Biryuchenskoye Komissarstvo
 		}
 		victory_points = {
-			5749 2
+			5749 2 #Alekseyevka
+		}
+		victory_points = {
+			18368 2 #Valuyki
 		}
 	}
 
@@ -25,6 +28,6 @@ state={
 	}
 	manpower=184568
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 	local_supplies=0.000
 }
