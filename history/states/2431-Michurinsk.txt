@@ -11,10 +11,13 @@ state={
 			infrastructure = 3
 		}
 		victory_points = {
-			11475 5
+			11475 10 #Kozlov
 		}
 		victory_points = {
-			4264 2
+			4264 5 #Morchansk
+		}
+		victory_points = {
+			17488 2 #Sosnovka
 		}
 
 	}
@@ -24,6 +27,6 @@ state={
 	}
 	manpower=218011
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=town
 	local_supplies=0.000
 }

@@ -12,10 +12,13 @@ state={
 		}
 
 		victory_points = {
-			9002 2
+			9002 2 #Dankov
 		}
 		victory_points = {
-			11427 2
+			11427 2 #Lebedyan
+		}
+		victory_points = {
+			5031 2 #Ranenburg
 		}
 	}
 

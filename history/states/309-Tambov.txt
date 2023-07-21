@@ -11,7 +11,7 @@ state={
 			infrastructure = 3
 		}
 		victory_points = {
-			11666 20
+			11666 15
 		}
 		victory_points = {
 			2171 2
@@ -22,6 +22,12 @@ state={
 		victory_points = {
 			11804 2
 		}
+		victory_points = {
+			4233 2
+		}
+		victory_points = {
+			5360 2
+		}
 
 	}
 
@@ -30,6 +36,6 @@ state={
 	}
 	manpower=654035
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=large_town
 	local_supplies=0.000
 }

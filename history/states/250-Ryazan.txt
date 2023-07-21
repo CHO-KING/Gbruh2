@@ -11,7 +11,7 @@ state={
 			infrastructure = 3
 		}
 		victory_points = {
-			19033 40
+			19033 10 #Ryazan
 		}
 		victory_points = {
 			1312 2
@@ -20,7 +20,7 @@ state={
 			2567 2
 		}
 		victory_points = {
-			18045 2
+			445 2 #Mikhaylov
 		}
 
 	}
@@ -30,6 +30,6 @@ state={
 	}
 	manpower=681489
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=town
 	local_supplies=0.000
 }
