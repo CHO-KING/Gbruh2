@@ -12,7 +12,10 @@ state={
 			infrastructure = 3
 		}
 		victory_points = {
-			11713 5
+			11713 5 #Livny 
+		}
+		victory_points = {
+			4199 2 #Maloarkhangelsk 
 		}
 	}
 	manpower=136278

@@ -12,6 +12,9 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
+		victory_points = {
+			11751 2 #Sevsk
+		}
 	}
 	manpower=81484
 	state_category=pastoral
