@@ -14,10 +14,19 @@ state={
 		}
 		
 		victory_points = {
-			12105 5
+			12105 2 #Pokrovsk
 		}
 		victory_points = {
-			6937 2
+			6937 2 #Yekaterinenshtadt
+		}
+		victory_points = {
+			2657 2 #Privolnoye
+		}
+		victory_points = {
+			12136 2 #Mariental
+		}
+		victory_points = {
+			12468 2 #Rovnoye
 		}
 	}
 	manpower=229420

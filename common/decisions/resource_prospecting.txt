@@ -881,7 +881,7 @@ prospect_for_resources = {
 
 		highlight_states = {
 			highlight_state_targets = {
-				state = 2075
+				state = 557
 			}
 		}
 
@@ -889,7 +889,7 @@ prospect_for_resources = {
 			OR = {
 				AND = {
 					has_tech = excavation1
-					2075 = {
+					557 = {
 						NOT = {
 							has_state_flag = coal_developed_1
 						}
@@ -897,20 +897,20 @@ prospect_for_resources = {
 				}
 				AND = {
 					has_tech = excavation2
-					2075 = {
+					557 = {
 						has_state_flag = coal_developed_1
 					}
 				}
 			}
 			num_of_civilian_factories_available_for_projects > 19
-			owns_state = 2075
-			controls_state = 2075
+			owns_state = 557
+			controls_state = 557
 		}
 
 		visible = {
-			owns_state = 2075
-			controls_state = 2075
-			2075 = {
+			owns_state = 557
+			controls_state = 557
+			557 = {
 				NOT = {
 					has_state_flag = coal_developed_2
 				}
@@ -929,18 +929,18 @@ prospect_for_resources = {
 		remove_effect = {
 			if = {
 				limit = {
-					2075 = {
+					557 = {
 						NOT = {
 							has_state_flag = coal_developed_1
 						}
 					}
 				}
-				2075 = { set_state_flag = coal_developed_1 }
+				557 = { set_state_flag = coal_developed_1 }
 			}
 			else = {
-				2075 = { set_state_flag = coal_developed_2 }
+				557 = { set_state_flag = coal_developed_2 }
 			}
-			2075 = {
+			557 = {
 				add_resource = {
 					type = aluminium
 					amount = 100
@@ -2049,7 +2049,7 @@ prospect_for_resources = {
 
 		highlight_states = {
 			highlight_state_targets = {
-				state = 2027
+				state = 2081
 			}
 		}
 
@@ -2057,7 +2057,7 @@ prospect_for_resources = {
 			OR = {
 				AND = {
 					has_tech = excavation1
-					2027 = {
+					2081 = {
 						NOT = {
 							has_state_flag = steel_developed_1
 						}
@@ -2065,20 +2065,20 @@ prospect_for_resources = {
 				}
 				AND = {
 					has_tech = excavation2
-					2027 = {
+					2081 = {
 						has_state_flag = steel_developed_1
 					}
 				}
 			}
 			num_of_civilian_factories_available_for_projects > 9
-			owns_state = 2027
-			controls_state = 2027
+			owns_state = 2081
+			controls_state = 2081
 		}
 
 		visible = {
-			owns_state = 2027
-			controls_state = 2027
-			2027 = {
+			owns_state = 2081
+			controls_state = 2081
+			2081 = {
 				NOT = {
 					has_state_flag = steel_developed_2
 				}
@@ -2097,18 +2097,18 @@ prospect_for_resources = {
 		remove_effect = {
 			if = {
 				limit = {
-					2027 = {
+					2081 = {
 						NOT = {
 							has_state_flag = steel_developed_1
 						}
 					}
 				}
-				2027 = { set_state_flag = steel_developed_1 }
+				2081 = { set_state_flag = steel_developed_1 }
 			}
 			else = {
-				2027 = { set_state_flag = steel_developed_2 }
+				2081 = { set_state_flag = steel_developed_2 }
 			}
-			2027 = {
+			2081 = {
 				add_resource = {
 					type = steel
 					amount = 50

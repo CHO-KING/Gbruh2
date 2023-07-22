@@ -73,3 +73,59 @@ country_event = { #Rename Petersburg
 			}
 	}
 }
+
+country_event = { #Pokrovsk Expansion
+	id = russia.4
+	title = russia.4.t
+	desc = russia.4.d
+	fire_only_once = yes
+	picture = GFX_report_event_generic_rally_3
+
+	trigger = {
+ 		TAG = SOV
+		date > 1914.5.20
+	}
+	
+	mean_time_to_happen = {
+		days = 0
+	}
+
+	option = { 
+		name = russia.4.a
+			set_global_flag = pokrovsk_grow
+			set_victory_points = {
+			province = 2589
+			value = 5
+			}
+			2589 = {
+				set_province_name = { id = 12105 name = Pokrovsk }
+			}
+	}
+}
+
+country_event = { #Rename Yekaterinenshtadt
+	id = russia.5
+	title = russia.5.t
+	desc = russia.5.d
+	fire_only_once = yes
+	picture = GFX_report_event_hungary_parliament
+
+	trigger = {
+ 		TAG = SOV
+		has_war_with = GER
+		date > 1915.3.1
+	}
+
+	option = { 
+		name = russia.5.a
+			set_global_flag = yekaterinenshtadt_renamed
+			2589 = {
+				set_state_name = Yekaterinograd
+				set_province_name = { id = 6937 name = Yekaterinograd }
+			}
+			2590 = {
+				set_state_name = Golyy-Karamysh
+				set_province_name = { id = 12241 name = Golyy-Karamysh }
+			}
+	}
+}

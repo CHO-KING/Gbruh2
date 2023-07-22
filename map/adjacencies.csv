@@ -769,5 +769,16 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 7148;19383;sea;18108;-1;-1;-1;-1;;Northumberland Strait
 19641;19651;sea;16479;-1;-1;-1;-1;;Fårö Strait
 3033;19386;sea;16391;-1;-1;-1;-1;;Northampton
+19210;146;impassable;-1;-1;-1;-1;-1;;Medina-Canal
+19210;8524;impassable;-1;-1;-1;-1;-1;;Medina-Canal
+19210;7964;impassable;-1;-1;-1;-1;-1;;Medina-Canal
+19213;7964;impassable;-1;-1;-1;-1;-1;;Medina-Canal
+18576;7964;impassable;-1;-1;-1;-1;-1;;Medina-Canal
+18576;15886;impassable;-1;-1;-1;-1;-1;;Medina-Canal
+19213;17656;impassable;-1;-1;-1;-1;-1;;Medina-Canal
+19213;16195;impassable;-1;-1;-1;-1;-1;;Medina-Canal
+19210;17656;impassable;-1;-1;-1;-1;-1;;Medina-Canal
+19210;17368;impassable;-1;-1;-1;-1;-1;;Medina-Canal
+18576;16195;impassable;-1;-1;-1;-1;-1;;Medina-Canal
 16537;17405;;-1;-1;-1;-1;-1;AMERICA_BORDER;America Border
 -1;-1;;-1;-1;-1;-1;-1;-1
