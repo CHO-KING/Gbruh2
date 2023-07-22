@@ -13,13 +13,13 @@ state={
 			industrial_complex = 1
 		}
 		victory_points = {
-			10866 20 
+			10866 10 #Kaluga 
 		}
 		victory_points = {
-			10760 10 
+			7027 2 #Bobrovsk 
 		}
 		victory_points = {
-			10780 2
+			4930 2 #Yuzhnov 
 		}
 
 	}
@@ -29,6 +29,6 @@ state={
 	}
 	manpower=497012
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=large_town
 	local_supplies=0.000
 }

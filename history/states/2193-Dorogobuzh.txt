@@ -12,6 +12,9 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
+		victory_points = {
+			2035 2 #Dorogobuzh
+		}
 	}
 	manpower=21517
 	state_category=pastoral

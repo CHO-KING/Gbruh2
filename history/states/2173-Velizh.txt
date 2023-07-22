@@ -12,6 +12,9 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
+		victory_points = {
+			1954 2 #Velizh
+		}
 	}
 	manpower=9064
 	state_category=pastoral
