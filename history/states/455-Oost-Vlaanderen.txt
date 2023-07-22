@@ -3,7 +3,7 @@ state={
 	id=455
 	name="STATE_455"
 	provinces={
-		2026 8883 9080 9081 12244 12249 12311
+		2026 8883 9080 9081 10610 12244 12249 12311
 	}
 	resources={
 		steel=50
@@ -36,5 +36,5 @@ state={
 	manpower=1177500
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = large_city
+	state_category = city
 }

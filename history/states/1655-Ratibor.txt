@@ -14,9 +14,6 @@ state={
 		victory_points = {
 			6250 2 #Ratibor
 		}
-		victory_points = {
-			7495 2 #Neustadt
-		}
 	}
 
 	provinces={

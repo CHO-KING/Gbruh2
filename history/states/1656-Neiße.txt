@@ -8,8 +8,9 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		
-		
+		victory_points = {
+			3617 2 #Neustadt
+		}		
 		
 		victory_points = {
 			5259 2 #Neiße

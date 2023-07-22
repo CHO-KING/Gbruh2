@@ -3,7 +3,7 @@ state={
 	id=473
 	name="STATE_473"
 	provinces={
-		2217 3747 4177 6766 7629 12474 12496 20063 
+		2217 4177 6766 12474 12496 20063 
 	}
 	history={
 		owner = AUS
@@ -18,8 +18,11 @@ state={
         victory_points = {
             4177 5 #Reichenberg
         }
+        victory_points = {
+            6766 2 #Warnsdorf
+        }
     }
-	manpower=497471
+	manpower=430721
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 	state_category = city
