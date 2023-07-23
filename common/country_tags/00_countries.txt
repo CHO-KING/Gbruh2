@@ -15,7 +15,10 @@ PRC = "countries/ComChina.txt"
 
 ###Central Europe
 AUS = "countries/Austria.txt"
+LUX = "countries/Luxembourg.txt"
 SWI = "countries/Switzerland.txt"
+HUN = "countries/Hungary.txt"
+CZE = "countries/Czechoslovakia.txt"
 
 ###North America
 CAN = "countries/Canada.txt"
@@ -24,13 +27,10 @@ CAN = "countries/Canada.txt"
 POR = "countries/Portugal.txt"
 SPR = "countries/Spain.txt"
 HOL = "countries/Netherlands.txt"
-LUX = "countries/Luxembourg.txt"
 BEL = "countries/Belgium.txt"
 
 ###Eastern Europe
 POL = "countries/Poland.txt"
-HUN = "countries/Hungary.txt"
-CZE = "countries/Czechoslovakia.txt"
 ROM = "countries/Romania.txt"
 BUL = "countries/Bulgaria.txt"
 ALB = "countries/Albania.txt"
@@ -70,13 +70,14 @@ MLT = "countries/Malta.txt"
 ###French & Belgian Releasables
 
 ###Polish Releasables
-UKR = "countries/Ukraine.txt"
 
 ###Czech Releasables
 
 ###Spanish Releasables
 
 ###Soviet Releasables
+UKR = "countries/Ukraine.txt"
+MOL = "countries/Moldova.txt"
 
 ###Soviet Releasables - Central Asia
 

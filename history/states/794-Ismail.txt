@@ -5,14 +5,14 @@ state={
 
 	history={
 		owner = SOV
-		add_core_of = ROM
-		add_core_of = SOV
+		add_core_of = MOL
+		add_claim_by = ROM
+		add_claim_by = UKR
 		
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = UKR
 		buildings = {
 			infrastructure = 3
 

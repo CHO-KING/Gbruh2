@@ -1,21 +1,19 @@
-﻿capital = 2081
+﻿capital = 1604
 
 set_politics = {
-    ruling_party = neutrality
+    ruling_party = democratic
     last_election = "1912.9.1"
     election_frequency = 48
     elections_allowed = yes
 }
 set_popularities = {
-    democratic = 21
-    fascism = 2
-    communism = 33
-    neutrality = 44
+    democratic = 50
+    fascism = 0
+    communism = 29
+    neutrality = 21
 }
 
-recruit_character = UKR_skoropadsky
-
-set_research_slots = 3
+set_research_slots = 2
 set_stability = 1.0
 set_war_support = 1.0
 
