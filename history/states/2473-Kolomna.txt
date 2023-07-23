@@ -13,34 +13,25 @@ state={
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
-			industrial_complex = 2
+			industrial_complex = 1
 		}
 		victory_points = {
-			7352 10
+			7352 10 #Kolomna
 		}
 		victory_points = {
-			2820 10
+			2820 2 #Bogorodsk
 		}
 		victory_points = {
-			9233 10
+			9233 5 #Orekhovo-Zuyevo
 		}
 		victory_points = {
-			10664 5
+			3495 2 #Ramenskoye
 		}
 		victory_points = {
-			3495 5
+			6383 2 #Pavlovskiy Posad
 		}
 		victory_points = {
-			10568 5
-		}
-		victory_points = {
-			10785 2
-		}
-		victory_points = {
-			10603 2
-		}
-		victory_points = {
-			10568 2
+			10703 5 #Yegorovsk
 		}
 
 	}
@@ -50,6 +41,6 @@ state={
 	}
 	manpower=1469315
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=town
 	local_supplies=0.000
 }

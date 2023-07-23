@@ -378,7 +378,6 @@ country_event = {
 				transfer_state = 1001
 				transfer_state = 2248
 				transfer_state = 971
-				transfer_state = 949
 				transfer_state = 916
 				transfer_state = 1023
 				transfer_state = 914

@@ -1,0 +1,36 @@
+
+state={
+	id=2589
+	name="STATE_2589"
+	provinces={
+		2657 2957 3487 5856 6148 6308 6365 6928 6937 8549 12068 12105 12136 12137 12190 12231 12232 12283 12331 12468 
+	}
+	history = {
+		owner = SOV
+		add_core_of = SOV
+
+		buildings = {
+			infrastructure = 3
+		}
+		
+		victory_points = {
+			12105 2 #Pokrovsk
+		}
+		victory_points = {
+			6937 2 #Yekaterinenshtadt
+		}
+		victory_points = {
+			2657 2 #Privolnoye
+		}
+		victory_points = {
+			12136 2 #Mariental
+		}
+		victory_points = {
+			12468 2 #Rovnoye
+		}
+	}
+	manpower=229420
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -12,29 +12,16 @@ state={
 
 		buildings = {
 			infrastructure = 3
-			arms_factory = 2
 			industrial_complex = 1
 		}
 		victory_points = {
-			8617 20
+			4291 5 #Sergiyev Posad
 		}
 		victory_points = {
-			7626 10
+			10503 2 #Dmitrov
 		}
 		victory_points = {
-			4291 10
-		}
-		victory_points = {
-			10503 5
-		}
-		victory_points = {
-			10487 5
-		}
-		victory_points = {
-			7082 2
-		}
-		victory_points = {
-			10480 2
+			10487 2 #Klin
 		}
 
 	}
@@ -44,6 +31,6 @@ state={
 	}
 	manpower=1126475
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=rural
 	local_supplies=0.000
 }

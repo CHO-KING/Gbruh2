@@ -9,33 +9,22 @@ state={
 
 		buildings = {
 			infrastructure = 3
-			arms_factory = 2
+			arms_factory = 1
 			industrial_complex = 1
 		}
 		victory_points = {
-			10796 10
+			10796 10 #Serpukhov
 		}
 		victory_points = {
-			10698 10
+			10698 2 #Podolsk
 		}
 		victory_points = {
-			10776 5
+			152 2 #Zaraysk
 		}
 		victory_points = {
-			1086 5
+			10846 2 #Kashira
 		}
-		victory_points = {
-			152 2
-		}
-		victory_points = {
-			10764 2
-		}
-		victory_points = {
-			10846 2
-		}
-		victory_points = {
-			3260 2
-		}
+
 
 	}
 
@@ -44,6 +33,6 @@ state={
 	}
 	manpower=1322883
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=town
 	local_supplies=0.000
 }

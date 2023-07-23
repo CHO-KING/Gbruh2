@@ -4,7 +4,7 @@ state={
 	name="STATE_511"
 
 	history={
-		victory_points = { 13799 80 }
+		victory_points = { 13799 20 }
 		owner = SOV
 
 		buildings = {
@@ -24,6 +24,6 @@ state={
 	}
 	manpower=1285312
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=city
 	local_supplies=0.000
 }
