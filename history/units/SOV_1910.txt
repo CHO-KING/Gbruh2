@@ -69,7 +69,7 @@ division_template = {
 units = {
 	division= {
 			name = "1-ya Diviziya Opolcheniya"
-			location = 19085 # Moskva
+			location = 2538 # Oryol
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -78,7 +78,7 @@ units = {
 
 	division= {
 			name = "1-ya Gvardeyskaya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 3868 # Dvinsk
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.2
 			}
@@ -86,7 +86,7 @@ units = {
 
 	division= {
 			name = "2-ya Gvardeyskaya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 2025 # Kiyev
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.2
 			}
@@ -94,7 +94,7 @@ units = {
 
 	division= {
 			name = "Gvardeyskaya Strelkovaya Brigada"
-			location = 19085 # Moskva
+			location = 14022 # Odessa
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.2
 			start_equipment_factor = 0.8
@@ -103,7 +103,7 @@ units = {
 
 	division= {
 			name = "1-ya Finlyandskaya Strelkovaya Brigada"
-			location = 19085 # Moskva
+			location = 9966 # Gelsingborg
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -111,7 +111,7 @@ units = {
 
 	division= {
 			name = "2-ya Finlandskaya Strelkovaya Brigada"
-			location = 19085 # Moskva
+			location = 19664 # Vyborg
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -119,7 +119,7 @@ units = {
 
 	division= {
 			name = "3-ya Finlandskaya Strelkovaya Brigada"
-			location = 19085 # Moskva
+			location = 19665 # Nikolayshtadt
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -127,7 +127,7 @@ units = {
 
 	division= {
 			name = "20-y Dragunsky Finlyandsky"
-			location = 19085 # Moskva
+			location = 19666 # Uleaborg
 			division_template="Kavaleriyskaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -135,7 +135,7 @@ units = {
 
 	division= {
 			name = "53-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 10796 # Serpukhov
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -145,7 +145,7 @@ units = {
 
 	division= {
 			name = "54-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 17371 # Kovno
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -155,7 +155,7 @@ units = {
 
 	division= {
 			name = "55-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 16436 # Vilna
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -165,7 +165,7 @@ units = {
 
 	division= {
 			name = "56-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 19998 # Riga
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -175,7 +175,7 @@ units = {
 
 	division= {
 			name = "57-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 16682 # Pernov
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -185,7 +185,7 @@ units = {
 
 	division= {
 			name = "St Petersburg Local Brigada"
-			location = 19085 # Moskva
+			location = 9985 # Petrograd
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -195,7 +195,7 @@ units = {
 
 	division= {
 			name = "26-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 13220 # Bakhmut
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -203,7 +203,7 @@ units = {
 
 	division= {
 			name = "43-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 11984 # Voronezh
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -211,7 +211,7 @@ units = {
 
 	division= {
 			name = "Kharkov Local Brigada"
-			location = 19085 # Moskva
+			location = 12724 # Kharkov
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -221,7 +221,7 @@ units = {
 
 	division= {
 			name = "Poltava Local Brigada"
-			location = 19085 # Moskva
+			location = 2158 # Poltava
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -231,7 +231,7 @@ units = {
 
 	division= {
 			name = "5-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 10472 # Tver
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -239,7 +239,7 @@ units = {
 
 	division= {
 			name = "42-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 13406 # Yekaterinoslav
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -247,7 +247,7 @@ units = {
 
 	division= {
 			name = "9-ya Kavaleriyskaya Diviziya"
-			location = 19085 # Moskva
+			location = 12221 # Kholm
 			division_template="Kavaleriyskaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -255,7 +255,7 @@ units = {
 
 	division= {
 			name = "9-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 19908 # Lodz
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -263,7 +263,7 @@ units = {
 
 	division= {
 			name = "31-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 12949 # Cherkassy
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -271,7 +271,7 @@ units = {
 
 	division= {
 			name = "10-ya Kavaleriyskaya Diviziya"
-			location = 19085 # Moskva
+			location = 9085 # Gomel
 			division_template="Kavaleriyskaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -279,7 +279,7 @@ units = {
 
 	division= {
 			name = "11-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 9973 # Petrograd
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -287,7 +287,7 @@ units = {
 
 	division= {
 			name = "32-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 19014 # Yamburg
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -295,7 +295,7 @@ units = {
 
 	division= {
 			name = "11-ya Kavaleriyskaya Diviziya"
-			location = 19085 # Moskva
+			location = 10012 # Petergof
 			division_template="Kavaleriyskaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -303,7 +303,7 @@ units = {
 
 	division= {
 			name = "12-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 19994 # Yuriyev
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -311,7 +311,7 @@ units = {
 
 	division= {
 			name = "19-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 19995 # Volmar
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -319,7 +319,7 @@ units = {
 
 	division= {
 			name = "12-ya Kavaleriyskaya Diviziya"
-			location = 19085 # Moskva
+			location = 9660 # Mitava
 			division_template="Kavaleriyskaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -327,7 +327,7 @@ units = {
 
 	division= {
 			name = "2-ya Kazach'ya Svodnaya Diviziya"
-			location = 19085 # Moskva
+			location = 10711 # Tauroggen
 			division_template="Kazak Kavaleriyskaya"
 			start_experience_factor=0.1
 			}
@@ -335,7 +335,7 @@ units = {
 
 	division= {
 			name = "3-ya Strelkovaya Brigada"
-			location = 19085 # Moskva
+			location = 19931 # Suvalky
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -343,7 +343,7 @@ units = {
 
 	division= {
 			name = "33-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 13888 # Nikolayev
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -351,7 +351,7 @@ units = {
 
 	division= {
 			name = "44-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 16734 # Shusha
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -359,7 +359,7 @@ units = {
 
 	division= {
 			name = "13-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 18947 # Baku
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -367,15 +367,15 @@ units = {
 
 	division= {
 			name = "34-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 18490 # Kutais
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
 
 
 	division= {
-			name = "Crimean Kavaleriyskaya Brigada"
-			location = 19085 # Moskva
+			name = "Krymske Kavaleriyskaya Brigada"
+			location = 6966 # Feodosiya
 			division_template="Kavaleriyskaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -383,7 +383,7 @@ units = {
 
 	division= {
 			name = "14-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 11421 # Mlava
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -391,7 +391,7 @@ units = {
 
 	division= {
 			name = "15-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 19924 # Pinsk
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -399,7 +399,7 @@ units = {
 
 	division= {
 			name = "8-ya Kavaleriyskaya Diviziya"
-			location = 19085 # Moskva
+			location = 12451 # Lutsk
 			division_template="Kavaleriyskaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -407,7 +407,7 @@ units = {
 
 	division= {
 			name = "4-ya Strelkovaya Brigada"
-			location = 19085 # Moskva
+			location = 19915 # Rovno
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -415,7 +415,7 @@ units = {
 
 	division= {
 			name = "69-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 14393 # Simferopol
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -425,7 +425,7 @@ units = {
 
 	division= {
 			name = "Sevastopol Garrison"
-			location = 19085 # Moskva
+			location = 3523 # Sevastopol
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -434,8 +434,8 @@ units = {
 
 
 	division= {
-			name = "Moscow Local Brigada"
-			location = 19085 # Moskva
+			name = "Moskva Local Brigada"
+			location = 18646 # Moskva
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -444,8 +444,8 @@ units = {
 
 
 	division= {
-			name = "Jaraslavl Local Brigada"
-			location = 19085 # Moskva
+			name = "Yaroslavl Local Brigada"
+			location = 18610 # Yaroslavl
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -455,7 +455,7 @@ units = {
 
 	division= {
 			name = "Smolensk Local Brigada"
-			location = 19085 # Moskva
+			location = 10825 # Smolensk
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -465,7 +465,7 @@ units = {
 
 	division= {
 			name = "1-ya Grenaderskaya Diviziya"
-			location = 19085 # Moskva
+			location = 13034 # Vinnitsia
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.2
 			start_equipment_factor = 0.8
@@ -474,7 +474,7 @@ units = {
 
 	division= {
 			name = "2-ya Grenaderskaya Diviziya"
-			location = 19085 # Moskva
+			location = 20391 # Beltsy
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.2
 			start_equipment_factor = 0.8
@@ -483,7 +483,7 @@ units = {
 
 	division= {
 			name = "1-ya Kavaleriyskaya Diviziya"
-			location = 19085 # Moskva
+			location = 14331 # Slavyanskaya
 			division_template="Kavaleriyskaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -492,7 +492,7 @@ units = {
 
 	division= {
 			name = "7-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 12453 # Romny
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -501,7 +501,7 @@ units = {
 
 	division= {
 			name = "10-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 12713 # Kremenets
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -510,7 +510,7 @@ units = {
 
 	division= {
 			name = "3-ya Otdel'naya Kavaleriyskaya Brigada"
-			location = 19085 # Moskva
+			location = 4939 # Kamenets-Podolskiy
 			division_template="Kavaleriyskaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -519,7 +519,7 @@ units = {
 
 	division= {
 			name = "1-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 11800 # Varshava
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -528,7 +528,7 @@ units = {
 
 	division= {
 			name = "36-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 19911 # Ostrovets
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -537,7 +537,7 @@ units = {
 
 	division= {
 			name = "2-ya Otdel'naya Kavaleriyskaya Brigada"
-			location = 19085 # Moskva
+			location = 11802 # Konin
 			division_template="Kavaleriyskaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -546,7 +546,7 @@ units = {
 
 	division= {
 			name = "3-ya Grenaderskaya Diviziya"
-			location = 19085 # Moskva
+			location = 12622 # Breziny
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.2
 			start_equipment_factor = 0.8
@@ -555,7 +555,7 @@ units = {
 
 	division= {
 			name = "76-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 13845 # Mariupol
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -565,7 +565,7 @@ units = {
 
 	division= {
 			name = "Kazan Local Brigada"
-			location = 19085 # Moskva
+			location = 7806 # Kazan
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -575,7 +575,7 @@ units = {
 
 	division= {
 			name = "Orenburg Local Brigada"
-			location = 19085 # Moskva
+			location = 5473 # Orenburg
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -585,7 +585,7 @@ units = {
 
 	division= {
 			name = "Saratov Local Brigada"
-			location = 19085 # Moskva
+			location = 9584 # Saratov
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -594,8 +594,8 @@ units = {
 
 
 	division= {
-			name = "Ural Region Local Brigada"
-			location = 19085 # Moskva
+			name = "Perm Local Brigada"
+			location = 10219 # Perm
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -605,7 +605,7 @@ units = {
 
 	division= {
 			name = "20-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 18924 # Arkhangelsk
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -614,7 +614,7 @@ units = {
 
 	division= {
 			name = "39-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 16886 # Galich
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -623,7 +623,7 @@ units = {
 
 	division= {
 			name = "1-ya Kavkazskaya Kazach'ya Diviziya"
-			location = 19085 # Moskva
+			location = 10727 # Chistopol
 			division_template="Kazak Kavaleriyskaya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -632,7 +632,7 @@ units = {
 
 	division= {
 			name = "1-ya Kavkazskaya Strelkovaya Brigada"
-			location = 19085 # Moskva
+			location = 11357 # Samara
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -641,7 +641,7 @@ units = {
 
 	division= {
 			name = "Kavkazskaya Grenaderskaya Diviziya"
-			location = 19085 # Moskva
+			location = 12051 # Saratov
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.2
 			start_equipment_factor = 0.8
@@ -650,7 +650,7 @@ units = {
 
 	division= {
 			name = "51-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 13216 # Tsaritsyn
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -659,7 +659,7 @@ units = {
 
 	division= {
 			name = "2-ya Kavkazskaya Strelkovaya Brigada"
-			location = 19085 # Moskva
+			location = 2346 # Nikolskoye
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -668,7 +668,7 @@ units = {
 
 	division= {
 			name = "Kavkazskaya Kavaleriyskaya Diviziya"
-			location = 19085 # Moskva
+			location = 1273 # Svyatogo Kresta
 			division_template="Kavaleriyskaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -677,7 +677,7 @@ units = {
 
 	division= {
 			name = "2 Kavkazskaya Kazach'ya Diviziya"
-			location = 19085 # Moskva
+			location = 16165 # Grozniy
 			division_template="Kazak Kavaleriyskaya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -686,7 +686,7 @@ units = {
 
 	division= {
 			name = "21-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 14747 # Sukhum
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -695,7 +695,7 @@ units = {
 
 	division= {
 			name = "52-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 14926 # Batum
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -704,7 +704,7 @@ units = {
 
 	division= {
 			name = "3 Kavkazskaya Kazach'ya Diviziya"
-			location = 19085 # Moskva
+			location = 21523 # Igdyr
 			division_template="Kavaleriyskaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -713,7 +713,7 @@ units = {
 
 	division= {
 			name = "80-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 15091 # Olty
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -723,7 +723,7 @@ units = {
 
 	division= {
 			name = "81-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 21534 # Kars
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -733,7 +733,7 @@ units = {
 
 	division= {
 			name = "82-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 17623 # Aleksandropol
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -743,7 +743,7 @@ units = {
 
 	division= {
 			name = "83-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 15169 # Yerevan
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -753,7 +753,7 @@ units = {
 
 	division= {
 			name = "84-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 5513 # Yelizavetpol
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -763,7 +763,7 @@ units = {
 
 	division= {
 			name = "Tiflis Local Brigada"
-			location = 19085 # Moskva
+			location = 16403 # Tiflis
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -773,7 +773,7 @@ units = {
 
 	division= {
 			name = "Vladikavkaz Local Brigada"
-			location = 19085 # Moskva
+			location = 8187 # Vladikavkaz
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -783,7 +783,7 @@ units = {
 
 	division= {
 			name = "1-ya Turkestanskaya Strelkovaya Brigada"
-			location = 19085 # Moskva
+			location = 7626 # Novosergiyevka
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -792,7 +792,7 @@ units = {
 
 	division= {
 			name = "2-ya Turkestanskaya Strelkovaya Brigada"
-			location = 19085 # Moskva
+			location = 11991 # Novosergiyevka
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -801,7 +801,7 @@ units = {
 
 	division= {
 			name = "3-ya Turkestanskaya Strelkovaya Brigada"
-			location = 19085 # Moskva
+			location = 4678 # Meleuz
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -810,7 +810,7 @@ units = {
 
 	division= {
 			name = "1 Turkestanskaya Kazach'ya Diviziya"
-			location = 19085 # Moskva
+			location = 3686 # Aksay
 			division_template="Kazak Kavaleriyskaya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -819,7 +819,7 @@ units = {
 
 	division= {
 			name = "4-ya Turkestanskaya Strelkovaya Brigada"
-			location = 19085 # Moskva
+			location = 18781 # Uralsk
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -828,7 +828,7 @@ units = {
 
 	division= {
 			name = "5-ya Turkestanskaya Strelkovaya Brigada"
-			location = 19085 # Moskva
+			location = 19019 # Guryev
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -837,7 +837,7 @@ units = {
 
 	division= {
 			name = "85-ya Pekhotnaya Diviziya"
-			location = 19085 # Moskva
+			location = 20392 # Kishinev
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -847,7 +847,7 @@ units = {
 
 	division= {
 			name = "6-ya Turkestanskaya Strelkovaya Brigada"
-			location = 19085 # Moskva
+			location = 10984 # Beleby
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -857,7 +857,7 @@ units = {
 
 	division= {
 			name = "Sibirskaya Kazach'ya Brigada"
-			location = 19085 # Moskva
+			location = 9197 # Beleby
 			division_template="Kazak Kavaleriyskaya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -866,7 +866,7 @@ units = {
 
 	division= {
 			name = "Tashkent Garrison"
-			location = 19085 # Moskva
+			location = 11302 # Sterlitamak
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -876,7 +876,7 @@ units = {
 
 	division= {
 			name = "11-ya Sibirskaya Strelkovaya Diviziya"
-			location = 19085 # Moskva
+			location = 11187 # Sterlitamak
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -885,7 +885,7 @@ units = {
 
 	division= {
 			name = "3-ya Sibirskaya Kazach'ya"
-			location = 19085 # Moskva
+			location = 2671 # Orenburg
 			division_template="Kavaleriyskaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -895,7 +895,7 @@ units = {
 
 	division= {
 			name = "Omsk Sibirskaya Reserve Diviziya"
-			location = 19085 # Moskva
+			location = 6753 # Osa
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -905,7 +905,7 @@ units = {
 
 	division= {
 			name = "Omsk Local Brigada"
-			location = 19085 # Moskva
+			location = 2317 # Orsk
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -914,7 +914,7 @@ units = {
 
 	division= {
 			name = "5-ya Sibirskaya Strelkovaya Diviziya"
-			location = 19085 # Moskva
+			location = 1825 # Orsk
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			}
@@ -922,7 +922,7 @@ units = {
 
 	division= {
 			name = "Trans-Baikal Kazach'ya Brigada"
-			location = 19085 # Moskva
+			location = 2629 # Baymak
 			division_template="Kazak Kavaleriyskaya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -932,7 +932,7 @@ units = {
 
 	division= {
 			name = "7-ya Sibirskaya Strelkovaya Diviziya"
-			location = 19085 # Moskva
+			location = 11001 # Beloretsk
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -940,7 +940,7 @@ units = {
 
 	division= {
 			name = "Irkutsk Local Brigada"
-			location = 19085 # Moskva
+			location = 3777 # Beloretsk
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -950,7 +950,7 @@ units = {
 
 	division= {
 			name = "13-ya Sibirskaya Reserve Diviziya"
-			location = 19085 # Moskva
+			location = 6277 # Beloretsk
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -960,7 +960,7 @@ units = {
 
 	division= {
 			name = "1-ya Sibirskaya Strelkovaya Diviziya"
-			location = 19085 # Moskva
+			location = 5789 # Birsk
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -969,7 +969,7 @@ units = {
 
 	division= {
 			name = "2-ya Sibirskaya Strelkovaya Diviziya"
-			location = 19085 # Moskva
+			location = 18053 # Perm
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -978,7 +978,7 @@ units = {
 
 	division= {
 			name = "3-ya Sibirskaya Strelkovaya Diviziya"
-			location = 19085 # Moskva
+			location = 1175 # Okhan
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -987,7 +987,7 @@ units = {
 
 	division= {
 			name = "9-ya Sibirskaya Strelkovaya"
-			location = 19085 # Moskva
+			location = 8892 # Dobryanka
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -996,7 +996,7 @@ units = {
 
 	division= {
 			name = "6-ya Sibirskaya Strelkovaya Diviziya"
-			location = 19085 # Moskva
+			location = 455 # Dobryanka
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -1005,7 +1005,7 @@ units = {
 
 	division= {
 			name = "10-ya Sibirskaya Strelkovaya Diviziya"
-			location = 19085 # Moskva
+			location = 457 # Yekaterinburg
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -1014,7 +1014,7 @@ units = {
 
 	division= {
 			name = "14-ya Sibirskaya Reserve Diviziya"
-			location = 19085 # Moskva
+			location = 428 # Yekaterinburg
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -1024,7 +1024,7 @@ units = {
 
 	division= {
 			name = "Vladivostok Garrison"
-			location = 19085 # Moskva
+			location = 11529 # Buzuluk
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8
@@ -1034,7 +1034,7 @@ units = {
 
 	division= {
 			name = "Khabarovsk Garrison"
-			location = 19085 # Moskva
+			location = 1689 # Iletsk
 			division_template="Diviziya Opolcheniya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8

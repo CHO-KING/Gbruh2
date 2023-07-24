@@ -493,5 +493,73 @@ focus_tree = {
 			}
 		}
 	}
+	
+	focus = {
+		id = SER_create_yugoslavia
+		icon = GFX_focus_invite_yugoslavia
+		prerequisite = { focus = SER_continue_the_fight }
+		prerequisite = { focus = SER_guerilla_strategy }
+		x = 4
+		y = 1
+		relative_position_id = SER_continue_the_fight
+		cost = 2
+		ai_will_do = {
+			factor = 1
+		}
+		
+		available = {
+			790 = { #Beograd
+				CONTROLLER = {
+					OR = {
+						tag = SER
+						is_subject_of = SER
+					}
+				}
+			}
+			1499 = { #Sarajewo
+				CONTROLLER = {
+					OR = {
+						tag = SER
+						is_subject_of = SER
+					}
+				}
+			}
+			1464 = { #Zagrab
+				CONTROLLER = {
+					OR = {
+						tag = SER
+						is_subject_of = SER
+					}
+				}
+			}
+			743 = { #Laibach
+				CONTROLLER = {
+					OR = {
+						tag = SER
+						is_subject_of = SER
+					}
+				}
+			}
+			2798 = { #Cetinje
+				CONTROLLER = {
+					OR = {
+						tag = SER
+						is_subject_of = SER
+					}
+				}
+			}
+			NOT = {
+				any_state = {
+					NOT = { is_fully_controlled_by = SER }
+				}
+			}
+		}
+
+		completion_reward = {
+			add_political_power = 150
+			set_cosmetic_tag = SER_YUG
+			set_global_flag = formed_yugoslavia
+		}
+	}
 
 }
