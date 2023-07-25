@@ -17,7 +17,7 @@ state={
 			2751 = { naval_base = 3 }
 		}
         victory_points = {
-            14431 20 #Bordeaux
+            14431 40 #Bordeaux
         }
         victory_points = {
             1777 2 #Libourne

@@ -783,7 +783,7 @@ units = {
 
 	division= {
 			name = "1-ya Turkestanskaya Strelkovaya Brigada"
-			location = 7626 # Novosergiyevka
+			location = 7627 # Novosergiyevka
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8

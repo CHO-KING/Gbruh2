@@ -14,7 +14,7 @@ state={
 		
 		
         victory_points = {
-            14737 10 #Toulon
+            14737 20 #Toulon
         }
         victory_points = {
             1712 5 #Fréjus

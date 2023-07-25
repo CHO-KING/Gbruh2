@@ -17,7 +17,7 @@ state={
 		}
 		
         victory_points = {
-            13459 20 #Rennes
+            13459 15 #Rennes
         }
 		victory_points = {
             13267 5 #Saint-Malo

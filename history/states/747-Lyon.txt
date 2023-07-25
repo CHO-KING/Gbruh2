@@ -14,7 +14,7 @@ state={
 			industrial_complex = 2
 		}
         victory_points = {
-            8147 20 #Lyon
+            8147 40 #Lyon
         }
     }
 	manpower=463060
