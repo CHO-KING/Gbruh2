@@ -7,8 +7,9 @@ state={
 		owner = SOV
 		add_core_of = SOV
 
-		victory_points = { 10482 20 }
-		victory_points = { 7983 5 }
+		victory_points = { 3257 20 } #Novgorod
+		victory_points = { 16987 2 } #Bogorodskoye
+		victory_points = { 1836 2 } #Gorodets
 		buildings = {
 			infrastructure = 3
 			arms_factory = 2
@@ -22,6 +23,6 @@ state={
 	}
 	manpower=1727392
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=city
 	local_supplies=0.000
 }

@@ -63,7 +63,7 @@ division_template = {
 units = {
 	division= { 
 		name = "Sumadijska divizija II poziva"
-		location = 14459 #Beograd
+		location = 20200 #Smederevo
 		division_template="Infantry Division"
 		start_experience_factor=0.1
 	}
@@ -71,14 +71,14 @@ units = {
 	
 	division= { 
 		name = "Uzicka brigada"
-		location = 14459 #Beograd
+		location = 20121 #Uzice
 		division_template="Infantry Division"
 		start_experience_factor=0.1
 	}
 	
 	
 	division= { 
-		name = "Lima sekcija"
+		name = "Beogradka brigada"
 		location = 14459 #Beograd
 		division_template="Infantry Division"
 		start_experience_factor=0.1
@@ -87,7 +87,7 @@ units = {
 	
 	division= { 
 		name = "Timocka divizija I poziva"
-		location = 14459 #Beograd
+		location = 5842 #Zajecar
 		division_template="Infantry Division"
 		start_experience_factor=0.1
 	}
@@ -95,7 +95,7 @@ units = {
 	
 	division= { 
 		name = "Timocka divizija II poziva"
-		location = 14459 #Beograd
+		location = 3833 #Knjacevac
 		division_template="Infantry Division"
 		start_experience_factor=0.1
 	}
@@ -103,21 +103,21 @@ units = {
 	
 	division= { 
 		name = "Moravska divizija II poziva"
-		location = 14459 #Beograd
+		location = 20201 #Krusevac
 		division_template="Infantry Division"
 		start_experience_factor=0.1
 	}
 
 	division= { 
 		name = "Moravska divizija I poziva"
-		location = 14459 #Beograd
+		location = 20196 #Vranje
 		division_template="Infantry Division"
 		start_experience_factor=0.1
 	}
 
 	division= { 
 		name = "Konjica Divizija"
-		location = 14459 #Beograd
+		location = 20122 #Sabac
 		division_template="Cavalry Division"
 		start_experience_factor=0.1
 	}

@@ -1,0 +1,28 @@
+﻿l_english:
+
+ o_strat_offensive_default: "Offensive Operation"
+ o_strat_defensive_default: "Defensive Order"
+ o_strat_naval_default: "Landing Operation"
+
+ o_operation: "Operation"
+
+ ###German
+ o_blucher: "Blücher"
+ o_michael: "Michael"
+ o_yorck: "Yorck"
+ o_gneisenau: "Gneisenau"
+ o_handstreich: "Handstreich"
+ o_katzensprung: "Katzensprung"
+ o_gericht: "Gericht"
+ o_alberich: "Alberich"
+ o_albion: "Albion"
+ o_faustschlag: "Faustschlag"
+ o_georgette: "Georgette"
+ o_schlieffen: "Schlieffen"
+
+ ###Russia
+ o_operatsiya: "Operatsiya"
+
+ ###ENG & CAN
+ o_hush: "Hush"
+

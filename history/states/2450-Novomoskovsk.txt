@@ -12,20 +12,17 @@ state={
 			infrastructure = 3
 		}
 		victory_points = {
-			8742 10
+			8742 2 #Bobriki
 		}
 		victory_points = {
-			11347 2
+			11347 2 #Yefremov
 		}
 		victory_points = {
-			8960 2
-		}
-		victory_points = {
-			1726 2
+			8960 2 #Bogorditsk
 		}
 	}
 	manpower=496024
-	state_category=city
+	state_category=rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

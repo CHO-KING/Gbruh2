@@ -7,9 +7,10 @@ state={
 		owner = SOV
 		add_core_of = SOV
 
-		victory_points = { 10481 10 }
-		victory_points = { 4068 10 }
-		victory_points = { 10596 5 }
+		victory_points = { 10481 5 } #Kovrov
+		victory_points = { 4068 5 } #Murom
+		victory_points = { 10596 2 } #Gus
+		victory_points = { 10704 2 } #Melenki
 		buildings = {
 			infrastructure = 3
 
@@ -22,6 +23,6 @@ state={
 	}
 	manpower=338325
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 	local_supplies=0.000
 }

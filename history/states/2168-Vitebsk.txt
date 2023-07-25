@@ -14,10 +14,10 @@ state={
 			arms_factory = 1
 			industrial_complex = 1
 		}
-		victory_points = { 10730 20 }
+		victory_points = { 10730 15 }
 	}
 	manpower=252050
-	state_category=city
+	state_category=large_town
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

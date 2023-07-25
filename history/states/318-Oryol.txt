@@ -13,11 +13,20 @@ state={
 			industrial_complex = 1
 		}
 		victory_points = {
-			2538 20
+			2538 20 #Oryol
 		}
 		victory_points = {
-			11316 2
+			8079 2 #Mtsensk
 		}
+		victory_points = {
+			16349 2 #Bolkhov
+		}
+		victory_points = {
+			3526 2 #Kromy
+		}
+		victory_points = {
+			4019 2 #Dmitrovka
+		}		
 
 	}
 

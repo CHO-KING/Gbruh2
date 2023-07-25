@@ -10,9 +10,8 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-        victory_points = { 10472 20 }
-        victory_points = { 18955 5 }
-        victory_points = { 16051 2 }
+        victory_points = { 10472 10 } #Tver
+        victory_points = { 18955 2 } #Kimra
 	}
 
 	provinces={
@@ -20,6 +19,6 @@ state={
 	}
 	manpower=545332
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=large_town
 	local_supplies=0.000
 }

@@ -12,19 +12,12 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		
 		victory_points = {
-			19039 40
-		}
-		victory_points = {
-			10628 20
-		}
-		victory_points = {
-			10690 2
+			10629 2 #Yelabuga
 		}
 	}
 	manpower=541996
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=pastoral
 	local_supplies=0.000
 }

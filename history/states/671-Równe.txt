@@ -16,7 +16,7 @@ state={
 			industrial_complex = 1
 		}
         victory_points = {
-            19915 10
+            19915 5
         }
   	}
 	manpower=268060

@@ -12,9 +12,8 @@ state={
 			infrastructure = 3
 
 		}
-        victory_points = { 17238 20 }
-        victory_points = { 10274 2 }
-        victory_points = { 9305 2 }
+        victory_points = { 17238 15 } #Kostroma
+        victory_points = { 16886 2 } #Galich
     }
 
 	provinces={
@@ -22,6 +21,6 @@ state={
 	}
 	manpower=370496
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=large_town
 	local_supplies=0.000
 }

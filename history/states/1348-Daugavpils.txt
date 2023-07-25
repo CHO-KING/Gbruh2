@@ -9,12 +9,14 @@ state={
 		add_core_of = SOV
 		buildings = {
 			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 2
 			3868 = {
 				bunker = 1
 			}
 		}
 		victory_points = {
-			3868 40 
+			3868 20 
 		}
 
 	}

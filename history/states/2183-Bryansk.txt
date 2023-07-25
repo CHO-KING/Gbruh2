@@ -11,7 +11,10 @@ state={
 			infrastructure = 3
 		}
 		victory_points = {
-			11394 20
+			11394 10 #Bryansk
+		}
+		victory_points = {
+			11412 2 #Karachev
 		}
 
 	}
@@ -21,6 +24,6 @@ state={
 	}
 	manpower=581415
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=large_town
 	local_supplies=0.000
 }

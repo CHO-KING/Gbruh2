@@ -18,7 +18,6 @@ recruit_character = UKR_skoropadsky
 set_research_slots = 3
 set_stability = 1.0
 set_war_support = 1.0
-set_research_slots = 3
 
 # Starting tech
 set_technology = {

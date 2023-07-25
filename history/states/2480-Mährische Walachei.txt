@@ -1,0 +1,19 @@
+state={
+	id=2480
+	name="STATE_2480"
+	provinces={
+		7264 7998 12877 12925 12980		
+	}
+	history = {
+		owner = AUS
+		add_core_of = CZE
+
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	manpower=357840
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

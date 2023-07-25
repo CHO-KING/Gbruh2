@@ -5,7 +5,7 @@ state={
 		oil=100
 	}
 	history = {
-		victory_points = { 18947 80 }
+		victory_points = { 18947 25 }
 		owner = SOV
 		add_core_of = SOV
 		

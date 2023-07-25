@@ -3,7 +3,7 @@ state={
 	id=482
 	name="STATE_482"
 	provinces={
-		5375 5887 7971 9341 12447 12471 12522 12533 12557 19898
+		5375 5887 7971 9341 12335 12447 12471 12522 12533 12557 19898
 	}
 	history={
 		owner = BEL
@@ -11,7 +11,7 @@ state={
 		buildings = {
 			infrastructure = 4
 			arms_factory = 2
-			industrial_complex = 5
+			industrial_complex = 8
 		}
 		 
         victory_points = {
@@ -25,6 +25,9 @@ state={
         }
 		victory_points = {
             12557 2 #La Louvière
+        }
+		victory_points = {
+            12335 2 #Mouscron
         }
     }
 	manpower=1050000

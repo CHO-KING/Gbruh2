@@ -11,7 +11,13 @@ state={
 			infrastructure = 3
 		}
 		victory_points = {
-			4358 2 
+			4358 2 #Pesochnya
+		}
+		victory_points = {
+			10974 2 #Kozelsk 
+		}
+		victory_points = {
+			11022 2 #Sukhinichi
 		}
 
 	}
@@ -21,6 +27,6 @@ state={
 	}
 	manpower=213005
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=rural
 	local_supplies=0.000
 }

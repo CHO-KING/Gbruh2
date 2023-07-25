@@ -1065,7 +1065,7 @@ mobilization = {
 					owner = TUR
 				}
 			}
-			1327 = {
+			1313 = {
 				create_unit = {
 					division = "name = \"Reservists\" division_template = \"Reservists\" start_experience_factor = 0.2 force_equipment_variants = { infantry_equipment_1 = { owner = \"TUR\" } } force_equipment_variants = { light_field_gun_equipment_1 = { owner = \"TUR\" } }"
 					owner = TUR
@@ -1566,7 +1566,7 @@ mobilization = {
 					owner = TUR
 				}
 			}
-			1327 = {
+			1313 = {
 				create_unit = {
 					division = "name = \"Reservists\" division_template = \"Reservists\" start_experience_factor = 0.2 force_equipment_variants = { infantry_equipment_2 = { owner = \"TUR\" } } force_equipment_variants = { light_field_gun_equipment_2 = { owner = \"TUR\" } }"
 					owner = TUR

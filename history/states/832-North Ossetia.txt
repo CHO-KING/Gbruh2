@@ -7,7 +7,7 @@ state={
 	}
 	history={
 		victory_points = {
-			8187 20 
+			8187 15 #Vladikavkaz 
 		}
 		owner = SOV
 		add_core_of = SOV

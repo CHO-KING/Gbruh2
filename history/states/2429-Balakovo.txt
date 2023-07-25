@@ -13,21 +13,24 @@ state={
 			infrastructure = 3
 		}
 		victory_points = {
-			17621 10
+			17621 2 #Balakovo
 		}
 		victory_points = {
-			11870 5
+			11870 5 #Volsk
 		}
 		victory_points = {
-			9640 2
+			9640 2 #Nikolayevsk
 		}
 		victory_points = {
-			6009 2
+			12697 2 #Alexandrov
+		}
+		victory_points = {
+			12578 2 #Novouzensk
 		}
 
 	}
 	manpower=691092
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=rural
 	local_supplies=0.000
 }

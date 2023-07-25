@@ -212,6 +212,68 @@ economy_decisions = {
 		}
 	}
 }
+ROM_integration_decisions = {
+	ROM_Integrate_Lost_States = {
+		name = integrate_state
+		icon = eng_trade_unions_support
+		allowed = { tag = ROM }
+
+		available = {
+			FROM = {
+				is_fully_controlled_by = ROOT
+			}
+			if = {
+				limit = {
+					FROM = {
+						has_resistance = yes
+					}
+				}
+				FROM = {
+					compliance > 30
+				}
+			}
+		}
+
+		visible = {
+			FROM = {
+				is_owned_and_controlled_by = ROOT
+				NOT = { is_core_of = ROOT }
+			}
+		}
+
+		cost = 15
+		days_remove = 30
+		fire_only_once = no
+		cancel_if_not_visible = yes
+
+		state_target = yes
+		targets = { 592 600 1606 1605 1604 1603 1602 2744 2745 1601 794 }
+		target_trigger = {
+			FROM = {
+				is_owned_and_controlled_by = ROOT
+				NOT = { is_core_of = ROOT }
+			}
+		}
+
+		ai_will_do = { factor = 100 }
+
+		cancel_effect = {
+			log = "[GetDateText]: [Root.GetName]: Decision cancel ROM_Integrate_Lost_States target: [From.GetName]"
+			add_political_power = 15
+		}
+
+		remove_effect = {
+			log = "[GetDateText]: [Root.GetName]: Decision remove ROM_Integrate_Lost_States target: [From.GetName]"
+			FROM = {
+				if = {
+					limit = { is_claimed_by = ROOT }
+					remove_claim_by = ROOT
+				}
+				add_core_of = ROOT
+			}
+		}
+	}
+}
 balkan_wars = {
 	ROM_intervene_second_balkan = {
 		icon = generic_operation
@@ -478,4 +540,3 @@ mobilization = {
 			}
 		}
 	}
-}

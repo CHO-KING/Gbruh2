@@ -13,14 +13,17 @@ state={
 			infrastructure = 3
 		}
 		victory_points = {
-			12615 5
+			12615 2
 		}
 		victory_points = {
-			3979 2
+			3979 5
+		}
+		victory_points = {
+			8381 2
 		}
 	}
 	manpower=264047
-	state_category=large_town
+	state_category=rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

@@ -13,17 +13,16 @@ state={
 			industrial_complex = 1
 		}
 		victory_points = {
-			10952 20 
+			10952 20 #Tula
 		}
 		victory_points = {
-			5804 5 
+			1763 2 #Venov
 		}
 		victory_points = {
-			1322 2
+			1061 2 #Belyov
 		}
-
 		victory_points = {
-			9145 2
+			10895 2 #Aleksin
 		}
 	}
 
@@ -32,6 +31,6 @@ state={
 	}
 	manpower=744036
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=city
 	local_supplies=0.000
 }
