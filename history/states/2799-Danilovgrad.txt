@@ -2,13 +2,11 @@
 state={
 	id=2799
 	name="STATE_2799"
-	provinces={
-		6800 20181 
-	}
 	resources={
-		chromium=5
-		aluminium = 5
+		chromium=5.000
+		aluminium=5.000
 	}
+
 	history={
 		owner = SER
 		add_core_of = SER
@@ -16,11 +14,14 @@ state={
 			infrastructure = 2
 
 		}
-		 
 
 	}
+
+	provinces={
+		4425 6800 16828 20181 
+	}
 	manpower=11482
-	state_category=pastoral
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 	local_supplies=0.000
 }

@@ -5,23 +5,19 @@ state={
 
 	history={
 		owner = SER
-		
 		buildings = {
 			infrastructure = 2
 
 		}
 		add_core_of = SER
-		victory_points = {
-			20168 5 
-		}
 
 	}
 
 	provinces={
-		3051 14769 16177 17237 20168 20169 
+		3051 17237 20169 
 	}
 	manpower=80551
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 	local_supplies=0.000
 }
