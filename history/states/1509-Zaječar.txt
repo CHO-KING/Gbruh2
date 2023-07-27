@@ -12,10 +12,10 @@ state={
 		}
 		 
 		victory_points = {
-			5842 2 
+			5842 2 #Zajecar
 		}
 		victory_points = {
-			3833 2 
+			7908 2 #Negotin
 		}
 
 	}

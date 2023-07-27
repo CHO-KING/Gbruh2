@@ -11,13 +11,10 @@ state={
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
-			industrial_complex = 1
+			industrial_complex = 2
 		}
 		victory_points = { 
-			4719 10 #Kragujevac
-		}
-		victory_points = {
-			1085 2 #Aranđelovac
+			4719 5 #Kragujevac
 		}
 	}
 	manpower=231879

@@ -12,7 +12,7 @@ state={
 
 		}
 		victory_points = {
-			20168 2 
+			20168 2 #Niksic
 		}
 
 	}

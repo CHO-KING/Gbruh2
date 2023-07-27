@@ -12,7 +12,7 @@ state={
 		buildings = {
 			infrastructure = 4
 			arms_factory = 4
-			industrial_complex = 4
+			industrial_complex = 3
 			14459 = {
 				bunker = 1
 
@@ -20,10 +20,10 @@ state={
 
 		}
 		victory_points = {
-			14459 20 
+			14459 20 #Beograd
 		}
 		victory_points = {
-			20200 5 
+			20200 2 #Smederevo 
 		}
 
 	}

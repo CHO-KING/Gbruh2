@@ -13,13 +13,19 @@ state={
 		add_core_of = SER
 		buildings = {
 			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
 
+		}
+		
+		victory_points = {
+			14671 2 #Aleksinac
 		}
 		 
 
 	}
 	manpower=18303
-	state_category=pastoral
+	state_category=rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

@@ -9,10 +9,12 @@ state={
 		add_core_of = BUL
 		buildings = {
 			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 1
 
 		}
 		victory_points = {
-			20196 5 
+			20196 5 #Vranje
 		}
 
 	}
@@ -22,6 +24,6 @@ state={
 	}
 	manpower=45405
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 	local_supplies=0.000
 }
