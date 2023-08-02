@@ -621,6 +621,7 @@ balkan_wars = {
 				transfer_state = 2007
 				transfer_state = 888
 				transfer_state = 2796
+				transfer_state = 989
 				remove_mission = SER_first_balkan_war
 				random_unit_leader = {
 					limit = {
