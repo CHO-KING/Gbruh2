@@ -12,9 +12,6 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		victory_points = {
-			20393 2
-		}
 	}
 	provinces={
 		7872 7933 8044 14375 14384 14462 20393 20412 
@@ -22,5 +19,5 @@ state={
 	manpower=325815
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = large_town
+	state_category = pastoral
 }

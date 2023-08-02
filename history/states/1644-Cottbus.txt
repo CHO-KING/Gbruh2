@@ -14,7 +14,7 @@ state={
 		
 		
 		
-		victory_points = { 20565 7 } #Cottbus
+		victory_points = { 20565 5 } #Cottbus
 		victory_points = { 8870 2 } #Spremberg
 		victory_points = { 9495 2 } #Forst
 		victory_points = { 12043 2 } #Senftenberg

@@ -10,7 +10,7 @@ state={
 			infrastructure = 3
 		}
 		victory_points = {
-			14218 5
+			14218 5 #Focsani
 		}
 	}
 	provinces={
@@ -18,6 +18,6 @@ state={
 	}
 	manpower=203385
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=town
 	local_supplies=0.000
 }

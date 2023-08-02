@@ -11,7 +11,7 @@ state={
 			industrial_complex = 1
 		}
 		victory_points = {
-			14064 5
+			14064 5 #Barlad
 		}
 	}
 	provinces={
