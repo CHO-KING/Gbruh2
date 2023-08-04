@@ -233,6 +233,22 @@ focus_tree = {
 				}
 				add_core_of = AUS
 			}
+			hidden_effect = {
+			683 = { add_core_of = AUS } #Welschtirol
+			1533 = { add_core_of = AUS } #Gorz
+			1483 = { add_core_of = AUS } #Capodistria
+			744 = { add_core_of = AUS } #Triest
+			762 = { add_core_of = AUS } #Istrien
+			2330 = { add_core_of = AUS } #Albona
+			1474 = { add_core_of = AUS } #Cherso
+			755 = { add_core_of = AUS } #Fiume
+			1534 = { add_core_of = AUS } #Lagosta
+			1482 = { add_core_of = AUS } #Umago
+			564 = { add_core_of = AUS } #Maramos
+			1608 = { add_core_of = AUS } #Bereg
+			1607 = { add_core_of = AUS } #Uzsok
+			562 = { add_core_of = AUS } #Szobranc
+			}
 		}
 	}
 
