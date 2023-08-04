@@ -18,10 +18,10 @@ state={
 		}
     }
 	provinces={
-		724 783 1676 3239 4760 7758 14372 14387 14439 14465 20493 
+		724 783 1676 3239 4760 7758 14372 14387 14439 14465 19834 20493 
 	}
 	manpower=348300
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 	local_supplies=0.000
 }

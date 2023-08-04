@@ -6,16 +6,23 @@ state={
 		owner = FRA
 		add_core_of = FRA
 		
-		
 		buildings = {
 			infrastructure = 3
+			arms_factory = 4
+			industrial_complex = 5
+		}
+		victory_points = {
+			6834 20 #Roubaix
+		}
+		victory_points = {
+			19817 15 #Tourcoing
 		}
     }
 	provinces={
-		19817 19834 
+		6834 19817
 	}
 	manpower=38700
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = pastoral
+	state_category = city
 }
