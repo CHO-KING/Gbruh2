@@ -13490,7 +13490,7 @@
 13489;116;243;207;land;false;urban;1
 13490;230;236;191;land;false;plains;1
 13491;217;148;141;land;false;plains;1
-13492;224;164;161;land;true;plains;1
+13492;224;164;161;land;false;plains;1
 13493;182;162;252;land;false;plains;1
 13494;185;233;242;land;false;plains;1
 13495;91;251;226;land;false;hills;1
@@ -13524,7 +13524,7 @@
 13523;215;165;187;land;false;plains;1
 13524;217;136;190;land;false;plains;1
 13525;253;223;208;land;true;plains;1
-13526;208;223;108;land;false;plains;1
+13526;208;223;108;land;true;plains;1
 13527;209;210;226;land;false;plains;1
 13528;254;89;186;land;false;plains;1
 13529;147;206;162;land;false;plains;1
