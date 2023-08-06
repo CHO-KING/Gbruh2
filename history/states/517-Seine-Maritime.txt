@@ -10,8 +10,8 @@ state={
 		add_core_of = FRA
 		buildings = {
 			infrastructure = 4
-			arms_factory = 2
-			industrial_complex = 2
+			arms_factory = 4
+			industrial_complex = 4
 			dockyard = 1
 			6317 = { naval_base = 1 }
 			12898 = { naval_base = 5 }

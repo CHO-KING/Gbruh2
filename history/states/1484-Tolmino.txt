@@ -4,9 +4,8 @@ state={
 	name="STATE_1484"
 	history = {
 		owner = AUS
-		add_core_of = SER
+		add_claim_by = SER
 		add_claim_by = ITA
-		set_compliance = 25
 		
 		
 		buildings = {

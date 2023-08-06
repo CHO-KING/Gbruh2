@@ -34,3 +34,18 @@
 		}
 	}
 }
+
+LUX = {
+	male = {
+		names = {
+			Damian Pierre Léon Émile Victor Hubert Mathias Paul Peter Joseph Emmanuel Jean Jacques Félix 
+		}
+	}
+	female = {
+		names = {
+			Anne Marie Clara Emma Lydie Marguerite Jeanne Katrin Madeleine Elsy Nelly
+		}
+	}
+	surnames = {
+			Thorn Kauffman Katzenberger Mongenast Loutsch Reuter Martin Prüm Bech Dupong Frieden Werner Eyschen Thilges Bauer Mayer Fink Weiss Schmit
+	}

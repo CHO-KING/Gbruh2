@@ -5,11 +5,9 @@ state={
 		owner = FRA
 		add_core_of = FRA
 		
-		victory_points = { 5238 2 }
+		victory_points = { 5238 2 } #Chartres
 		buildings = {
-			infrastructure = 4
-			arms_factory = 2
-			industrial_complex = 2
+			infrastructure = 3
 		}
     }
 	provinces={
@@ -17,5 +15,5 @@ state={
 	}
 	manpower=252700
 	buildings_max_level_factor=1.000
-	state_category = city
+	state_category = rural
 }

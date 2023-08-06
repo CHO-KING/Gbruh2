@@ -7,7 +7,7 @@ state={
 		add_claim_by = FIN
 
 		buildings = {
-			infrastructure = 3
+			infrastructure = 1
 		}
 		
 	}

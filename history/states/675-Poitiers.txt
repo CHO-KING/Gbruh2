@@ -15,9 +15,6 @@ state={
         victory_points = {
             19857 5 #Poitiers
         }
-		victory_points = {
-			19866 2 #Châtellerault
-		}
     }
 	manpower=199420
 	buildings_max_level_factor=1.000

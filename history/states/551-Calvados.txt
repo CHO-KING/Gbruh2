@@ -8,20 +8,17 @@ state={
 		owner = FRA
 		add_core_of = FRA
 		buildings = {
-			infrastructure = 4
-			arms_factory = 2
-			industrial_complex = 2
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
 			2067 = { naval_base = 2 }
 		}
 		
         victory_points = {
             2067 10 #Caen
         }
-        victory_points = {
-            13052 2 #Lisieux
-        }
     }
 	manpower=404900
 	buildings_max_level_factor=1.000
-	state_category = city
+	state_category = town
 }

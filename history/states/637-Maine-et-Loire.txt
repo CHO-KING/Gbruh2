@@ -17,13 +17,10 @@ state={
 			industrial_complex = 2
 		}
         victory_points = {
-            13722 10 #Angers
+            13722 15 #Angers
         }
 		victory_points = {
-            13834 5 #Cholet
-        }
-        victory_points = {
-            5178 2 #Saumur
+            13834 2 #Cholet
         }
     }
 	manpower=477700
