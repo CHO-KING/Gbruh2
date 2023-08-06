@@ -10,7 +10,7 @@ state={
             5307 2 #Moulins
         }
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
     }
 	provinces={
@@ -19,5 +19,5 @@ state={
 	manpower=55320
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = pastoral
+	state_category = rural
 }

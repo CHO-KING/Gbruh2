@@ -10,7 +10,7 @@ state={
             3088 2 #Angoulême
         }
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
     }
 	provinces={

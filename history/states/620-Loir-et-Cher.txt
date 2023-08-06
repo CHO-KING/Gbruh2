@@ -9,7 +9,7 @@ state={
 		add_core_of = FRA
 		
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
         victory_points = {
             13693 2 #Blois

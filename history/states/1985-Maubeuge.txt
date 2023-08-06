@@ -9,7 +9,7 @@ state={
 			6087 2 #Maubeuge
 		}		
 			buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			6087 = {
 				bunker = 1
 			}

@@ -9,7 +9,7 @@ state={
             2887 2 #Nevers
         }
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
     }
 	provinces={
@@ -17,5 +17,5 @@ state={
 	}
 	manpower=249700
 	buildings_max_level_factor=1.000
-	state_category = large_town
+	state_category = rural
 }
