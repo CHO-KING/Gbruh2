@@ -1,0 +1,62 @@
+FIN_integration_decisions = {
+	FIN_Integrate_Karelia = {
+		name = integrate_state
+		icon = eng_trade_unions_support
+		allowed = { tag = FIN }
+
+		available = {
+			FROM = {
+				is_controlled_by = ROOT
+			}
+			if = {
+				limit = {
+					FROM = {
+						has_resistance = yes
+					}
+				}
+				FROM = {
+					compliance > 40
+				}
+			}
+		}
+
+		visible = {
+			FROM = {
+				is_controlled_by = ROOT
+				NOT = { is_core_of = ROOT }
+			}
+		}
+
+		cost = 15
+		days_remove = 30
+		fire_only_once = no
+		cancel_if_not_visible = yes
+
+		state_target = yes
+		targets = { 2787 57 24 59 30 52 39 38 2785 19 2709 17 16 22 }
+		target_trigger = {
+			FROM = {
+				is_controlled_by = ROOT
+				NOT = { is_core_of = ROOT }
+			}
+		}
+
+		ai_will_do = { factor = 100 }
+
+		cancel_effect = {
+			log = "[GetDateText]: [Root.GetName]: Decision cancel FIN_Integrate_Karelia target: [From.GetName]"
+			add_political_power = 15
+		}
+
+		remove_effect = {
+			log = "[GetDateText]: [Root.GetName]: Decision remove FIN_Integrate_Karelia target: [From.GetName]"
+			FROM = {
+				if = {
+					limit = { is_claimed_by = ROOT }
+					remove_claim_by = ROOT
+				}
+				add_core_of = ROOT
+			}
+		}
+	}
+}

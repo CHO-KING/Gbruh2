@@ -7,9 +7,15 @@ state={
 		add_core_of = FRA
 		buildings = {
 			infrastructure = 4
-			arms_factory = 5
-			industrial_complex = 5
+			arms_factory = 3
+			industrial_complex = 3
 		}
+       victory_points = {
+            19889 10 #Asnières
+        }
+		victory_points = {
+            19886 10 #Ivry-sur-Seine
+        }
     }
 	provinces={
 		19886 19889 
@@ -17,5 +23,5 @@ state={
 	manpower=1019600
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = metropolis
+	state_category = city
 }

@@ -9,16 +9,16 @@ state={
 		add_core_of = FRA
 		
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
         victory_points = {
-            8352 5 #Beauvais
+            8352 2 #Beauvais
         }
         victory_points = {
-            12952 2 #Compiègne
+            2498 1 #Compiègne
         }
     }
 	manpower=402600
 	buildings_max_level_factor=1.000
-	state_category = city
+	state_category = rural
 }

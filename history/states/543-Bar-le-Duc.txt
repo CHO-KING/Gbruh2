@@ -10,7 +10,7 @@ state={
 		add_core_of = FRA
 		
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 			8314 = {
 				bunker = 1
 			}
@@ -26,6 +26,6 @@ state={
 	}
 	manpower=119295
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 	local_supplies=0.000
 }

@@ -50,9 +50,11 @@ country_event = { #Berlin Integration
 				set_province_name = { id = 20591 name = Berlin-Wilmersdorf }
 			}
 			1652 = {
-				set_state_name = Berlin-Pankow
+				set_state_name = Berlin-Reinickendorf
+				set_province_name = { id = 20589 name = Berlin-Reinickendorf }
 			}
 			1650 = {
+				set_province_name = { id = 20588 name = Berlin-Lichtenberg }
 				set_province_name = { id = 805 name = Berlin-Cöpenick }
 			}
 

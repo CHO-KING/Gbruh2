@@ -8,11 +8,8 @@ state={
 		
 		
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 		}
-		victory_points = {
-            20102 5 #Biel
-        }
 	}
 	provinces={
 		13782 20102 20114 

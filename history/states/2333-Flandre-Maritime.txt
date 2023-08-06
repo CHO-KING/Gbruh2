@@ -18,13 +18,10 @@ state={
 		victory_points = {
 			12284 5 #Dunkirk
 		}
-		victory_points = {
-			12411 2 #Armentieres
-		}
 	}
 	
 	manpower=404440
-	state_category=city
+	state_category=town
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

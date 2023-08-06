@@ -213,7 +213,7 @@ economy_decisions = {
 	}
 }
 ROM_integration_decisions = {
-	ROM_Integrate_Lost_States = {
+	ROM_Integrate_Bessarabia = {
 		name = integrate_state
 		icon = eng_trade_unions_support
 		allowed = { tag = ROM }
@@ -258,12 +258,12 @@ ROM_integration_decisions = {
 		ai_will_do = { factor = 100 }
 
 		cancel_effect = {
-			log = "[GetDateText]: [Root.GetName]: Decision cancel ROM_Integrate_Lost_States target: [From.GetName]"
+			log = "[GetDateText]: [Root.GetName]: Decision cancel ROM_Integrate_Bessarabia target: [From.GetName]"
 			add_political_power = 15
 		}
 
 		remove_effect = {
-			log = "[GetDateText]: [Root.GetName]: Decision remove ROM_Integrate_Lost_States target: [From.GetName]"
+			log = "[GetDateText]: [Root.GetName]: Decision remove ROM_Integrate_Bessarabia target: [From.GetName]"
 			FROM = {
 				if = {
 					limit = { is_claimed_by = ROOT }

@@ -24,9 +24,6 @@ state={
             12957 20 #Rouen
         }
         victory_points = {
-            2730 2 #Fécamp
-        }
-        victory_points = {
             6317 2 #Dieppe
         }
     }

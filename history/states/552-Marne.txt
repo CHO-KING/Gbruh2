@@ -21,7 +21,10 @@ state={
             19850 20 #Reims
         }
 		victory_points = {
-            13169 5 #Châlons-en-Champagne
+            13169 2 #Châlons-en-Champagne
+        }
+		victory_points = {
+            13152 2 #Epernay
         }
     }
 	manpower=410200

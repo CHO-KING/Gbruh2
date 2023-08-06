@@ -7,11 +7,14 @@ state={
 	history={
 	    owner = GER
         victory_points = {
-            6184 80
-        } #Berlin
+            6184 80 #Berlin
+        }
         victory_points = {
-            805 2
+            20588 15 #Lichtenberg
         } #Cöpenick
+        victory_points = {
+            805 2 #Cöpenick
+        }
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4

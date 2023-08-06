@@ -109,3 +109,7 @@ AUS_trialism = {
 ROM_integration_decisions = {
 		icon = generic_crisis
 }
+
+FIN_integration_decisions = {
+		icon = generic_crisis
+}

@@ -12,7 +12,10 @@ state={
 			infrastructure = 4
 		}
         victory_points = {
-            20097 10 #Bern
+            20097 15 #Bern
+        }
+		victory_points = {
+            6433 5 #Biel
         }
     }
 	manpower=620383

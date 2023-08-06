@@ -13,13 +13,16 @@ state={
 			industrial_complex = 2
 		}
 		victory_points = {
-			19847 20 
+			19847 20 #Nancy
+		}
+		victory_points = {
+			8634 2 #Luneville
 		}
 
 	}
 
 	provinces={
-		9356 17274 19846 19847 
+		8634 9356 17274 19846 19847 
 	}
 	manpower=345600
 	buildings_max_level_factor=1.000
