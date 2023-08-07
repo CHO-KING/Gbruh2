@@ -930,7 +930,7 @@ focus_tree = {
 						free_building_slots = {
 							building = arms_factory
 							size > 9
-							include_locked = yes
+							include_locked = no
 						}
 					}
 					add_building_construction = {
@@ -964,7 +964,7 @@ focus_tree = {
 						free_building_slots = {
 							building = arms_factory
 							size > 4
-							include_locked = yes
+							include_locked = no
 						}
 					}
 					add_building_construction = {
@@ -998,7 +998,7 @@ focus_tree = {
 						free_building_slots = {
 							building = arms_factory
 							size > 4
-							include_locked = yes
+							include_locked = no
 						}
 					}
 					add_building_construction = {
@@ -1032,7 +1032,7 @@ focus_tree = {
 						free_building_slots = {
 							building = arms_factory
 							size > 9
-							include_locked = yes
+							include_locked = no
 						}
 					}
 					add_building_construction = {
