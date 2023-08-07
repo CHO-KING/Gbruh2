@@ -123,7 +123,7 @@ focus_tree = {
 				category = cat_heavy_artillery
 			}
 			1749 = {
-				add_dynamic_modifier = { modifier = krupp_works }
+				add_dynamic_modifier = { modifier = GER_krupp_works }
 			}
 		}
 	}
@@ -252,13 +252,16 @@ focus_tree = {
 		x = -3
 		y = 1
 		relative_position_id = GER_weltkrieg
-		cost = 5
+		cost = 10
 		ai_will_do = {
 			factor = 1
 		}
 		
 		completion_reward = {
 			navy_experience = 50
+			314 = {
+				add_dynamic_modifier = { modifier = GER_wilhelmshaven_shipyards }
+			}			
 		}
 	}
 

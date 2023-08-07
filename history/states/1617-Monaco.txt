@@ -9,6 +9,7 @@ state={
 			12754 = {
 				bunker = 1
 			}
+		}
 	}
 	provinces={
 		12754 
