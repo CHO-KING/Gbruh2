@@ -18,13 +18,10 @@ state={
             8560 40 #Marseille
         }
         victory_points = {
-            14667 10 #Aix-en-Provence
+            14667 2 #Aix-en-Provence
         }
         victory_points = {
-            8806 5 #Arles
-        }
-        victory_points = {
-            8802 2 #Miramas
+            8806 2 #Arles
         }
     }
 	manpower=1224800

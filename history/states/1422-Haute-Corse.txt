@@ -9,7 +9,7 @@ state={
             20495 2 #Bastia
         }
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
 		
     }

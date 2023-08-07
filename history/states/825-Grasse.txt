@@ -10,10 +10,9 @@ state={
 			infrastructure = 3
 
 		}
-		
-		
+
 		victory_points = {
-			8486 10 
+			8486 2 #Cannes
 		}
 
 	}

@@ -9,22 +9,15 @@ state={
 		owner = FRA
 		add_core_of = FRA
 		
-		
 		buildings = {
 			infrastructure = 3
 		}
         victory_points = {
-            19845 5 #Valence
-        }
-        victory_points = {
-            9592 2 #Romans-sur-Isère
-        }
-        victory_points = {
-            9518 2 #Montélimar
+            19845 2 #Valence
         }
     }
 	manpower=267300
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = rural
 }

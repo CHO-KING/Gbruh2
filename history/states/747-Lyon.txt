@@ -2,7 +2,7 @@ state={
 	id=747
 	name="STATE_747"
 	provinces={
-		8147 
+		7994 8147 
 	}
 	history={
 		owner = FRA
@@ -15,6 +15,9 @@ state={
 		}
         victory_points = {
             8147 40 #Lyon
+        }
+        victory_points = {
+            7994 5 #Villeurbane
         }
     }
 	manpower=463060

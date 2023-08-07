@@ -12,6 +12,9 @@ state={
         victory_points = {
             3998 2 #Le Puy
         }
+        victory_points = {
+            8715 2 #Firminy
+        }
 		buildings = {
 			infrastructure = 3
 		}

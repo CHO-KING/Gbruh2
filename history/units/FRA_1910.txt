@@ -265,7 +265,7 @@ units = {
 	
 	division= { 
 			name = "10eme Division d'Infanterie"
-			location = 1712 # Frejus
+			location = 20533 #Menton
 			division_template="Division d'Infanterie"
 			start_experience_factor=0.1
 			}
@@ -401,7 +401,7 @@ units = {
 	
 	division= { 
 			name = "14eme Division d'Infanterie"
-			location = 14604 # Alpes
+			location = 9644 #Chambery
 			division_template="Division d'Infanterie"
 			start_experience_factor=0.1
 			}
@@ -409,7 +409,7 @@ units = {
 	
 	division= { 
 			name = "41eme Division d'Infanterie"
-			location = 14473 # Gap
+			location = 14611 #Avignon
 			division_template="Division d'Infanterie"
 			start_experience_factor=0.1
 			}
