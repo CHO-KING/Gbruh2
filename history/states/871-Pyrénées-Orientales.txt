@@ -14,11 +14,11 @@ state={
 		}
 		
         victory_points = {
-            19762 10 #Perpignan
+            19762 5 #Perpignan
         }
     }
 	manpower=233300
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = large_town
+	state_category = town
 }

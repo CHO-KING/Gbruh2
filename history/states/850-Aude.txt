@@ -10,7 +10,7 @@ state={
             8260 2 #Carcassonne
         }
         victory_points = {
-            7261 5 #Narbonne
+            7261 2 #Narbonne
         }
 		buildings = {
 			infrastructure = 3
@@ -24,5 +24,5 @@ state={
 	manpower=285100
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = town
 }

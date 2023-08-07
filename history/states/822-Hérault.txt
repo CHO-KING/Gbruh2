@@ -21,7 +21,7 @@ state={
 			8584 5 #Beziers
 		}
 		victory_points = {
-			14692 2 #Sète
+			14692 2 #Cette
 		}
 
 	}
@@ -31,6 +31,6 @@ state={
 	}
 	manpower=502000
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=city
 	local_supplies=0.000
 }
