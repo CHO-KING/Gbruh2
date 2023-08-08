@@ -12,14 +12,14 @@ state={
 		
 		buildings = {
 			infrastructure = 3
-			arms_factory = 4
+			arms_factory = 2
 		}
         victory_points = {
-            14342 5 #Brive-la-Gaillarde
+            14342 2 #Brive-la-Gaillarde
         }
     }
 	manpower=262700
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = rural
 }

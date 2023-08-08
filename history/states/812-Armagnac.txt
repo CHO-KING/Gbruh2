@@ -5,11 +5,7 @@ state={
 	history={
 		owner = FRA
 		add_core_of = FRA
-		
-		
-        victory_points = {
-            1225 2 #Mont-de-Marsan
-        }
+
 		buildings = {
 			infrastructure = 3
 		}

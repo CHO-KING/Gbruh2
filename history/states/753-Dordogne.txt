@@ -5,11 +5,7 @@ state={
 	history={
 		owner = FRA
 		add_core_of = FRA
-		
-		
-        victory_points = {
-            783 2 #Bergerac
-        }
+
         victory_points = {
             7758 2 #Périgueux
         }

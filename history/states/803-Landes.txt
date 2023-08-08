@@ -5,11 +5,7 @@ state={
 	history={
 		owner = FRA
 		add_core_of = FRA
-		
-		
-		victory_points = {
-            20492 5 #La Teste-de-Buch
-        }
+
 		buildings = {
 			infrastructure = 3
 		}
@@ -19,6 +15,6 @@ state={
 	}
 	manpower=213690
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=pastoral
 	local_supplies=0.000
 }

@@ -385,7 +385,7 @@ units = {
 	
 	division= { 
 			name = "43eme Division d'Infanterie"
-			location = 783 # Dordogne
+			location = 14711 #Tarbes
 			division_template="Division d'Infanterie"
 			start_experience_factor=0.1
 			}
