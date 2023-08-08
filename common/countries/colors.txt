@@ -140,6 +140,10 @@ TUR = {
 ###Middle East
 
 ###British Releasables
+IRE = {
+	color = rgb { 80  159  90 }
+	color_ui = rgb { 0 153 76 }
+}
 
 ###Italian Releasables
 
@@ -158,13 +162,16 @@ SER = {
 ###Thuringian states
 
 
-###Polish Releasables
+###Russian Releasables
 UKR = {
 	color = rgb { 65 116 190 }
 	color_ui = rgb { 65 116 190 }	
 }
 
-###Ukrainian Releasables
+MOL = {
+	color = rgb { 225 206 82 }
+	color_ui = rgb { 204 204 0 }	
+}
 
 ###Czechoslovak Releasables
 

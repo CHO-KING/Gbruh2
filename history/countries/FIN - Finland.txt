@@ -21,8 +21,8 @@ set_politics = {
 set_popularities = {
 	democratic = 16
 	fascism = 0
-	communism = 36
-	neutrality = 48
+	communism = 32
+	neutrality = 52
 }
 
 recruit_character = FIN_svinhufvud

@@ -8,6 +8,7 @@ state={
 	history={
 		owner = ENG
 		add_core_of = ENG
+		add_core_of = IRE
 		buildings = {
 			infrastructure = 4
 			arms_factory = 2
@@ -15,8 +16,6 @@ state={
 			dockyard = 3
 			1994 = { naval_base = 1 }
 		}
-		
-		add_core_of = ENG
 	
         victory_points = {
             1994 20

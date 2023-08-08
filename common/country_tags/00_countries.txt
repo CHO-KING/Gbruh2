@@ -28,6 +28,7 @@ POR = "countries/Portugal.txt"
 SPR = "countries/Spain.txt"
 HOL = "countries/Netherlands.txt"
 BEL = "countries/Belgium.txt"
+IRE = "countries/Ireland.txt"
 
 ###Eastern Europe
 POL = "countries/Poland.txt"
