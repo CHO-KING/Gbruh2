@@ -259,9 +259,9 @@ focus_tree = {
 		
 		completion_reward = {
 			navy_experience = 50
-			314 = {
-				add_dynamic_modifier = { modifier = GER_wilhelmshaven_shipyards }
-			}			
+			1706 = {
+				add_dynamic_modifier = { modifier = GER_germaniawerft }
+			}				
 		}
 	}
 
@@ -283,6 +283,9 @@ focus_tree = {
 				add_idea = GER_naval_arms_race_2
 				remove_idea = GER_naval_arms_race
 			}
+			314 = {
+				add_dynamic_modifier = { modifier = GER_wilhelmshaven_shipyards }
+			}	
 		}
 	}
 
@@ -385,6 +388,9 @@ focus_tree = {
 		completion_reward = {
 			remove_ideas = GER_naval_arms_race_2
 			add_war_support = -0.05
+			314 = {
+				remove_dynamic_modifier = { modifier = GER_wilhelmshaven_shipyards }
+			}	
 		}
 	}
 

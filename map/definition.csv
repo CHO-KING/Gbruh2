@@ -19386,9 +19386,9 @@
 19385;45;138;38;land;true;hills;2
 19386;40;138;38;land;true;plains;2
 19387;137;255;37;land;true;plains;1
-19388;137;250;37;land;true;plains;1
+19388;137;250;37;land;true;urban;1
 19389;137;245;37;land;true;hills;1
-19390;137;240;37;land;true;hills;1
+19390;137;240;37;land;true;urban;1
 19391;137;235;37;land;true;urban;1
 19392;137;230;37;land;true;hills;1
 19393;255;215;115;land;false;urban;1

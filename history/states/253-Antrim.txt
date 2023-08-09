@@ -18,10 +18,10 @@ state={
 		}
 	
         victory_points = {
-            1994 20
+            1994 40 #Belfast
         }
 		victory_points = {
-            10823 2
+            10806 2 #Ballymena
         }
     }
 	manpower=635400

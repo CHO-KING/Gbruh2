@@ -1256,8 +1256,24 @@ spriteTypes = {
 	}
 	
 	#### TRAITS ####
+	
 	spriteType = {
 		name = "GFX_trait_marine_officer"
 		texturefile = "gfx/interface/traits/trait_amphibious.dds"
+	}
+	
+	#### COMPANIES ####
+	
+	spriteType = {
+		name = "GFX_idea_harland_wolff"
+		texturefile = "gfx/interface/companies/ENG/harland_wolff.png"
+	}
+	spriteType = {
+		name = "GFX_idea_stabilimento_tecnico_triestino"
+		texturefile = "gfx/interface/companies/AUS/stabilimento_tecnico_triestino.png"
+	}
+	spriteType = {
+		name = "GFX_idea_kaiserliche_werft_wilhelmshaven"
+		texturefile = "gfx/interface/companies/GER/kaiserliche_werft_wilhelmshaven.png"
 	}
 }

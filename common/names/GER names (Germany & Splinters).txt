@@ -10,7 +10,7 @@
 		}
 	}
 	surnames = {
-		Müller Schmidt Meyer Schneider Schulz Fischer Weber Hoffmann Becker Wagner Richter Koch Schröder Schäfer Bauer Krüger Schulze Neumann Lehmann Klein Lange Wolf Krause Zimmermann Schwarz Kortschädel Hartmann Meier Kantorek Schmitz Braun Köhler Weiß Möller Schubert Schmitt Scholz König Kaiser Fuchs Lux
+		Müller Schmidt Meyer Schneider Schulz Fischer Weber Hoffmann Becker Wagner Richter Koch Schröder Schäfer Bauer Krüger Schulze Neumann Lehmann Klein Lange Wolf Krause Zimmermann Schwarz "von Czako" "von Stechlin" "von Rex" "von Barby" Hartmann Meier Schmitz Braun Köhler Weiß Möller Schubert Schmitt Scholz König Kaiser Fuchs Lux
 	}
 	callsigns = {
 		"The Black Knight" "The Red Baron" Kobes "Iron Eagle" "Blue Max" Karlchen Seppl "delicate little flower" Onkel Charly "Eagle of Jericho" Fritz Bauli

@@ -64,7 +64,8 @@
  GER_blockade_1:0 "Blockaded"
  
  GER_krupp_works:0 "Krupp Works"
- GER_wilhelmshaven_shipyards:0 "Wilhelmshaven Imperial Shipyard"
+ GER_germaniawerft:0 "Germaniawerft"
+ GER_wilhelmshaven_shipyards:0 "Kaiserliche Werft Wilhelmshaven"
  GER_bulgarian_loans:0 "Bulgarian Loans"
  GER_train_infantry_corps:0 "Establish Reorganised Ottoman Corps"
  axis_research_name:0 "Central Powers Research"
@@ -149,6 +150,7 @@
  AUS_hun_industrialisation:0 "Light Industry Expansion"
  AUS_cze_industrialisation:0 "Heavy Industry Expansion"
  skoda_works:0 "Skoda Works"
+ AUS_stabilimento_tecnico_triestino:0 "Stabilimento Tecnico Triestino"
  
  AUS_federalism:0 "Austrian Federalism"
  AUS_federalism_desc:1 "Current §YFederalism Support§!: [?AUS_federal_number|§R0]\n\n Federalising the Empire will require §R100§! §YFederalism Support§!.\n\n "
@@ -583,6 +585,7 @@
  ENG_imperial_conference:0 "The Imperial Conference"
  ENG_war_cabinet:0 "Establish the War Cabinet"
  ENG_ministry_of_munitions:0 "Form the Ministry of Munitions"
+ ENG_harland_wolff:0 "Harland and Wolff"
  
  ENG_bef:0 "British Expeditionary Force"
  ENG_bef_2:0 "British Expeditionary Force"
@@ -938,4 +941,4 @@
  USA_neutral_policy:0 "Neutral Policy"
  
  USA_springfield_mod:0 "Springfield Armoury"
- USA_new_jersey_shipyards:0 "Federal Shipbuilding and Drydock Company"
+USA_newport_news_shipbuilding:0 "Federal Shipbuilding and Drydock Company"

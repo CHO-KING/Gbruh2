@@ -62,7 +62,7 @@ set_technology = {
 set_politics = {
     ruling_party = neutrality
     last_election = "1910.1.15"
-    election_frequency = 60
+    election_frequency = 48
     elections_allowed = yes
 }
 set_popularities = {
@@ -73,5 +73,5 @@ set_popularities = {
 }
 
 add_ideas = {
-	volunteer_only
+	extensive_conscription
 }

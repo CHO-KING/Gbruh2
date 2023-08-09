@@ -28,13 +28,6 @@
 
 ###################################
 
-### ### #  # ###  ##  ###  ###  ##
-#    #  #  #  #  #  # #  #  #  #  #
-##   #  ####  #  #  # ###   #  ####
-#    #  #  #  #  #  # #     #  #  #
-###  #  #  # ###  ##  #    ### #  #
-
-###################################
 
 ###### COUNTRY MODIFIERS
 
@@ -71,10 +64,19 @@ GER_krupp_works = {
 GER_wilhelmshaven_shipyards = {
 	enable = { always = yes }
 
-	icon = GFX_idea_ger_revive_the_kaiserreich
+	icon = GFX_idea_kaiserliche_werft_wilhelmshaven
 
 	local_building_slots_factor = 0.5
-	state_production_speed_dockyard_factor = 0.3
+	state_production_speed_dockyard_factor = 0.2
+}
+
+GER_germaniawerft = {
+	enable = { always = yes }
+
+	icon = GFX_idea_germaniawerft
+
+	local_building_slots_factor = 0.5
+	state_production_speed_dockyard_factor = 0.2
 }
 
 skoda_works = {
@@ -164,6 +166,15 @@ AUS_cze_industrialisation = {
 	local_factories = -0.25
 }
 
+AUS_stabilimento_tecnico_triestino = {
+	enable = { always = yes }
+
+	icon = GFX_idea_stabilimento_tecnico_triestino
+	
+	state_production_speed_dockyard_factor = 0.20
+	local_factories = 0.50
+}
+
 ITA_mafia_control = {
 	enable = { always = yes }
 
@@ -209,6 +220,15 @@ ENG_royal_arsenal_mod = {
 	state_production_speed_arms_factory_factor = 0.3
 }
 
+ENG_harland_wolff = {
+	enable = { always = yes }
+
+	icon = GFX_idea_harland_wolff
+
+	state_production_speed_dockyard_factor = 0.20
+	local_factories = 0.50
+}
+
 BEL_fn_herstal_mod = {
 	enable = { always = yes }
 
@@ -231,15 +251,15 @@ ROM_cfr_mod = {
 USA_springfield_mod = {
 	enable = { always = yes }
 
-	icon = GFX_modifiers_increased_metal_production
+	icon = GFX_idea_springfield_armory
 
 	state_production_speed_arms_factory_factor = 0.3
 }
 
-USA_new_jersey_shipyards = {
+USA_newport_news_shipbuilding = {
 	enable = { always = yes }
 
-	icon = GFX_idea_liberty_ships_focus
+	icon = GFX_idea_newport_news_shipbuilding
 
 	state_production_speed_dockyard_factor = 0.3
 }
