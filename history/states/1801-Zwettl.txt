@@ -6,8 +6,6 @@ state={
 		add_core_of =AUS
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
-			industrial_complex = 1
 		}
 	}
 	provinces={
@@ -16,5 +14,5 @@ state={
 	manpower=162332
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = town
+	state_category = pastoral
 }

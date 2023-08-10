@@ -2,16 +2,19 @@
 state={
 	id=2761
 	name="STATE_2761"
-	provinces={
-		38 232 2283 4812 7387 7591 8852 9148 14989 15023 15064 15129 15139 18198 
-	}
-	history = {
+
+	history={
 		owner = SOV
 		add_core_of = SOV
-		
 		buildings = {
 			infrastructure = 1
+
 		}
+
+	}
+
+	provinces={
+		38 232 2283 4812 7387 7591 8852 9148 14989 15023 15129 15139 18198 
 	}
 	impassable=yes
 	manpower=1629

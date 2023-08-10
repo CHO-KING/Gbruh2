@@ -16,7 +16,7 @@ state={
 			}
 		}
 		victory_points = {
-			14112 10 
+			14112 5 #Trient
 		}
 
 	}
@@ -26,6 +26,6 @@ state={
 	}
 	manpower=191300
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 	local_supplies=0.000
 }

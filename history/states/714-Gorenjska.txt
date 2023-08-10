@@ -11,10 +11,11 @@ state={
 
 		}
 		set_compliance = 25
+
 	}
 
 	provinces={
-		6484 8093 14033 14089 
+		6484 8093 14033 14089 14090 20152 
 	}
 	manpower=95543
 	buildings_max_level_factor=1.000

@@ -2,18 +2,20 @@
 state={
 	id=1484
 	name="STATE_1484"
-	history = {
+
+	history={
 		owner = AUS
 		add_claim_by = SER
 		add_claim_by = ITA
-		
-		
 		buildings = {
 			infrastructure = 2
+
 		}
+
 	}
+
 	provinces={
-		1613 2174 14200 18916 20192
+		2174 18916 
 	}
 	manpower=51246
 	buildings_max_level_factor=1.000

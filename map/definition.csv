@@ -2167,7 +2167,7 @@
 2166;237;89;179;land;true;desert;5
 2167;41;235;251;land;false;hills;1
 2168;206;247;136;land;false;hills;1
-2169;166;179;183;land;false;mountain;1
+2169;166;179;183;land;false;hills;1
 2170;143;158;200;land;false;mountain;1
 2171;195;123;209;land;false;plains;1
 2172;71;239;208;land;false;forest;1
@@ -2617,7 +2617,7 @@
 2616;234;247;205;land;true;forest;1
 2617;150;239;198;land;false;plains;1
 2618;158;227;251;land;false;forest;1
-2619;197;102;239;land;false;plains;1
+2619;197;102;239;land;false;hills;1
 2620;111;237;249;land;false;mountain;1
 2621;88;214;205;land;false;plains;6
 2622;128;200;230;land;false;forest;1
@@ -5306,7 +5306,7 @@
 5305;204;227;134;land;false;mountain;7
 5306;223;167;167;land;false;mountain;1
 5307;238;104;210;land;false;plains;1
-5308;234;145;149;land;false;mountain;1
+5308;234;145;149;land;false;hills;1
 5309;174;144;237;land;false;hills;1
 5310;231;174;183;land;false;mountain;5
 5311;218;103;180;land;false;plains;1
@@ -6590,7 +6590,7 @@
 6589;229;180;151;land;false;mountain;7
 6590;186;214;113;land;false;desert;6
 6591;242;236;153;land;false;plains;1
-6592;249;207;79;land;false;mountain;1
+6592;249;207;79;land;false;hills;1
 6593;212;183;154;land;false;forest;1
 6594;95;178;237;land;false;forest;1
 6595;205;165;150;land;false;mountain;7
@@ -9055,7 +9055,7 @@
 9054;151;249;129;land;false;plains;1
 9055;179;254;86;land;false;mountain;1
 9056;252;123;158;land;false;mountain;7
-9057;209;254;72;land;false;urban;1
+9057;209;254;72;land;false;plains;1
 9058;215;205;85;land;false;plains;1
 9059;244;193;204;land;false;plains;1
 9060;232;135;134;land;false;plains;1
@@ -12644,7 +12644,7 @@
 12643;245;225;83;land;false;plains;1
 12644;193;193;236;land;false;plains;1
 12645;220;77;237;land;false;plains;6
-12646;171;209;254;land;false;plains;1
+12646;171;209;254;land;false;urban;1
 12647;232;184;92;land;false;plains;1
 12648;191;252;137;land;false;plains;1
 12649;129;239;180;land;false;plains;1
@@ -12687,7 +12687,7 @@
 12686;246;163;237;land;false;hills;1
 12687;225;106;226;land;false;hills;1
 12688;216;190;112;land;false;hills;1
-12689;219;205;107;land;false;urban;1
+12689;219;205;107;land;false;plains;1
 12690;245;51;213;land;false;plains;1
 12691;142;199;184;land;false;plains;1
 12692;163;235;181;land;false;plains;1
@@ -14005,7 +14005,7 @@
 14004;120;222;199;land;false;plains;1
 14005;191;155;249;land;false;plains;1
 14006;168;138;231;land;false;plains;1
-14007;242;206;231;land;false;mountain;1
+14007;242;206;231;land;false;hills;1
 14008;129;205;194;land;false;plains;1
 14009;218;205;167;land;false;mountain;1
 14010;241;198;69;land;false;mountain;1
@@ -14069,7 +14069,7 @@
 14068;204;206;252;land;false;plains;1
 14069;195;245;253;land;false;plains;1
 14070;164;227;134;land;false;plains;1
-14071;199;241;63;land;false;mountain;1
+14071;199;241;63;land;false;hills;1
 14072;239;209;223;land;false;mountain;1
 14073;126;249;135;land;false;plains;1
 14074;189;218;172;land;false;plains;1
@@ -14823,7 +14823,7 @@
 14822;140;248;185;land;false;hills;1
 14823;145;236;150;land;false;mountain;1
 14824;198;187;155;land;false;mountain;1
-14825;254;36;235;land;false;desert;6
+14825;254;36;235;land;false;plains;1
 14826;251;183;235;land;false;mountain;1
 14827;168;240;154;land;true;mountain;1
 14828;230;237;134;land;false;mountain;1
@@ -15062,7 +15062,7 @@
 15061;213;193;191;land;false;urban;7
 15062;250;118;219;land;false;mountain;1
 15063;190;216;149;land;false;mountain;1
-15064;128;161;229;land;false;desert;6
+15064;128;161;229;land;false;plains;1
 15065;200;206;221;land;false;hills;1
 15066;243;201;197;land;true;plains;1
 15067;194;92;247;land;false;mountain;7
@@ -20845,9 +20845,9 @@
 20844;255;197;155;land;false;plains;1
 20845;255;198;155;land;false;plains;1
 20846;255;199;155;land;false;urban;1
-20847;255;200;155;land;false;urban;1
+20847;255;200;155;land;false;plains;1
 20848;255;201;155;land;false;urban;1
-20849;255;202;155;land;false;mountain;1
+20849;255;202;155;land;false;hills;1
 20850;255;203;155;land;false;urban;1
 20851;255;204;155;land;false;urban;1
 20852;255;205;155;land;false;mountain;1

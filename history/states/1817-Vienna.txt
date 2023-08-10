@@ -1,26 +1,28 @@
 
 state={
-	id=681
-	name="STATE_681"
+	id=1817
+	name="STATE_1817"
 
 	history={
 		owner = AUS
 		add_core_of = AUS
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
+			arms_factory = 8
+			industrial_complex = 6
 
 		}
 		victory_points = {
-			13987 5 #Klagenfurt 
+			20848 80 
 		}
 
 	}
 
 	provinces={
-		664 6775 13894 13912 13968 13972 13987 20836 20837 
+		13421 20848 
 	}
-	manpower=215464
+	manpower=1812795
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=metropolis
 	local_supplies=0.000
 }

@@ -19,10 +19,10 @@ state={
 		}
 		add_core_of = GER
 		victory_points = {
-			13296 25 
+			13296 25 #Straßburg
 		}
 		victory_points = {
-			9043 2 
+			9043 2 #Hagenau
 		}
 
 	}
