@@ -10,12 +10,15 @@ state={
 		buildings = {
 			infrastructure = 2
 		}
+		victory_points = {
+			14245 2 #Pirano
+		}
 	}
 	provinces={
 		14245 
 	}
 	manpower=40906
-	state_category=pastoral
+	state_category=rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

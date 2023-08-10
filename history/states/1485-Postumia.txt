@@ -7,10 +7,6 @@ state={
 		owner = AUS
 		add_claim_by = SER
 		add_claim_by = ITA
-		
-		victory_points = {
-			14257 1 
-		}
 		buildings = {
 			infrastructure = 2
 

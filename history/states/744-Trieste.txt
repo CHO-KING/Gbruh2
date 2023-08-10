@@ -14,12 +14,12 @@ state={
 			dockyard = 5
 			7575 = { naval_base = 5 }
 		}
-		victory_points = { 7575 20 }
+		victory_points = { 7575 60 }
 	}
 	provinces={
 		7575 
 	}
-	manpower=171689
+	manpower=271689
 	state_category=large_city
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

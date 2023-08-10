@@ -13,7 +13,6 @@ state={
 			20171 = { naval_base = 1 }
 		}
 		set_compliance = 25
-		victory_points = { 20171 5 }
 	}
 	manpower=41751
 	buildings_max_level_factor=1.000
