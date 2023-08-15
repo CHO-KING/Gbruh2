@@ -8,11 +8,9 @@ state={
 		add_core_of = SER
 		buildings = {
 			infrastructure = 3
-
 		}
-		 
 		victory_points = {
-			387 10 
+			387 2 #Tuzla 
 		}
 		set_compliance = 25
 	}
@@ -22,6 +20,6 @@ state={
 	}
 	manpower=97287
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 	local_supplies=0.000
 }

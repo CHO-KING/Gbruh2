@@ -13,14 +13,10 @@ state={
 
 		}
 		set_compliance = 25
-		
-		victory_points = {
-			14631 40 
-		}
 
 	}
 	manpower=84930
-	state_category=rural
+	state_category=pastoral
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

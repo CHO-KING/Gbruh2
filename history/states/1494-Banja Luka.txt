@@ -10,13 +10,9 @@ state={
 		add_core_of = SER
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
 		}
 		victory_points = {
-			20119 20 
-		}
-		victory_points = {
-			20195 2 
+			20119 2 #Banja Luka 
 		}
 		set_compliance = 25
 	}
@@ -26,6 +22,6 @@ state={
 	}
 	manpower=233959
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=rural
 	local_supplies=0.000
 }
