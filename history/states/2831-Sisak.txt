@@ -11,10 +11,6 @@ state={
 			infrastructure = 3
 
 		}
-		
-		victory_points = {
-			5612 2 
-		}
 		set_compliance = 25
 	}
 
@@ -23,6 +19,6 @@ state={
 	}
 	manpower=95023
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 	local_supplies=0.000
 }

@@ -12,14 +12,14 @@ state={
 		add_core_of = SER
 		add_claim_by = ROM
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 		}
 		set_compliance = 25
 		
-		victory_points = { 8299 5 }
+		victory_points = { 8299 2 } #Nagybecskerek
 	}
 	manpower=175693
-	state_category=town
+	state_category=rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

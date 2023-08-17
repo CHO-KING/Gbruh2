@@ -11,12 +11,7 @@ state={
 			infrastructure = 2
 			20146 = {
 				naval_base = 1
-
 			}
-
-		}
-		victory_points = {
-			20146 2 
 		}
 		set_compliance = 25
 	}

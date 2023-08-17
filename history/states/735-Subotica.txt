@@ -14,10 +14,10 @@ state={
 			infrastructure = 3
 		}
 		
-		victory_points = { 14117 5 }
+		victory_points = { 14117 20 } #Szabadka
 	}
 	manpower=160225
-	state_category=town
+	state_category=city
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

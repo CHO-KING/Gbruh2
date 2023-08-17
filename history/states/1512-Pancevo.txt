@@ -10,14 +10,12 @@ state={
 		add_claim_by = ROM
 		buildings = {
 			infrastructure = 3
-
-		}
-		
-		victory_points = {
-			8544 10 
 		}
 		victory_points = {
-			14354 2 
+			8544 2 #Pancsova
+		}
+		victory_points = {
+			14354 2 #Versec
 		}
 		set_compliance = 25
 	}
@@ -27,6 +25,6 @@ state={
 	}
 	manpower=227522
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=town
 	local_supplies=0.000
 }
