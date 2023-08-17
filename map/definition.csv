@@ -2152,7 +2152,7 @@
 2151;118;253;159;land;false;plains;1
 2152;246;221;115;land;false;plains;1
 2153;199;130;252;land;true;mountain;5
-2154;182;169;235;land;false;plains;1
+2154;182;169;235;land;false;hills;1
 2155;101;245;173;land;false;plains;1
 2156;143;229;186;land;false;mountain;7
 2157;116;247;250;land;false;desert;6
@@ -6000,7 +6000,7 @@
 5999;113;167;229;land;false;mountain;1
 6000;84;217;216;land;false;mountain;1
 6001;172;224;189;land;true;mountain;2
-6002;238;197;175;land;false;urban;1
+6002;238;197;175;land;false;plains;1
 6003;214;250;219;land;false;plains;1
 6004;192;249;70;land;false;forest;1
 6005;122;176;246;land;false;forest;1
@@ -6828,7 +6828,7 @@
 6827;191;203;207;land;false;plains;1
 6828;179;245;196;land;false;plains;1
 6829;132;244;183;land;true;forest;1
-6830;77;244;243;land;false;hills;1
+6830;77;244;243;land;false;urban;1
 6831;144;243;184;land;false;plains;1
 6832;216;215;229;land;false;plains;1
 6833;59;227;248;land;false;mountain;1
@@ -12704,7 +12704,7 @@
 12703;208;195;101;land;false;plains;1
 12704;62;245;225;land;false;plains;1
 12705;131;205;253;land;false;hills;1
-12706;119;218;240;land;false;plains;1
+12706;119;218;240;land;false;urban;1
 12707;209;227;183;land;false;plains;1
 12708;206;150;158;land;false;plains;1
 12709;130;242;235;land;false;plains;6
@@ -12737,7 +12737,7 @@
 12736;158;228;208;land;false;plains;1
 12737;114;191;243;land;false;hills;1
 12738;106;229;202;land;false;hills;1
-12739;192;240;143;land;false;urban;1
+12739;192;240;143;land;false;plains;1
 12740;226;164;141;land;false;plains;1
 12741;216;116;225;land;false;plains;6
 12742;154;203;176;land;false;forest;1
@@ -19914,9 +19914,9 @@
 19913;236;123;136;land;false;urban;1
 19914;236;124;136;land;false;plains;1
 19915;236;125;136;land;false;plains;1
-19916;236;126;136;land;false;plains;1
+19916;236;126;136;land;false;urban;1
 19917;236;127;136;land;false;plains;1
-19918;236;128;136;land;false;urban;1
+19918;236;128;136;land;false;plains;1
 19919;236;129;136;land;false;plains;1
 19920;236;130;136;land;false;plains;1
 19921;236;131;136;land;false;urban;1

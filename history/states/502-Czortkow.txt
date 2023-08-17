@@ -15,12 +15,9 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		victory_points = {
-			13138 2 #Czortków
-		}
   	}
 	manpower=242200
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = large_town
+	state_category = pastoral
 }
