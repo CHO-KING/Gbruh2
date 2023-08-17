@@ -569,6 +569,62 @@ economy_decisions = {
 		}
 	}
 }
+
+ITA_encroaching_decisions = {
+	ITA_encroach_state = {
+		name = encroach_state
+		icon = eng_trade_unions_support
+		allowed = { tag = ITA }	
+
+		available = {
+			FROM = {
+				any_neighbor_state = {
+					is_controlled_by = ROOT
+					is_core_of = ROOT
+				}
+			}
+		}
+
+		visible = {
+			FROM = {
+				NOT = { is_core_of = ROOT }
+			}
+		}
+
+		cost = 20
+		days_remove = 30
+		fire_only_once = no
+		cancel_if_not_visible = yes
+
+		state_target = yes
+		targets = { 720 1484 1488 1485 }
+		target_root_trigger = { has_war_with = AUS }
+		target_trigger = {
+			FROM = {
+				NOT = { is_core_of = ROOT }
+			}
+		}
+
+		ai_will_do = { factor = 100 }
+
+		cancel_effect = {
+			log = "[GetDateText]: [Root.GetName]: Decision cancel ITA_encroach_state target: [From.GetName]"
+			add_political_power = 20
+		}
+
+		remove_effect = {
+			log = "[GetDateText]: [Root.GetName]: Decision remove ITA_encroach_state target: [From.GetName]"
+			FROM = {
+				if = {
+					limit = { is_claimed_by = ROOT }
+					remove_claim_by = ROOT
+				}
+				add_core_of = ROOT
+			}
+		}
+	}
+}
+
 mobilization = {
 	ITA_mobilisation = {
 		icon = generic_operation

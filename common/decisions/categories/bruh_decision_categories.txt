@@ -113,3 +113,7 @@ ROM_integration_decisions = {
 FIN_integration_decisions = {
 		icon = generic_crisis
 }
+
+ITA_encroaching_decisions = {
+		icon = generic_crisis
+}
