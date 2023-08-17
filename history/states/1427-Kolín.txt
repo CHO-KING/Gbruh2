@@ -7,12 +7,15 @@ state={
 		owner = AUS
 		add_core_of = CZE
 		victory_points = {
-			4103 2 
+			4103 2 #Kolin
+		}
+		victory_points = {
+			12785 2 #Kuttenberg
 		}
 		buildings = {
 			infrastructure = 4
-			arms_factory = 3
-			industrial_complex = 2
+			arms_factory = 2
+			industrial_complex = 1
 
 		}
 
@@ -23,6 +26,6 @@ state={
 	}
 	manpower=508750
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=town
 	local_supplies=0.000
 }

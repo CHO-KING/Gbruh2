@@ -10,18 +10,18 @@ state={
 		add_core_of = CZE
 		
 		buildings = {
-			infrastructure = 3
-			arms_factory = 2
+			infrastructure = 4
+			arms_factory = 3
 			industrial_complex = 1
 		}
 	
         victory_points = {
-            13154 5 #České Budějovice
+            13154 10 #Budweis
         }
     }
 	manpower=257000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = large_town
 
 }

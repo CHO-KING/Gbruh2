@@ -12,15 +12,21 @@ state={
 		
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
-			industrial_complex = 1
+			arms_factory = 2
+			industrial_complex = 2
 		}
         victory_points = {
-            12640 5 #Karlsbad
+            12640 2 #Karlsbad
+        }
+       victory_points = {
+            12655 2 #Saaz
+        }
+       victory_points = {
+            2499 2 #Komotau
         }
     }
 	manpower=506500
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = large_town
+	state_category = town
 }

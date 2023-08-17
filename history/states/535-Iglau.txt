@@ -10,19 +10,14 @@ state={
 		add_core_of = CZE
 		
 		buildings = {
-			infrastructure = 4
-			arms_factory = 2
-			industrial_complex = 2
+			infrastructure = 3
 		}
         victory_points = {
-            12964 5 #Jihlava
-        }
-        victory_points = {
-            13031 2 #Třebíč
+            12964 2 #Iglau
         }
     }
 	manpower=418900
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = rural
 }

@@ -15,13 +15,15 @@ state={
 		
 		buildings = {
 			infrastructure = 4
+			arms_factory = 3
+			industrial_complex = 1
 		}
         victory_points = {
-            12810 20 #Ostrau
+            12810 10 #Ostrau
         }
     }
 	manpower=88910
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = large_town
 }

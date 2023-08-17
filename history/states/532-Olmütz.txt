@@ -18,11 +18,20 @@ state={
 			}
 		}
         victory_points = {
-            20066 10
+            20066 2 #Olmütz
+        }
+        victory_points = {
+            20068 2 #Kremsier
+        }
+        victory_points = {
+            4952 2 #Prerau
+        }
+        victory_points = {
+            12941 5 #Proßnitz
         }
     }
 	manpower=493050
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = large_town
 }

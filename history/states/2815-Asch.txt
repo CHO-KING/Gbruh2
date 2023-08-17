@@ -9,12 +9,12 @@ state={
 		add_core_of = AUS
 		add_claim_by = CZE
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 			industrial_complex = 1
 		}
 		victory_points = {
-			17630 2
-		} #Asch
+			17630 2 #Asch
+		}
 	}
 	manpower=31250
 	state_category=rural

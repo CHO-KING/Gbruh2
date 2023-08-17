@@ -8,15 +8,18 @@ state={
 		add_core_of = CZE
 		buildings = {
 			infrastructure = 4
-			arms_factory = 5
+			arms_factory = 4
 			industrial_complex = 5
 
 		}
 		victory_points = {
-			20056 40 
+			20056 40 #Prag
 		}
 		victory_points = {
-			12646 15 
+			12646 15 #Königliche Weinberge
+		}
+		victory_points = {
+			20847 5 #Nusle
 		}
 
 	}

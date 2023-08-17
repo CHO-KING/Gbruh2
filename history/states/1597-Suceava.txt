@@ -8,10 +8,6 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		
-		victory_points = {
-			20389 10
-		}
 	}
 	provinces={
 		2458 13672 20389 
@@ -19,5 +15,5 @@ state={
 	manpower=77995
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = rural
+	state_category = pastoral
 }

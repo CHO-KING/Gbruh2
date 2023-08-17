@@ -8,9 +8,12 @@ state={
 		add_core_of = CZE
 		buildings = {
 			infrastructure = 4
-			arms_factory = 5
-			industrial_complex = 5
+			arms_factory = 3
+			industrial_complex = 3
 
+		}
+		victory_points = {
+			20850 10 #Smichnow
 		}
 
 	}

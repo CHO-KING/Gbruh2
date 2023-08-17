@@ -10,19 +10,11 @@ state={
 		add_core_of = CZE
 		
 		buildings = {
-			infrastructure = 4
-			arms_factory = 2
-			industrial_complex = 2
+			infrastructure = 3
 		}
-        victory_points = {
-            7351 5 #Zlín
-        }
-        victory_points = {
-            3539 2 #Hodonín
-        }
     }
 	manpower=510100
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = large_city
+	state_category = pastoral
 }

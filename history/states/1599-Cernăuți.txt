@@ -13,7 +13,7 @@ state={
 			infrastructure = 3
 		}
 		victory_points = {
-			13410 20
+			13410 15 #Czernowitz
 		}
 	}
 	provinces={
@@ -22,5 +22,5 @@ state={
 	manpower=320355
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = large_town
 }

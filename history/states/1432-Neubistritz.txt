@@ -6,10 +6,6 @@ state={
 		owner = AUS
 		add_core_of = AUS
 		add_claim_by = CZE
-		
-        victory_points = {
-            20563 1 #Neubistritz
-        }
 		buildings = {
 			infrastructure = 3
 		}
