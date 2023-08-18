@@ -19,6 +19,9 @@ state={
         victory_points = {
             7757 2 #Aschersleben
         }
+        victory_points = {
+            11920 2 #Quedlinburg
+        }
 	}
 
 	provinces={

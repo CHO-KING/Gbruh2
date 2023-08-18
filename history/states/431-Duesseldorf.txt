@@ -23,6 +23,9 @@ state={
         victory_points = {
             2781 15 #Remscheid
         }
+        victory_points = {
+            8376 2 #Velbert
+        }
 		add_core_of = GER
 		buildings = {
 			infrastructure = 4

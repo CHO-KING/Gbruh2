@@ -16,7 +16,7 @@ state={
 		}
 	
         victory_points = {
-            20092 10
+            20092 20 #Szeged
         }
     }
 	manpower=240511

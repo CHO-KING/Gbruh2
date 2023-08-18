@@ -7,10 +7,14 @@ state={
 		add_core_of = GER
 		buildings = {
 			infrastructure = 3
+			industrial_complex = 1
 		}
 		victory_points = {
 			12346 5 #Altenburg
-		}		
+		}
+		victory_points = {
+			7097 2 #Meerane
+		}				
 		
     }
 	provinces={
