@@ -13,7 +13,7 @@ state={
 		4659 
 	}
 	manpower=7850
-	state_category=enclave
+	state_category=pastoral
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }
