@@ -14,21 +14,15 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		
-		
-		buildings = {
-			infrastructure = 3
-		}
-	
         victory_points = {
-            13287 10
+            13287 2 #Ungvar
         }
 		victory_points = {
-            2281 5
+            2281 2 #Munkacs
         }
     }
 	manpower=252589
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 	local_supplies=0.000
 }

@@ -10,15 +10,18 @@ state={
 		add_core_of = HUN
 		buildings = {
 			infrastructure = 3
-			arms_factory = 2
+			arms_factory = 1
 		}
 	
         victory_points = {
-            6158 5
+            6158 2 #Szolnok
+        }
+        victory_points = {
+            6954 5 #Jászberény
         }
     }
 	manpower=297476
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 	local_supplies=0.000
 }

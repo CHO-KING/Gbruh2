@@ -9,6 +9,9 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
+		victory_points = {
+            14084 5 #Mako
+        }
 	}
 	provinces={
 		14018 14051 14074 14084 

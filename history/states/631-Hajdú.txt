@@ -13,11 +13,19 @@ state={
 			industrial_complex = 1
 		}
 		victory_points = {
-			8222 20 
+			8222 20 #Debrecen
+		}
+		victory_points = {
+			9333 2 #Hajdúböszörmény
+		}
+		victory_points = {
+			17112 2 #Hajdúnánás
+		}
+		victory_points = {
+			13707 2 #Hajdúszoboszló
 		}
 
 	}
-
 	provinces={
 		4570 8222 9333 13707 17112 20859 20860 
 	}

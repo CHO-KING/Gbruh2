@@ -768,20 +768,20 @@ focus_tree = {
 		relative_position_id = AUS_end_hungary_industry
 		cost = 10
 		available = {
-			489 = {
+			523 = {
 				has_state_flag = coal_developed_1
 			}
-			489 = {
+			1427 = {
 				has_state_flag = steel_developed_1
 			}
 			OR = {
+				536 = {
+					has_state_flag = coal_developed_1
+				}
 				648 = {
 					has_state_flag = coal_developed_1
 				}
-				2670 = {
-					has_state_flag = coal_developed_1
-				}
-				1581 = {
+				736 = {
 					has_state_flag = coal_developed_1
 				}
 			}

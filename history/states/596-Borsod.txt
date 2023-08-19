@@ -12,9 +12,14 @@ state={
 
 		}
 		victory_points = {
-			13489 10 
+			13489 10 #Miskolc
 		}
-
+		victory_points = {
+			8276 2 #Mezőkövesd
+		}
+		victory_points = {
+			8706 2 #Diósgyőr
+		}
 	}
 
 	provinces={
@@ -22,6 +27,6 @@ state={
 	}
 	manpower=382324
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=large_town
 	local_supplies=0.000
 }

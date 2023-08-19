@@ -16,11 +16,20 @@ state={
 		}
 	
         victory_points = {
-            13946 5
+            13946 5 #Bekescsaba
         }
+        victory_points = {
+            2107 2 #Oroshaza
+		}
+        victory_points = {
+            9046 2 #Bekes
+		}
+        victory_points = {
+            13980 2 #Gyula
+		}
     }
 	manpower=308974
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=large_town
 	local_supplies=0.000
 }

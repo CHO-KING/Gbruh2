@@ -8,13 +8,21 @@ state={
 		add_core_of = HUN
 		buildings = {
 			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		victory_points = {
+			20864 2 #Nagykörös
+		}
+		victory_points = {
+			5119 5 #Cegled
 		}
 	}
 	provinces={
 		4583 5119 13745 13777 20864 
 	}
 	manpower=210422
-	state_category=large_town
+	state_category=town
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

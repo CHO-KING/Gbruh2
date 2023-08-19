@@ -247,7 +247,7 @@ ROM_integration_decisions = {
 		cancel_if_not_visible = yes
 
 		state_target = yes
-		targets = { 592 600 1606 1605 1604 1603 1602 2744 2745 1601 794 }
+		targets = { 592 600 1606 1605 1604 1603 1602 2744 2745 1601 794 1579 818 }
 		target_trigger = {
 			FROM = {
 				is_owned_and_controlled_by = ROOT
