@@ -154,7 +154,7 @@ AUS_hun_industrialisation = {
 	icon = GFX_modifiers_SOV_factory_worker_militias
 
 	state_production_speed_industrial_complex_factor = 0.25
-	local_factories = -0.25
+	local_factories = -0.1
 }
 
 AUS_cze_industrialisation = {
@@ -163,7 +163,7 @@ AUS_cze_industrialisation = {
 	icon = GFX_modifiers_SOV_factory_worker_militias
 
 	state_production_speed_arms_factory_factor = 0.15
-	local_factories = -0.25
+	local_factories = -0.1
 }
 
 AUS_stabilimento_tecnico_triestino = {

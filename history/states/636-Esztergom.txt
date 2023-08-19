@@ -10,7 +10,7 @@ state={
 		add_core_of = AUS
 		add_core_of = HUN
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 		}
 		victory_points = {
 			7519 2 #Esztergom

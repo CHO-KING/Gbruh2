@@ -18,14 +18,11 @@ state={
 		}
 	
         victory_points = {
-            13248 5
-        }
-		victory_points = {
-            3029 2
+            8677 2 #Selmec-és Bélabánya
         }
     }
 	manpower=443623
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = rural
 }
