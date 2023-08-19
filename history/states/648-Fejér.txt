@@ -18,13 +18,10 @@ state={
 		}
 	
         victory_points = {
-            13776 10
-        }
-		victory_points = {
-            13870 5
+            13776 5 #Stuhlweissenburg
         }
     }
 	manpower=196013
 	buildings_max_level_factor=1.000
-	state_category = city
+	state_category = town
 }

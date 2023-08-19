@@ -15,6 +15,9 @@ state={
 		victory_points = {
 			14328 5 #Neusatz
 		}
+		victory_points = {
+			8942 2 #Obecse
+		}
 	}
 
 	provinces={

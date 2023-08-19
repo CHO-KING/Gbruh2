@@ -13,7 +13,7 @@ state={
 		add_claim_by = SER
 		
 		victory_points = {
-			14213 20 
+			14213 15 #Temesvar
 		}
 		buildings = {
 			infrastructure = 3
@@ -28,6 +28,6 @@ state={
 	}
 	manpower=257455
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=large_town
 	local_supplies=0.000
 }

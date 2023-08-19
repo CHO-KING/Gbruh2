@@ -12,6 +12,9 @@ state={
 		buildings = {
 			infrastructure = 2
 		}
+		victory_points = {
+			7519 2 #Esztergom
+		}
     }
 	manpower=115384
 	buildings_max_level_factor=1.000
