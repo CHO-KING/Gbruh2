@@ -11,14 +11,12 @@ state={
 		buildings = {
 			infrastructure = 2
 		}
-
 	}
-
 	provinces={
 		892 13899 13947 13988 13989 
 	}
 	manpower=264600
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=pastoral
 	local_supplies=0.000
 }

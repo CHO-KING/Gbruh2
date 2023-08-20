@@ -9,15 +9,12 @@ state={
 		add_core_of = HUN
 		add_core_of = ROM
 		buildings = {
-			infrastructure = 2
-
+			infrastructure = 3
 		}
 		victory_points = {
-			20397 10 
+			20397 5 #Satmarnemeti
 		}
-
 	}
-
 	provinces={
 		3219 8609 13549 17003 20397 
 	}

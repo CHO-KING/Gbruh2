@@ -14,16 +14,14 @@ state={
 			industrial_complex = 1
 		}
 		victory_points = {
-			7483 10 
+			7483 10 #Arad
 		}
-
 	}
-
 	provinces={
 		3272 4657 7483 16298 
 	}
 	manpower=289243
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=large_town
 	local_supplies=0.000
 }
