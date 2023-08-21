@@ -49,6 +49,14 @@ focus_tree = {
 		}
 		
 		completion_reward = {
+			set_politics = {
+				ruling_party = neutrality
+				elections_allowed = yes
+			}
+			add_popularity = { 
+				ideology = neutrality 
+				popularity = 0.5
+			} 
 			add_stability = 0.2
 		}
 	}
@@ -187,6 +195,18 @@ focus_tree = {
 		}
 		
 		completion_reward = {
+			set_party_name = { 
+			ideology = neutrality 
+			long_name = "Muslim Fundamentalists"
+			name = Islamists
+			}
+			set_politics = {
+				ruling_party = neutrality
+				elections_allowed = no
+			}
+			add_popularity = { 
+			ideology = neutrality 
+			popularity = 0.35 }
 			add_political_power = 50
 		}
 	}
