@@ -6,18 +6,13 @@ state={
 	history={
 		owner = BUL
 		add_core_of = BUL
-		
-		
 		buildings = {
 			infrastructure = 2
-
 		}
 		victory_points = {
-			14870 5 
+			14870 2 #Pazardzhik
 		}
-
 	}
-
 	provinces={
 		4535 4746 14870 18970 20380 
 	}

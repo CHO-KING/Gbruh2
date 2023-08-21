@@ -94,10 +94,10 @@ TUR = { # Ottoman
 	}
 	female = {
 		names = {
-			Belkıs Atiye Bozçin Canan Ceylan Dunya Dilber Dilek Emine Esin Fatma Firuze Fatima Gulay Gulbahar Gulfem Leyla Mala Mansure Merve Mutlu Nagihan Nergis Neslihan Nilufer Nur Peksen Terkhen Samur Sarica Umay
+			Belkıs Atiye Bozçin Canan Ceylan Dunya Dilber Dilek Emine Esin Fatma Firuze Fatima Gulay Gulbahar Gulfem Leyla Mala Mansure Merve Mutlu Nagihan Nergis Neslihan Nilufer Nur Peksen Terkhen Samur Sarica Umay Zeynep
 		}
 		surnames = {
-			Altay Atsız Karabekir Çakmak Gürman Orbay Subaşı Erkilet Koval Omurtak Özsu Atlı Gökberk Giray Kayacık Çobanlı Karsıalan Eldeniz Özdeniz Gökdeniz Sakarya Akbaytogan Ertuğrul Kıpçak Karluk Uygur Kaymak Çiğiltepe Anılmış Kahraman Erdemgil Aker Ayerdem Bele İnanç Öztekin Çelik Demirbilek Adil Gündüz Eğilmez Yılmaz Yıldırım Conk Özalp Ercan Çalışlar Artunkal Soydemir Arslan Şahin Bıyık Erdelhun Noyan
+			Altay Atsız Yüksel Çakmak Gürman Orbay Subaşı Erkilet Koval Omurtak Özsu Atlı Gökberk Giray Kayacık Çobanlı Karsıalan Eldeniz Özdeniz Gökdeniz Sakarya Akbaytogan Ertuğrul Kıpçak Karluk Uygur Kaymak Çiğiltepe Anılmış Kahraman Erdemgil Aker Ayerdem Bele İnanç Öztekin Çelik Demirbilek Adil Gündüz Eğilmez Yılmaz Yıldırım Conk Özalp Ercan Çalışlar Artunkal Soydemir Arslan Şahin Bıyık Erdelhun Noyan
 		}
 	}
 	callsigns = {

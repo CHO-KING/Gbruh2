@@ -11,6 +11,12 @@ state={
 				bunker = 1
 			}
 		}
+		victory_points = {
+			9647 2 #Silistre
+		}
+		victory_points = {
+			2117 2 #Tutrakan
+		}
 	}
 	provinces={
 		2117 9647 14650 
@@ -18,5 +24,5 @@ state={
 	manpower=221970
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = pastoral
+	state_category = rural
 }

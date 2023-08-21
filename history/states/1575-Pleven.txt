@@ -12,9 +12,8 @@ state={
 			arms_factory = 2
 			industrial_complex = 3
 		}
-	
         victory_points = {
-            20364 10
+            20364 5 #Pleven
         }
     }
 	manpower=145019

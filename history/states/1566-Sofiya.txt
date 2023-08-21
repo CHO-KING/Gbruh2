@@ -16,7 +16,7 @@ state={
 			industrial_complex = 5
 		}
         victory_points = {
-            20366 80
+            20366 20 #Sofiya
         }
     }
 	manpower=619526

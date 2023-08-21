@@ -30,10 +30,10 @@ state={
 			}
 		}
 		victory_points = {
-			5837 80
+			5837 80 #Bucharest
 		}
 		victory_points = {
-			20409 2
+			8968 2 #Oltenita
 		}
 	}
 	provinces={
