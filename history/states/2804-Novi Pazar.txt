@@ -8,19 +8,15 @@ state={
 	history={
 		owner = TUR
 		add_core_of = SER
-		
 		buildings = {
 			infrastructure = 2
-
 		}
-		 
 		victory_points = {
-			14731 5 
+			14731 2 #Yeni Pazar
 		}
-
 	}
 	manpower=49373
-	state_category=pastoral
+	state_category=rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

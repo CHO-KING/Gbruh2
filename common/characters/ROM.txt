@@ -12,6 +12,19 @@ characters={
 			id=-1
 		}
 	}
+	ROM_ferdinand_ii={
+		name="Ferdinand I"
+		portraits={
+			civilian={
+				large="gfx/leaders/ROM/portrait_ferdinand_i.dds"
+			}
+		}
+		country_leader={
+			ideology=centrism
+			expire="1935.1.1.1"
+			id=-1
+		}
+	}
 	ROM_carol_i={
 		name="Carol I"
 		portraits={
@@ -22,6 +35,20 @@ characters={
 		country_leader={
 			traits = { popular_figurehead2 }
 			ideology=conservatism
+			expire="1914.10.10.1"
+			id=-1
+		}
+	}
+	ROM_carol_ii={
+		name="Carol I"
+		portraits={
+			civilian={
+				large="gfx/leaders/ROM/portrait_carol_i.dds"
+			}
+		}
+		country_leader={
+			traits = { popular_figurehead2 }
+			ideology=centrism
 			expire="1914.10.10.1"
 			id=-1
 		}
@@ -153,7 +180,7 @@ characters={
 				has_completed_focus = ROM_appoint_conservatives
 			}
 			traits = {
-				prime_minister_menderes
+				prime_minister_inonu
 			}
 			cost = 100
 			ai_will_do = {

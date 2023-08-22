@@ -9,13 +9,13 @@ state={
 		add_core_of = SER
 		buildings = {
 			infrastructure = 2
-
 		}
-		
 		victory_points = {
-			20222 10 
+			20222 2 #Ipek
 		}
-
+		victory_points = {
+			14848 2 #Dakovitsa
+		}
 	}
 
 	provinces={
@@ -23,6 +23,6 @@ state={
 	}
 	manpower=39251
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 	local_supplies=0.000
 }

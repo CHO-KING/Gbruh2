@@ -13,12 +13,11 @@ state={
 			industrial_complex = 1
 		}
 		victory_points = {
-			20199 5 
+			20199 5 #Manastir
 		}
 		victory_points = {
-			14979 5 
+			14979 2 #Prilep
 		}
-
 	}
 
 	provinces={

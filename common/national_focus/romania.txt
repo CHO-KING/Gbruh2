@@ -45,12 +45,19 @@ focus_tree = {
 				ideology = conservatism
 				trait = old_figurehead
 			}
+			hidden_effect = {
+				add_trait = {
+					character = ROM_carol_ii
+					ideology = centrism
+					trait = old_figurehead
+				}
+			}
 		}
 	}
 
 	focus = {
 		id = ROM_appoint_conservatives
-		icon = GFX_focus_eng_concessions_to_the_trade_unions
+		icon = GFX_focus_ger_return_of_the_kaiser
 		prerequisite = { focus = ROM_the_old_king }
 		mutually_exclusive = { focus = ROM_appoint_liberals }
 		x = -2
@@ -58,7 +65,7 @@ focus_tree = {
 		relative_position_id = ROM_the_old_king
 		cost = 10
 		ai_will_do = {
-			factor = 100
+			factor = 0
 		}
 		
 		completion_reward = {
@@ -133,7 +140,7 @@ focus_tree = {
 
 	focus = {
 		id = ROM_appoint_liberals
-		icon = GFX_goal_generic_improve_relations
+		icon = GFX_focus_chi_reach_out_to_france
 		prerequisite = { focus = ROM_the_old_king }
 		mutually_exclusive = { focus = ROM_appoint_conservatives }
 		x = 2
@@ -145,6 +152,14 @@ focus_tree = {
 		}
 		
 		completion_reward = {
+			set_politics = {
+				ruling_party = democratic
+				elections_allowed = yes
+			}
+			add_popularity = { 
+				ideology = democratic 
+				popularity = 0.4
+			} 
 			custom_effect_tooltip = available_political_advisor
 			show_ideas_tooltip = ROM_ion_bratianu
 		}
@@ -280,11 +295,17 @@ focus_tree = {
 		relative_position_id = ROM_cfr
 		cost = 10
 		available = {
-			has_country_leader = {
-				character = ROM_ferdinand_i
-				ruling_only = yes
-			}
 			has_global_flag = great_war_started_flag
+			OR = {
+				has_country_leader = {
+					character = ROM_ferdinand_ii
+					ruling_only = yes
+				}
+				has_country_leader = {
+					character = ROM_ferdinand_i
+					ruling_only = yes
+				}
+			}
 		}
 		ai_will_do = {
 			factor = 100
@@ -295,6 +316,13 @@ focus_tree = {
 				character = ROM_ferdinand_i
 				ideology = conservatism
 				trait = war_cabinet
+			}
+			hidden_effect = {
+				add_trait = {
+					character = ROM_ferdinand_ii
+					ideology = centrism
+					trait = war_cabinet
+				}
 			}
 		}
 	}
@@ -335,23 +363,30 @@ focus_tree = {
 			add_ideas = ROM_foreign_loans
 		}
 	}
-
+	
 	focus = {
-		id = ROM_arms_purchases
-		icon = GFX_goal_generic_intelligence_exchange
+		id = ROM_contact_the_central_powers
+		icon = GFX_focus_ger_oppose_hitler
 		prerequisite = { focus = ROM_foreign_loans }
 		x = 0
 		y = 1
 		relative_position_id = ROM_foreign_loans
 		cost = 10
+		available = {
+			has_government = neutrality
+			NOT = {
+				has_idea = ROM_war_preparation
+			}
+		}
 		ai_will_do = {
 			factor = 100
 		}
 		
 		completion_reward = {
-			unlock_decision_tooltip = ROM_french_purchases
-			unlock_decision_tooltip = ROM_austrian_purchases
-			custom_effect_tooltip = ROM_arms_purchases_tt
+			GER = {
+				add_to_faction = ROM
+			}
+			remove_ideas = TUR_diplo_isolation
 		}
 	}
 
@@ -376,14 +411,50 @@ focus_tree = {
 	}
 
 	focus = {
-		id = ROM_contact_the_entente
-		icon = GFX_focus_generic_strike_at_democracy3
+		id = ROM_arms_purchases
+		icon = GFX_goal_generic_intelligence_exchange
 		prerequisite = { focus = ROM_preemptive_war_economy }
 		x = 0
 		y = 1
 		relative_position_id = ROM_preemptive_war_economy
 		cost = 10
+		ai_will_do = {
+			factor = 100
+		}
+		
+		completion_reward = {
+			unlock_decision_tooltip = ROM_french_purchases
+			unlock_decision_tooltip = ROM_austrian_purchases
+			custom_effect_tooltip = ROM_arms_purchases_tt
+		}
+	}
+
+	focus = {
+		id = ROM_convert_fortress_guns
+		icon = GFX_goal_generic_construct_military
+		prerequisite = { focus = ROM_military_buildup }
+		x = 2
+		y = 1
+		relative_position_id = ROM_military_buildup
+		cost = 10
+		ai_will_do = {
+			factor = 100
+		}
+		completion_reward = {
+			unlock_decision_tooltip = ROM_convert_fortress_guns_dec
+		}
+	}
+	
+	focus = {
+		id = ROM_contact_the_entente
+		icon = GFX_focus_generic_strike_at_democracy3
+		prerequisite = { focus = ROM_convert_fortress_guns }
+		x = 0
+		y = 1
+		relative_position_id = ROM_convert_fortress_guns
+		cost = 10
 		available = {
+			has_government = democratic
 			NOT = {
 				has_idea = ROM_war_preparation
 			}
@@ -397,23 +468,6 @@ focus_tree = {
 				add_to_faction = ROM
 			}
 			remove_ideas = TUR_diplo_isolation
-		}
-	}
-
-	focus = {
-		id = ROM_convert_fortress_guns
-		icon = GFX_goal_generic_construct_military
-		prerequisite = { focus = ROM_military_buildup }
-		x = 2
-		y = 1
-		relative_position_id = ROM_military_buildup
-		cost = 10
-		ai_will_do = {
-			factor = 1
-		}
-		
-		completion_reward = {
-			unlock_decision_tooltip = ROM_convert_fortress_guns_dec
 		}
 	}
 

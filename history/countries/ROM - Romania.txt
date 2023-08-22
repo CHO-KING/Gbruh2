@@ -24,16 +24,16 @@ set_technology = {
 }
 
 set_politics = {
-    ruling_party = democratic
+    ruling_party = neutrality
     last_election = "1907.1.1"
     election_frequency = 48
     elections_allowed = yes
 }
 set_popularities = {
-    democratic = 69
+    democratic = 27
     fascism = 3
     communism = 1
-    neutrality = 27
+    neutrality = 69
 }
 
 add_ideas = {
@@ -50,6 +50,8 @@ oob = "ROM_1910"
 
 recruit_character = ROM_carol_i
 recruit_character = ROM_ferdinand_i
+recruit_character = ROM_carol_ii
+recruit_character = ROM_ferdinand_ii
 recruit_character = ROM_alexandru_averescu
 recruit_character = ROM_ioan_culcer
 recruit_character = ROM_constantin_prezan

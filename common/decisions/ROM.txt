@@ -229,7 +229,7 @@ ROM_integration_decisions = {
 					}
 				}
 				FROM = {
-					compliance > 30
+					compliance > 20
 				}
 			}
 		}

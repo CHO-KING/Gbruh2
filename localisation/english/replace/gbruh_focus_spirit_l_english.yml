@@ -798,11 +798,11 @@
  
  ROM_path_to_a_greater_romania:0 "Path to a Greater Romania"
  ROM_the_old_king:0 "The Old King"
- ROM_appoint_conservatives:0 "Appoint a Conservative Government"
+ ROM_appoint_conservatives:0 "Continue the Pro-German Course"
  ROM_balance_the_budget:0 "Balance the Budget"
  ROM_promote_culture:0 "Promote Romanian Culture"
  ROM_trade_liberalisation:0 "Trade Liberalisation"
- ROM_appoint_liberals:0 "Appoint a Liberal Government"
+ ROM_appoint_liberals:0 "Appoint a Francophile Liberal Government"
  ROM_start_land_reform:0 "Draft a Land Reform Bill"
  ROM_democratisation:0 "Democratisation Efforts"
  ROM_finish_land_reform:0 "Pass the Land Reform Bill"
@@ -826,6 +826,10 @@
  ROM_french_lessons:0 "Incorporate French Doctrine"
  ROM_army_reform:0 "Comprehensive Reform"
  ROM_technical_assistance:0 "Request Technical Assistance"
+ ROM_contact_the_central_powers:0 "Contact the Central Powers"
+ 
+ ROM_appoint_conservatives_desc:0 "§RThe Conservatives will seek to join the Central Powers, if a war breaks out.§"
+ ROM_appoint_liberals_desc:0 "§RThe Liberals will seek to join the Entente, if a war breaks out§"
  
  ROM_poor_peasants:0 "Landless Peasants"
  ROM_poor_peasants_2:0 "Land Reform"

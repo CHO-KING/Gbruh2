@@ -641,6 +641,9 @@
  july_crisis.5.t:0 "Russia Mobilises"
  july_crisis.5.d:0 "Despite our best efforts we were not able to stop Russia from mobilising. We are left with no choice but to mobilise ourselves, lest we become a victim of the Russian steamroller."
  july_crisis.5.a:0 "War is upon us..."
+ luxembourg.1.t:0 "Death of Grand Duke William IV"
+ luxembourg.1.d:0 "Death of the Grand Duke"
+ luxembourg.1.a:0 "Long live the Grand Duchess"
  
  #### CITY EVENTS ####
  germany.1.t:0 "Ending the Debauchery in Rixdorf"
