@@ -434,6 +434,18 @@ country_event = {
 			ideology = communism
 			popularity = 0.80
 		}
+		hidden_effect = {
+			set_party_name = { 
+				ideology = communism  
+				long_name = "Rossiyskaya Kommunisticheskaya Partiya (bolshevikov)"
+				name = "RKP(b)"
+			}
+			set_party_name = { 
+				ideology = neutrality  
+				long_name = "Vremennoye Vserossiyskoye Pravitelstvo"
+				name = VVp
+			}
+		}
 		division_template = {
 			name = "Red Guards"
 			regiments = {
@@ -495,6 +507,18 @@ country_event = {
 		add_popularity = {
 			ideology = neutrality
 			popularity = 0.80
+		}
+		hidden_effect = {
+			set_party_name = { 
+				ideology = communism  
+				long_name = "Rossiyskaya Kommunisticheskaya Partiya (bolshevikov)"
+				name = "RKP(b)"
+			}
+			set_party_name = { 
+				ideology = neutrality  
+				long_name = "Vremennoye Vserossiyskoye Pravitelstvo"
+				name = VVp
+			}
 		}
 	}
 }
