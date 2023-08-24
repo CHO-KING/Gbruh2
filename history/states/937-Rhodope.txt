@@ -11,10 +11,12 @@ state={
 		add_core_of = BUL
 		add_core_of = GRE
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
 		}
 		victory_points = {
-			20337 2 #Komotiní
+			1428 5 #Komotiní
 		}
 	}
 

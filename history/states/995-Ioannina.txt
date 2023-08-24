@@ -15,15 +15,14 @@ state={
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
-			industrial_complex = 1
 		}
 	
         victory_points = {
-            20255 5
+            20255 2 #Yanya
         }
     }
 	manpower=157701
-	state_category=town
+	state_category=rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

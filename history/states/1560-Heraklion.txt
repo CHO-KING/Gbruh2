@@ -9,14 +9,13 @@ state={
 		add_core_of = GRE
 		
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
+			infrastructure = 2
 			dockyard = 1
 			20350 = { naval_base = 3 }
 		}
 	
         victory_points = {
-            20350 10
+            20350 5 #Heraklion
         }
     }
 	manpower=135042

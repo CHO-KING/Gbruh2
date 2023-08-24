@@ -13,7 +13,7 @@ state={
 		}
 	
         victory_points = {
-            20253 5
+            20253 2 #Chalkís
         }
     }
 	manpower=86105

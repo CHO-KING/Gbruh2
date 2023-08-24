@@ -6,20 +6,17 @@ state={
 	history={
 		owner = TUR
 		add_core_of = TUR
-		add_core_of = GRE
-		add_claim_by = BUL
+		add_core_of = BUL
 		
 		buildings = {
 			infrastructure = 2
-
 		}
-
 	}
 
 	provinces={
-		4418 14980 14987 15004 15066 16530 21454 
+		17220
 	}
-	manpower=50708
+	manpower=708
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 	local_supplies=0.000

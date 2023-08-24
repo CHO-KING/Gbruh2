@@ -340,6 +340,8 @@ focus_tree = {
 				}
 				transfer_state = 1969
 				transfer_state = 2006
+				transfer_state = 2005
+				transfer_state = 1938
 			}
 			remove_ideas = TUR_diplo_isolation
 			GER = {

@@ -11,17 +11,14 @@ state={
 			industrial_complex = 1
 		}
 		victory_points = {
-			9588 2
-		}
-		victory_points = {
-			1904 2
+			1904 2 #Argos
 		}
 	}
 	provinces={
 		1904 5696 9588 20261 20271 
 	}
 	manpower=114737
-	state_category=town
+	state_category=rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

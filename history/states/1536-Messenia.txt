@@ -11,13 +11,12 @@ state={
 			infrastructure = 2
 			20250 = { naval_base = 1 }
 		}
-	
         victory_points = {
-            20250 5
+            20250 5 #Kalamata
         }
     }
 	manpower=61900
-	state_category=rural
+	state_category=town
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

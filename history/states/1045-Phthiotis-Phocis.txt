@@ -13,7 +13,7 @@ state={
 		}
 	
         victory_points = {
-            20257 5
+            20257 2 #Lamia
         }
     }
 	manpower=57140

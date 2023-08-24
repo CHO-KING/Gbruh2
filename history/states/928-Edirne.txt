@@ -8,23 +8,24 @@ state={
 		add_core_of = TUR
 		add_core_of = BUL
 		add_core_of = GRE
-		
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
 			industrial_complex = 2
 			20370 = {
 				bunker = 1
+
 			}
+
 		}
 		victory_points = {
-			20370 15 #Edirne 
+			20370 15 
 		}
 
 	}
 
 	provinces={
-		871 6842 16499 16281 20370 21558 
+		871 6842 16281 20370 21558 
 	}
 	manpower=80523
 	buildings_max_level_factor=1.000

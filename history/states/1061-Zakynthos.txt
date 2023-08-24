@@ -8,6 +8,9 @@ state={
 		buildings = {
 			infrastructure = 2
 		}
+        victory_points = {
+            20284 2 #Zakynthos
+        }
 	}
 	provinces={
 		20284 
