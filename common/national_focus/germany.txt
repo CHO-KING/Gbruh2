@@ -850,6 +850,10 @@ focus_tree = {
 		
 		completion_reward = {
 			add_ideas = GER_rathenau_programme
+			add_popularity = {
+				ideology = democratic
+				popularity = 0.1
+			}
 		}
 	}
 
@@ -1070,6 +1074,22 @@ focus_tree = {
 		
 		completion_reward = {
 			add_ideas = GER_hindenburg_programme
+			add_popularity = {
+				ideology = fascism
+				popularity = 0.1
+			}
+			hidden_effect = {
+				set_party_name = { 
+					ideology = neutrality 
+					long_name = "Kabinett Michaelis"
+					name = OHL
+				}
+				set_party_name = { 
+					ideology = fascism 
+					long_name = "Deutsche Vaterlandspartei"
+					name = DVLP
+				}
+			}
 		}
 	}
 	

@@ -73,7 +73,6 @@ add_dynamic_modifier = {
 }
 
 recruit_character = TUR_mehmed_v
-recruit_character = TUR_mehmed_vv
 recruit_character = TUR_talaat
 recruit_character = TUR_hamid_ii
 recruit_character = TUR_mustafa_kemal

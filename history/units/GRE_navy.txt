@@ -1,9 +1,9 @@
 units = {
 	fleet = {
 		name = "Basilikos Stolos Ellenas Fleet"
-		naval_base = 20252
+		naval_base = 15264
 		task_force = {
-			location = 20252
+			location = 15264
 			name = "Basilikos Stolos Ellenas"
 			ship = { name = "EBN Hydra" definition = battleship equipment = { ship_hull_ironclad = { amount = 1 owner = GRE version_name = "Hydra Class" } } }
 			ship = { name = "EBN Spetsai" definition = battleship equipment = { ship_hull_ironclad = { amount = 1 owner = GRE version_name = "Hydra Class" } } }

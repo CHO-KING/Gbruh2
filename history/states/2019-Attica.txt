@@ -13,13 +13,17 @@ state={
 			arms_factory = 2
 			industrial_complex = 1
 			dockyard = 2
+			15264 = { naval_base = 9 }
 		}
+        victory_points = {
+            15264 20 #Pireaus
+        }
 	}
 	provinces={
-		3130 3316 9535 20260 
+		3130 3316 9535 15264 20260 
 	}
 	manpower=492403
-	state_category=large_city
+	state_category=city
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

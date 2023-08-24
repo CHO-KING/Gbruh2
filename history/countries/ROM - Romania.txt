@@ -50,8 +50,6 @@ oob = "ROM_1910"
 
 recruit_character = ROM_carol_i
 recruit_character = ROM_ferdinand_i
-recruit_character = ROM_carol_ii
-recruit_character = ROM_ferdinand_ii
 recruit_character = ROM_alexandru_averescu
 recruit_character = ROM_ioan_culcer
 recruit_character = ROM_constantin_prezan

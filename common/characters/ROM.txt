@@ -11,20 +11,13 @@ characters={
 			expire="1935.1.1.1"
 			id=-1
 		}
-	}
-	ROM_ferdinand_ii={
-		name="Ferdinand I"
-		portraits={
-			civilian={
-				large="gfx/leaders/ROM/portrait_ferdinand_i.dds"
-			}
-		}
 		country_leader={
 			ideology=centrism
 			expire="1935.1.1.1"
 			id=-1
 		}
 	}
+	
 	ROM_carol_i={
 		name="Carol I"
 		portraits={
@@ -38,14 +31,6 @@ characters={
 			expire="1914.10.10.1"
 			id=-1
 		}
-	}
-	ROM_carol_ii={
-		name="Carol I"
-		portraits={
-			civilian={
-				large="gfx/leaders/ROM/portrait_carol_i.dds"
-			}
-		}
 		country_leader={
 			traits = { popular_figurehead2 }
 			ideology=centrism
@@ -53,6 +38,7 @@ characters={
 			id=-1
 		}
 	}
+
 	ROM_alexandru_averescu={
 		name="Alexandru Averescu"
 		portraits={

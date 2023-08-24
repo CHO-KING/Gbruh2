@@ -47,7 +47,7 @@ focus_tree = {
 			}
 			hidden_effect = {
 				add_trait = {
-					character = ROM_carol_ii
+					character = ROM_carol_i
 					ideology = centrism
 					trait = old_figurehead
 				}
@@ -296,17 +296,11 @@ focus_tree = {
 		cost = 10
 		available = {
 			has_global_flag = great_war_started_flag
-			OR = {
-				has_country_leader = {
-					character = ROM_ferdinand_ii
-					ruling_only = yes
-				}
 				has_country_leader = {
 					character = ROM_ferdinand_i
 					ruling_only = yes
 				}
 			}
-		}
 		ai_will_do = {
 			factor = 100
 		}
@@ -319,7 +313,7 @@ focus_tree = {
 			}
 			hidden_effect = {
 				add_trait = {
-					character = ROM_ferdinand_ii
+					character = ROM_ferdinand_i
 					ideology = centrism
 					trait = war_cabinet
 				}

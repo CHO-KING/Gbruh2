@@ -8,7 +8,6 @@ state={
 			infrastructure = 2
 		}
 		add_claim_by = ITA
-		victory_points = { 20297 5 }
 		buildings = {
 			infrastructure = 3
 			20297 = { naval_base = 4 }
@@ -19,7 +18,7 @@ state={
 		20297 20316 20317 20318 20321 20322 20323 20324 20325 
 	}
 	manpower=120247
-	state_category=rural
+	state_category=pastoral
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

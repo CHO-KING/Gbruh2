@@ -38,14 +38,6 @@ characters={
 			expire="1935.1.1.1"
 			id=-1
 		}
-	}
-	TUR_mehmed_vv={
-		name="Mehmed V"
-		portraits={
-			civilian={
-				large="gfx/leaders/TUR/portrait_mehmed_v.dds"
-			}
-		}
 		country_leader={
 			ideology=despotism
 			expire="1935.1.1.1"
