@@ -89,6 +89,10 @@ ROM = {
 	color = rgb { 252 209 22 }
 	color_ui = rgb { 252 209 22 }
 }
+CYP = {
+	color = rgb { 153 204 255 }
+	color_ui = rgb { 153 204 255 }
+}
 
 ###Northern Europe
 

@@ -382,6 +382,69 @@ balkan_wars = {
 	}
 }
 
+GRE_integration_decisions = {
+	GRE_Integrate_Lands = {
+		name = integrate_states
+		icon = eng_trade_unions_support
+		allowed = { tag = GRE }
+
+		available = {
+			FROM = {
+				is_fully_controlled_by = ROOT
+			}
+			if = {
+				limit = {
+					FROM = {
+						has_resistance = yes
+					}
+				}
+				FROM = {
+					compliance > 15
+				}
+			}
+		}
+
+		visible = {
+			FROM = {
+				is_owned_and_controlled_by = ROOT
+				NOT = { is_core_of = ROOT }
+			}
+		}
+
+		cost = 20
+		days_remove = 30
+		fire_only_once = no
+		cancel_if_not_visible = yes
+
+		state_target = yes
+		targets = { 1526 2373 15071 1964 1962 1963 1967 } #Epirus & Cyprus
+		target_trigger = {
+			FROM = {
+				is_owned_and_controlled_by = ROOT
+				NOT = { is_core_of = ROOT }
+			}
+		}
+
+		ai_will_do = { factor = 100 }
+
+		cancel_effect = {
+			log = "[GetDateText]: [Root.GetName]: Decision cancel GRE_Integrate_Lands target: [From.GetName]"
+			add_political_power = 20
+		}
+
+		remove_effect = {
+			log = "[GetDateText]: [Root.GetName]: Decision remove GRE_Integrate_Lands target: [From.GetName]"
+			FROM = {
+				if = {
+					limit = { is_claimed_by = ROOT }
+					remove_claim_by = ROOT
+				}
+				add_core_of = ROOT
+			}
+		}
+	}
+}
+
 mobilization = {
 	GRE_mobilisation = {
 		icon = generic_operation

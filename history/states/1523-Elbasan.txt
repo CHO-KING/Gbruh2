@@ -8,10 +8,9 @@ state={
 		add_core_of = ALB
 		buildings = {
 			infrastructure = 2
-
 		}
 		victory_points = {
-			20216 10 
+			20216 5 #Ilbasan
 		}
 
 	}
@@ -21,6 +20,6 @@ state={
 	}
 	manpower=110855
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

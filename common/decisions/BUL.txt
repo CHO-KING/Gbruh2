@@ -250,6 +250,7 @@ balkan_wars = {
 					transfer_state = 1969
 					transfer_state = 2006
 					transfer_state = 1938
+					transfer_state = 2005
 				}
 			}
 			white_peace = TUR

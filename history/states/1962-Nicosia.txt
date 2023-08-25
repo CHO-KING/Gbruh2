@@ -1,23 +1,26 @@
+
 state={
 	id=1962
-	name="STATE_1962"		
-	history = {
+	name="STATE_1962"
+
+	history={
 		owner = ENG
-		
+		add_core_of = CYP
+		add_claim_by = GRE
+		add_claim_by = TUR
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = GRE
-		buildings = {
-			infrastructure = 2
+		victory_points = {
+			13309 2 #Nicosia
 		}
-		victory_points = { 13309 5 }
 	}
+
 	provinces={
-		6903 13309 15113 
+		2641 11693 13309 14992 15113 15318 20437 
 	}
-	manpower=56918
-	state_category=rural
+	manpower=98471
 	buildings_max_level_factor=1.000
+	state_category=rural
 	local_supplies=0.000
 }

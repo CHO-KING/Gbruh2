@@ -117,3 +117,7 @@ FIN_integration_decisions = {
 ITA_encroaching_decisions = {
 		icon = generic_crisis
 }
+
+GRE_integration_decisions = {
+		icon = generic_crisis
+}

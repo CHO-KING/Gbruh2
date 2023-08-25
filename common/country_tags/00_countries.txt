@@ -36,6 +36,7 @@ ROM = "countries/Romania.txt"
 BUL = "countries/Bulgaria.txt"
 ALB = "countries/Albania.txt"
 GRE = "countries/Greece.txt"
+CYP = "countries/Cyprus.txt"
 
 ###Northern Europe
 FIN = "countries/Finland.txt"

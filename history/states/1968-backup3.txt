@@ -1,0 +1,19 @@
+
+state={
+	id=1968
+	name="STATE_1968"
+
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		1144 
+	}
+	manpower=10
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}
