@@ -98,6 +98,23 @@ characters={
 			}
 		}
 	}
+	SOV_paul_rennenkampf={
+		name="Paul von Rennenkampf"
+		portraits={
+			army={
+				large="gfx/leaders/SOV/portrait_rennenkampf.dds"
+			}
+		}
+		corps_commander={
+			traits={ harsh_leader politically_connected trait_cautious }
+			skill=2
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=3
+			legacy_id=76888
+		}
+	}
 	SOV_nikolay_rouzski={
 		name="Nikolay Rouzski"
 		portraits={
@@ -245,10 +262,27 @@ characters={
 			traits={ infantry_officer war_hero harsh_leader trait_cautious inflexible_strategist }
 			skill=4
 			attack_skill=3
+			defense_skill=3
+			planning_skill=4
+			logistics_skill=3
+			legacy_id=77713
+		}
+	}
+	SOV_carl_gustaf_emil_mannerheim={
+		name="Carl Gustaf Emil Mannerheim"
+		portraits={
+			army={
+				large="gfx/leaders/SOV/portrait_mannerheim.dds"
+			}
+		}
+		corps_commander={
+			traits={ inflexible_strategist trait_cautious war_hero trickster winter_specialist }
+			skill=4
+			attack_skill=3
 			defense_skill=4
 			planning_skill=3
 			logistics_skill=3
-			legacy_id=77713
+			legacy_id=58
 		}
 	}
 	SOV_aleksandr_samsonov={
@@ -268,11 +302,28 @@ characters={
 			legacy_id=77166
 		}
 	}
+	SOV_nikolay_yudenich={
+		name="Nikolay Yudenich"
+		portraits={
+			army={
+				large="gfx/leaders/SOV/portrait_yudenich.dds"
+			}
+		}
+		corps_commander={
+			traits={ infantry_officer }
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=77555
+		}
+	}
 	SOV_vladimir_sakharov={
 		name="Vladimir Sakharov"
 		portraits={
 			army={
-				large="gfx/leaders/SOV/portrait_samsonov.dds"
+				large="gfx/leaders/SOV/portrait_sakharov.dds"
 			}
 		}
 		corps_commander={

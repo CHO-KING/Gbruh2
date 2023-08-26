@@ -26,7 +26,7 @@ characters={
 			expire="1935.1.1.1"
 			id=-1
 		}
-	}
+	} 
 	AUS_conrad_von_hotzendorf={
 		name="Conrad von Hötzendorf"
 		portraits={
@@ -61,6 +61,23 @@ characters={
 			legacy_id=6386
 		}
 	}
+	AUS_eugen_von_osterreich={
+		name="Archduke Eugen of Austria"
+		portraits={
+			army={
+				large="gfx/leaders/AUS/portrait_eugen_austria.dds"
+			}
+		}
+		corps_commander={
+			traits={ infantry_officer politically_connected career_officer  }
+			skill=4
+			attack_skill=3
+			defense_skill=4
+			planning_skill=4
+			logistics_skill=2
+			legacy_id=6981
+		}
+	}
 	AUS_stogersteiner_von_steinstatten={
 		name="Rudolf Stöger-Steiner von Steinstätten"
 		portraits={
@@ -69,12 +86,12 @@ characters={
 			}
 		}
 		corps_commander={
-			traits={ infantry_officer politically_connected career_officer  }
+			traits={ infantry_officer war_hero politically_connected career_officer  }
 			skill=4
 			attack_skill=3
 			defense_skill=4
-			planning_skill=3
-			logistics_skill=3
+			planning_skill=4
+			logistics_skill=2
 			legacy_id=6401
 		}
 	}
@@ -93,6 +110,23 @@ characters={
 			planning_skill=4
 			logistics_skill=3
 			legacy_id=6010
+		}
+	}
+	AUS_eugen_von_boehm_ermolli={
+		name="Eugen von Böhm-Ermolli"
+		portraits={
+			army={
+				large="gfx/leaders/AUS/portrait_von_boehm_ermolli.dds"
+			}
+		}
+		corps_commander={
+			traits={ cavalry_officer politically_connected }
+			skill=3
+			attack_skill=2
+			defense_skill=3
+			planning_skill=3
+			logistics_skill=2
+			legacy_id=6140
 		}
 	}
 	AUS_karl_von_pflanzerbaltin={
@@ -144,6 +178,23 @@ characters={
 			planning_skill=3
 			logistics_skill=2
 			legacy_id=6396
+		}
+	}
+	AUS_arz_von_straussenburg={
+		name="Arthur Arz von Straußenburg"
+		portraits={
+			army={
+				large="gfx/leaders/AUS/portrait_straussenburg.dds"
+			}
+		}
+		corps_commander = {
+			traits={ infantry_officer career_officer }
+			skill=3
+			attack_skill=2
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=3
+			legacy_id=6222
 		}
 	}
 	AUS_jozef_pilsudski={

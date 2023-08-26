@@ -389,10 +389,11 @@ country_event = {
 				transfer_state = 1005
 			}	
 			release = FIN
+			SOV_carl_gustaf_emil_mannerheim = { set_nationality = FIN }
 			FIN = {
 				start_civil_war = {
 					ideology = communism
-					size = 0.2
+					size = 0.5
 					capital = 114
 				}
 			}
