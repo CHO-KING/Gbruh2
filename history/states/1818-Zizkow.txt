@@ -1,20 +1,27 @@
+
 state={
 	id=1818
 	name="STATE_1818"
+
 	history={
 		owner = AUS
-		add_core_of =AUS
+		add_core_of = CZE
 		buildings = {
 			infrastructure = 3
 			arms_factory = 3
 			industrial_complex = 3
 		}
+       victory_points = {
+            20846 20 #Žižkow
+        }
+
 	}
+
 	provinces={
-		20847 
+		14825 15064 20846 
 	}
-	manpower=186891
+	manpower=123200
 	buildings_max_level_factor=1.000
+	state_category=city
 	local_supplies=0.000
-	state_category = city
 }

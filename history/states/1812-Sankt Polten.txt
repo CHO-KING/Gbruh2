@@ -6,6 +6,10 @@ state={
 		add_core_of =AUS
 		buildings = {
 			infrastructure = 3
+			arms_factory = 1
+		}
+			victory_points = {
+			13425 2 #St. Polten
 		}
 	}
 	provinces={
@@ -14,5 +18,5 @@ state={
 	manpower=158711
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = town
+	state_category = rural
 }

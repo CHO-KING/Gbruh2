@@ -11,7 +11,10 @@ state={
 			infrastructure = 3
 		}
 		victory_points = {
-			20396 20 
+			20396 10 #Nagyvarad
+		}
+		victory_points = {
+			3276 2 #Nagyszalonta
 		}
 	}
 	provinces={

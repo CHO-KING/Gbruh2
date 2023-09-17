@@ -8,16 +8,13 @@ state={
 		add_core_of = ALB
 		buildings = {
 			infrastructure = 1
-
 		}
-
 	}
-
 	provinces={
 		2237 14872 20233 
 	}
 	manpower=9239
 	buildings_max_level_factor=1.000
-	state_category=enclave
+	state_category=pastoral
 	local_supplies=0.000
 }

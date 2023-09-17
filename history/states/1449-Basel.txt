@@ -12,7 +12,7 @@ state={
 		}
 	
         victory_points = {
-            7715 10 #Basel
+            7715 20 #Basel
         }
     }
 	manpower=262000

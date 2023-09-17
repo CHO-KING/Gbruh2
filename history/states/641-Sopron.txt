@@ -8,9 +8,11 @@ state={
 		add_claim_by = HUN
 		buildings = {
 			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
 		}
 		victory_points = {
-            13644 2 #Sopron
+            13644 5 #Sopron
         }
 		
 	}
@@ -19,6 +21,6 @@ state={
 	}
 	manpower=73294
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 	local_supplies=0.000
 }

@@ -10,6 +10,7 @@ state={
 	history={
 		owner = ENG
 		add_core_of = ENG
+		add_core_of = IRE
 		buildings = {
 			infrastructure = 4
 			arms_factory = 2
@@ -18,10 +19,10 @@ state={
 		}
 	
         victory_points = {
-            11917 10
+            11917 15 #Cork
         }
     }
 	manpower=287257
 	buildings_max_level_factor=1.000
-	state_category = city
+	state_category = large_town
 }

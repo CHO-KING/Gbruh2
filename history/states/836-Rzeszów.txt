@@ -12,11 +12,11 @@ state={
 			infrastructure = 3
 		}
         victory_points = {
-            6002 10 #Rzeszów
+            6002 2 #Rzeszów
         }
   	}
 	manpower=381711
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 	local_supplies=0.000
 }

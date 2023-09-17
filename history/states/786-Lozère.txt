@@ -7,7 +7,7 @@ state={
 		add_core_of = FRA
 		
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 		}
     }
 	provinces={
@@ -15,6 +15,6 @@ state={
 	}
 	manpower=98500
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 	local_supplies=0.000
 }

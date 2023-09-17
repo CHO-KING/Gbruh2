@@ -1,0 +1,33 @@
+add_namespace = turkey
+
+
+country_event = {
+	id = turkey.1
+	title = turkey.1.t
+	desc = turkey.1.d
+	picture = GFX_report_event_royal_parade
+
+	fire_only_once = yes
+
+	trigger = {
+ 		TAG = TUR
+		owns_state = 928
+		has_global_flag = balkan_2_bul_deafeat
+	}
+
+	mean_time_to_happen = {
+		days = 0
+	}
+
+	option = {
+		name = turkey.1.a
+		add_stability = 0.05
+		906 = { remove_core_of = BUL }
+		928 = { remove_core_of = BUL }
+		932 = { remove_core_of = BUL }
+		1933 = { remove_core_of = BUL }
+		2753 = { remove_core_of = BUL }
+		2754 = { remove_core_of = BUL }
+		2770 = { remove_core_of = BUL }
+	}
+}

@@ -8,15 +8,11 @@ state={
 		add_core_of = GRE
 		add_core_of = BUL
 		buildings = {
-			infrastructure = 1
-			arms_factory = 1
-			industrial_complex = 1
-
+			infrastructure = 2
 		}
 		victory_points = {
-			3101 2 
+			3101 2 #Dirama
 		}
-
 	}
 
 	provinces={
@@ -24,6 +20,6 @@ state={
 	}
 	manpower=59201
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 	local_supplies=0.000
 }

@@ -28,13 +28,6 @@
 
 ###################################
 
-### ### #  # ###  ##  ###  ###  ##
-#    #  #  #  #  #  # #  #  #  #  #
-##   #  ####  #  #  # ###   #  ####
-#    #  #  #  #  #  # #     #  #  #
-###  #  #  # ###  ##  #    ### #  #
-
-###################################
 
 ###### COUNTRY MODIFIERS
 
@@ -59,14 +52,31 @@ TUR_debt_council_modifier = { #NATIONAL SPIRIT
 
 }
 
-krupp_works = {
+GER_krupp_works = {
 	enable = { always = yes }
 
-	icon = GFX_modifiers_generic_military_industry
+	icon = GFX_idea_krupp
+
+	local_building_slots_factor = 0.25
+	state_production_speed_arms_factory_factor = 0.25
+}
+
+GER_wilhelmshaven_shipyards = {
+	enable = { always = yes }
+
+	icon = GFX_idea_kaiserliche_werft_wilhelmshaven
 
 	local_building_slots_factor = 0.5
-	state_production_speed_arms_factory_factor = 0.25
-	local_resources_factor = 0.1
+	state_production_speed_dockyard_factor = 0.2
+}
+
+GER_germaniawerft = {
+	enable = { always = yes }
+
+	icon = GFX_idea_germaniawerft
+
+	local_building_slots_factor = 0.5
+	state_production_speed_dockyard_factor = 0.2
 }
 
 skoda_works = {
@@ -74,15 +84,15 @@ skoda_works = {
 
 	icon = GFX_idea_CZE_skoda_works
 
-	state_production_speed_arms_factory_factor = 0.1
-	local_factories = 0.25
-	local_building_slots_factor = 1.0
+	state_production_speed_arms_factory_factor = 0.15
+	local_factories = 0.5
+	local_resources_factor = 0.1
 }
 
 tula_arms = {
 	enable = { always = yes }
 
-	icon = GFX_idea_CZE_skoda_works
+	icon = GFX_idea_tula_arms_plant
 
 	state_production_speed_arms_factory_factor = 0.25
 	local_factories = 0.1
@@ -144,7 +154,7 @@ AUS_hun_industrialisation = {
 	icon = GFX_modifiers_SOV_factory_worker_militias
 
 	state_production_speed_industrial_complex_factor = 0.25
-	local_factories = -0.25
+	local_factories = -0.1
 }
 
 AUS_cze_industrialisation = {
@@ -153,7 +163,16 @@ AUS_cze_industrialisation = {
 	icon = GFX_modifiers_SOV_factory_worker_militias
 
 	state_production_speed_arms_factory_factor = 0.15
-	local_factories = -0.25
+	local_factories = -0.1
+}
+
+AUS_stabilimento_tecnico_triestino = {
+	enable = { always = yes }
+
+	icon = GFX_idea_stabilimento_tecnico_triestino
+	
+	state_production_speed_dockyard_factor = 0.20
+	local_factories = 0.50
 }
 
 ITA_mafia_control = {
@@ -196,10 +215,18 @@ ITA_ansaldo = {
 ENG_royal_arsenal_mod = {
 	enable = { always = yes }
 
-	icon = GFX_modifiers_increased_metal_production
+	icon = GFX_idea_rsaf_enfield
 
-	state_production_speed_arms_factory_factor = 0.2
-	local_factories = 0.5
+	state_production_speed_arms_factory_factor = 0.3
+}
+
+ENG_harland_wolff = {
+	enable = { always = yes }
+
+	icon = GFX_idea_harland_wolff
+
+	state_production_speed_dockyard_factor = 0.20
+	local_factories = 0.50
 }
 
 BEL_fn_herstal_mod = {
@@ -224,10 +251,17 @@ ROM_cfr_mod = {
 USA_springfield_mod = {
 	enable = { always = yes }
 
-	icon = GFX_modifiers_increased_metal_production
+	icon = GFX_idea_springfield_armory
 
 	state_production_speed_arms_factory_factor = 0.3
-	local_factories = 0.15
+}
+
+USA_newport_news_shipbuilding = {
+	enable = { always = yes }
+
+	icon = GFX_idea_newport_news_shipbuilding
+
+	state_production_speed_dockyard_factor = 0.3
 }
 
 fortified_region = {
@@ -242,6 +276,7 @@ fortified_region = {
 	army_speed_factor_for_controller = 0.1
 	local_org_regain = 0.25
 }
+
 coastal_battery = {
 	enable = { always = yes }
 

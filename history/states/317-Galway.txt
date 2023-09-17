@@ -8,19 +8,19 @@ state={
 	history={
 		owner = ENG
 		add_core_of = ENG
+		add_core_of = IRE
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
-			industrial_complex = 1
 			19387 = { naval_base = 1 }
 		}
 	
         victory_points = {
-            19387 5
+            19387 2 #Galway
         }
     }
 	manpower=69366
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = town
+	state_category = rural
 }

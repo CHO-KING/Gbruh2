@@ -11,7 +11,7 @@ state={
 
 		}
 		victory_points = {
-			14886 5 
+			14886 10 #Shkoder
 		}
 
 	}
@@ -21,6 +21,6 @@ state={
 	}
 	manpower=112695
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 	local_supplies=0.000
 }

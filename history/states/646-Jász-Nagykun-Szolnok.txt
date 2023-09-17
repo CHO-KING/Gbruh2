@@ -10,10 +10,13 @@ state={
 			infrastructure = 2
 		}
 		victory_points = {
-            13790 2
+            13790 2 #Karcag
         }
 		victory_points = {
-            13853 2
+            13853 2 #Mezotür
+        }
+		victory_points = {
+            4098 2 #Törökszentmiklos
         }
 	}
 	provinces={

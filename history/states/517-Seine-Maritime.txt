@@ -10,21 +10,18 @@ state={
 		add_core_of = FRA
 		buildings = {
 			infrastructure = 4
-			arms_factory = 2
-			industrial_complex = 2
+			arms_factory = 4
+			industrial_complex = 4
 			dockyard = 1
 			6317 = { naval_base = 1 }
 			12898 = { naval_base = 5 }
 		}
 		
 	    victory_points = {
-            12898 10 #Le Havre
+            12898 20 #Le Havre
 		}
         victory_points = {
-            12957 15 #Rouen
-        }
-        victory_points = {
-            2730 2 #Fécamp
+            12957 20 #Rouen
         }
         victory_points = {
             6317 2 #Dieppe

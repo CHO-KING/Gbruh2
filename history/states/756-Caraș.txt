@@ -14,7 +14,7 @@ state={
 		buildings = {
 			infrastructure = 2
 		}
-		victory_points = { 909 5 }
+		victory_points = { 909 2 } #Resicabanya
 	}
 	provinces={
 		909 4191 7928 8987 9172 14286 14451 
@@ -22,5 +22,5 @@ state={
 	manpower=210420
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = large_town
+	state_category = rural
 }

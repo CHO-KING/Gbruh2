@@ -8,17 +8,20 @@ state={
 	history={
 		owner = ENG
 		add_core_of = ENG
+		add_core_of = IRE
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
 			19388 = { naval_base = 1 }
 		}
 	
         victory_points = {
-            19388 5
+            19388 5 #Limerick
         }
     }
 	manpower=100895
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = rural
+	state_category = town
 }

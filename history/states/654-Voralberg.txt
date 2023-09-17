@@ -10,7 +10,7 @@ state={
 		}
 		
 		victory_points = {
-			4426 1 #Dornbirn
+			4426 2 #Dornbirn
 		}
 	}
 	provinces={
@@ -19,5 +19,5 @@ state={
 	manpower=154836
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = town
+	state_category = rural
 }

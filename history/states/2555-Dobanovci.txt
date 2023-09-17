@@ -11,11 +11,14 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
+		victory_points = {
+			20243 2 #Semlin
+		}
 		set_compliance = 25
 
 	}
-	manpower=8350
-	state_category=pastoral
+	manpower=48350
+	state_category=rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

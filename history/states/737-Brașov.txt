@@ -11,7 +11,7 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		victory_points = { 14237 20 }
+		victory_points = { 14237 5 } #Brasso
 	}
 	provinces={
 		4428 8160 14209 14216 14221 14237 14254 14266 20430 

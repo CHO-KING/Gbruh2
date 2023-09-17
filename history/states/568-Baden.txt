@@ -7,6 +7,17 @@ state={
 		add_core_of =AUS
 		buildings = {
 			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+			victory_points = {
+			13439 2 #Mödling 
+		}
+			victory_points = {
+			8128 2 #Baden 
+		}
+			victory_points = {
+			5271 2 #Klosterneuburg 
 		}
 	}
 	provinces={
@@ -15,5 +26,5 @@ state={
 	manpower=103440
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = rural
+	state_category = town
 }

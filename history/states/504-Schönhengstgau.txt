@@ -6,10 +6,6 @@ state={
 		owner = AUS
 		add_core_of = AUS
 		add_claim_by = CZE
-		
-        victory_points = {
-            6771 2 #Zwittau
-        }
 		buildings = {
 			infrastructure = 4
 		}
@@ -20,5 +16,5 @@ state={
 	manpower=180157
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = town
+	state_category = pastoral
 }

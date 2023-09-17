@@ -28,6 +28,7 @@ POR = "countries/Portugal.txt"
 SPR = "countries/Spain.txt"
 HOL = "countries/Netherlands.txt"
 BEL = "countries/Belgium.txt"
+IRE = "countries/Ireland.txt"
 
 ###Eastern Europe
 POL = "countries/Poland.txt"
@@ -35,6 +36,7 @@ ROM = "countries/Romania.txt"
 BUL = "countries/Bulgaria.txt"
 ALB = "countries/Albania.txt"
 GRE = "countries/Greece.txt"
+CYP = "countries/Cyprus.txt"
 
 ###Northern Europe
 FIN = "countries/Finland.txt"

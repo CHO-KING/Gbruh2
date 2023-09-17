@@ -19,10 +19,13 @@ focus_tree = {
 		icon = GFX_focus_eng_the_sun_never_sets
 		x = 3
 		y = 0
-		cost = 5
+		cost = 10
 		
 		completion_reward = {
 			navy_experience = 50
+			253 = {
+				add_dynamic_modifier = { modifier = ENG_harland_wolff }
+			}
 		}
 	}
 	
@@ -444,6 +447,13 @@ focus_tree = {
 		completion_reward = {
 			custom_effect_tooltip = available_political_advisor
 			show_ideas_tooltip = ENG_balfour
+			hidden_effect = {
+				set_party_name = { 
+					ideology = democratic 
+					long_name = "Conservative Party"
+					name = Tories
+				}
+			}
 		}
 	}
 

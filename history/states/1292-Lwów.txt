@@ -15,7 +15,7 @@ state={
 		}
 		add_core_of = UKR
         victory_points = {
-            249 40
+            249 40 #Lemberg
         }
   	}
 	manpower=447662

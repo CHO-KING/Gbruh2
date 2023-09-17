@@ -12,7 +12,8 @@ state={
 		victory_points = { 13220 10 }
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+			arms_factory = 1
+			industrial_complex = 2
 		}
 	}
 	manpower=224528

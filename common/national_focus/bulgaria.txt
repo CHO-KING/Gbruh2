@@ -241,6 +241,11 @@ focus_tree = {
 		}
 		
 		completion_reward = {
+			set_party_name = { 
+			ideology = neutrality 
+			long_name = "Liberalna Partiya"
+			name = Radoslavists
+			}
 			custom_effect_tooltip = available_political_advisor
 			show_ideas_tooltip = BUL_vasil_radoslav
 			remove_ideas = BUL_ivan_geshov
@@ -335,6 +340,8 @@ focus_tree = {
 				}
 				transfer_state = 1969
 				transfer_state = 2006
+				transfer_state = 2005
+				transfer_state = 1938
 			}
 			remove_ideas = TUR_diplo_isolation
 			GER = {

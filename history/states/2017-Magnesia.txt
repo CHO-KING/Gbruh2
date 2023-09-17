@@ -10,15 +10,17 @@ state={
 		add_core_of = GRE
 		buildings = {
 			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 2
 			20254 = { naval_base = 2 }
 		}
 	
         victory_points = {
-            20254 5
+            20254 10 #Volos
         }
     }
 	manpower=51852
-	state_category=rural
+	state_category=town
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

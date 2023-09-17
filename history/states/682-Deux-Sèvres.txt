@@ -10,17 +10,14 @@ state={
 		add_core_of = FRA
 		
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
         victory_points = {
-            19858 5 #Niort
-        }
-        victory_points = {
-            13890 2 #Bressuire
+            19858 2 #Niort
         }
     }
 	manpower=308800
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = rural
 }

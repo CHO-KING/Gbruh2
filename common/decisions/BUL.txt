@@ -249,6 +249,8 @@ balkan_wars = {
 					transfer_state = 2753
 					transfer_state = 1969
 					transfer_state = 2006
+					transfer_state = 1938
+					transfer_state = 2005
 				}
 			}
 			white_peace = TUR
@@ -269,7 +271,7 @@ balkan_wars = {
 				transfer_state = 1549
 				transfer_state = 1548
 				transfer_state = 2840
-				transfer_state = 2016
+				transfer_state = 2000
 				transfer_state = 929
 				transfer_state = 2002
 				add_ideas = TUR_diplo_isolation

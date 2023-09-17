@@ -15,7 +15,7 @@ state={
 		}
 	
         victory_points = {
-            4131 5
+            4131 2 #Serres
         }
     }
 	manpower=57108

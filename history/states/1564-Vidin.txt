@@ -10,9 +10,8 @@ state={
 		buildings = {
 			infrastructure = 2
 		}
-	
         victory_points = {
-            14608 5
+            14608 2 #Vidin
         }
     }
 	manpower=102154

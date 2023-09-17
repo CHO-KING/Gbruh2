@@ -9,10 +9,8 @@ state={
 		add_core_of = ROM
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 1
 		}
-		
-		victory_points = { 20428 10 }
+		victory_points = { 20428 2 } #Marosvasarhely
 	}
 	provinces={
 		1586 4454 7460 13900 13954 13975 20407 20427 20428 
@@ -20,5 +18,5 @@ state={
 	manpower=304290
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = rural
 }

@@ -8,15 +8,12 @@ state={
 		buildings = {
 			infrastructure = 2
 		}
-		victory_points = {
-			20258 2 #Livadiá
-		}
 	}
 	provinces={
 		5784 20258 20272 
 	}
 	manpower=146751
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=pastoral
 	local_supplies=0.000
 }

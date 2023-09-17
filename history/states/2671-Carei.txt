@@ -9,13 +9,11 @@ state={
 		add_core_of = HUN
 		add_core_of = ROM
 		buildings = {
-			infrastructure = 2
-
+			infrastructure = 3
 		}
 		victory_points = {
-			13697 2 
+			13697 2 #Nagykaroly
 		}
-
 	}
 
 	provinces={
@@ -23,6 +21,6 @@ state={
 	}
 	manpower=59967
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 	local_supplies=0.000
 }

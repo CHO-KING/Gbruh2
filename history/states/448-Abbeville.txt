@@ -3,7 +3,7 @@ state={
 	id=448
 	name="STATE_448"
 	resources={
-		aluminium = 100
+		aluminium = 20
 	}
 	history={
 		owner = FRA
@@ -14,8 +14,6 @@ state={
         }
 		buildings = {
 			infrastructure = 4
-			arms_factory = 1
-			industrial_complex = 1
 		}
     }
 	provinces={
@@ -24,5 +22,5 @@ state={
 	manpower=210375
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = large_town
+	state_category = rural
 }

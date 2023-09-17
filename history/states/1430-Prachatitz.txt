@@ -10,7 +10,7 @@ state={
 		add_claim_by = CZE
 		
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 		}
 	}
 	provinces={
@@ -19,5 +19,5 @@ state={
 	manpower=89971
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = rural
+	state_category = pastoral
 }

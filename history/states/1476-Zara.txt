@@ -9,13 +9,13 @@ state={
 			infrastructure = 2
 			14584 = { naval_base = 1 }
 		}
-		victory_points = { 14584 5 }
+		victory_points = { 14584 2 } #Zara
 	}
 	provinces={
 		14584 
 	}
 	manpower=22844
-	state_category=pastoral
+	state_category=rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

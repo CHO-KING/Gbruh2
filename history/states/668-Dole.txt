@@ -5,11 +5,7 @@ state={
 	history={
 		owner = FRA
 		add_core_of = FRA
-		
-		
-        victory_points = {
-            13803 2 #Dole
-        }
+
 		buildings = {
 			infrastructure = 3
 		}
@@ -19,6 +15,6 @@ state={
 	}
 	manpower=77280
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 	local_supplies=0.000
 }

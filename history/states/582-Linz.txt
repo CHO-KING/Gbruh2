@@ -10,14 +10,17 @@ state={
 		add_core_of =AUS
 		buildings = {
 			infrastructure = 4
-			arms_factory = 2
+			arms_factory = 5
 			industrial_complex = 2
 		}
         victory_points = {
-            13396 20 #Linz
+            13396 15 #Linz
         }
 		victory_points = {
             4309 2 #Steyr
+        }
+		victory_points = {
+            13435 2 #Wels
         }
     }
 	manpower=234989

@@ -9,23 +9,21 @@ state={
 		add_core_of = BUL
 		buildings = {
 			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
 			9240 = {
 				naval_base = 1
-
 			}
-
 		}
 		victory_points = {
-			9240 5 
+			9240 5 #Kavala
 		}
-
 	}
-
 	provinces={
 		9038 9240 15036 
 	}
 	manpower=41639
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 	local_supplies=0.000
 }

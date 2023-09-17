@@ -10,13 +10,12 @@ state={
 		add_core_of = FRA
 		
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 			arms_factory = 1
-			industrial_complex = 1
 			19859 = { naval_base = 3 }
 		}
         victory_points = {
-            19859 5 #La Rochelle
+            19859 2 #La Rochelle
         }
         victory_points = {
             14156 2 #Rochefort
@@ -28,5 +27,5 @@ state={
 	manpower=419000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = town
 }

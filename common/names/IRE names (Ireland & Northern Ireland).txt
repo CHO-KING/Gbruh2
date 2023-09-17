@@ -10,7 +10,7 @@
 		}
 	}
 	surnames = {
-		Aiken Ashe Breen Brugha Collins Connolly Cosgrave Craig "de Valera" Donnelly FitzGerald Griffith Kelly Larkin Lynch Mallin McCartan McCullough McGarry McGuinness Mulcahy O'Brien O'Connor O'Doherty O'Higgins O'Leary O'Mara Pearse Plunket White
+		Aiken Ashe Breen Brugha Collins Connolly Cosgrave Craig "de Valera" Donnelly FitzGerald Griffith Kelly Larkin Lynch Mallin McCartan McClane McCullough McGarry McGuinness McReary Mulcahy O'Brien O'Connor O'Doherty O'Higgins O'Leary O'Mara Pearse Plunket White
 	}
 	callsigns = { }
 }

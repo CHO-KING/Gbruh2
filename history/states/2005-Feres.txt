@@ -9,17 +9,14 @@ state={
 		add_core_of = BUL
 		add_core_of = GRE
 		buildings = {
-			infrastructure = 1
-
+			infrastructure = 2
 		}
-
 	}
-
 	provinces={
-		1094 15895 16499 
+		16499 
 	}
-	manpower=11494
+	manpower=643
 	buildings_max_level_factor=1.000
-	state_category=enclave
+	state_category=pastoral
 	local_supplies=0.000
 }

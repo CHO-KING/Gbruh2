@@ -9,7 +9,7 @@ state={
 		}
 		add_core_of = ROM
 		victory_points = {
-			14622 5
+			14622 2 #Giurgiu
 		}
 	}
 	provinces={
@@ -18,5 +18,5 @@ state={
 	manpower=211430
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = rural
 }

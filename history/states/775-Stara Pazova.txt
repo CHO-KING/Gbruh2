@@ -4,14 +4,12 @@ state={
 	name="STATE_775"
 
 	history={
-		victory_points = { 3816 5 }
+		victory_points = { 3816 2 } #Ruma
 		owner = AUS
 		add_core_of = SER
 		add_claim_by = HUN
 		buildings = {
 			infrastructure = 3
-			arms_factory = 2
-			industrial_complex = 1
 		}
 		set_compliance = 25
 	}
@@ -21,6 +19,6 @@ state={
 	}
 	manpower=252252
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 	local_supplies=0.000
 }

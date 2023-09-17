@@ -11,11 +11,10 @@ state={
 		add_claim_by = HUN
 		add_claim_by = SER
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 
 		}
-		
-
+		victory_points = { 17994 2 } #Lugos
 	}
 
 	provinces={
@@ -23,6 +22,6 @@ state={
 	}
 	manpower=151641
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=rural
 	local_supplies=0.000
 }

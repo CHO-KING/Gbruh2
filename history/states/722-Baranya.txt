@@ -16,11 +16,14 @@ state={
 		}
 		
         victory_points = {
-            8687 10
+            8687 10 #Pecs
+        }
+        victory_points = {
+            14154 2 #Mohacs
         }
     }
 	manpower=253250
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 	local_supplies=0.000
 }

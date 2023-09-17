@@ -2,7 +2,7 @@ state={
 	id=787
 	name="STATE_787"
 	resources={
-		steel=50
+		steel=10
 	}
 	history={
 		owner = FRA
@@ -10,9 +10,6 @@ state={
 		
         victory_points = {
             7290 2 #Millau
-        }
-        victory_points = {
-            2564 2 #Rodez
         }
 		buildings = {
 			infrastructure = 3
@@ -23,5 +20,5 @@ state={
 	}
 	manpower=314700
 	buildings_max_level_factor=1.000
-	state_category = city
+	state_category = rural
 }

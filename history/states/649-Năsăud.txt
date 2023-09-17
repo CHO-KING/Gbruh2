@@ -9,7 +9,7 @@ state={
 		buildings = {
 			infrastructure = 2
 		}
-		victory_points = { 13796 5 }
+		victory_points = { 13796 2 } #Bistritz
 	}
 	provinces={
 		2784 4960 8275 13684 13685 13740 13741 13796 13849 13867 
@@ -17,5 +17,5 @@ state={
 	manpower=152670
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = town
+	state_category = rural
 }

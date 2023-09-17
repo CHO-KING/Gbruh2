@@ -783,7 +783,7 @@ units = {
 
 	division= {
 			name = "1-ya Turkestanskaya Strelkovaya Brigada"
-			location = 7626 # Novosergiyevka
+			location = 7627 # Novosergiyevka
 			division_template="Pekhotnaya Diviziya"
 			start_experience_factor=0.1
 			start_equipment_factor = 0.8
@@ -922,7 +922,7 @@ units = {
 
 	division= {
 			name = "Trans-Baikal Kazach'ya Brigada"
-			location = 2629 # Baymak
+			location = 3858 # Baymak
 			division_template="Kazak Kavaleriyskaya"
 			start_experience_factor=0.05
 			start_equipment_factor = 0.8

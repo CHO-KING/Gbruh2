@@ -124,8 +124,8 @@ country_event = { #Rename Yekaterinenshtadt
 				set_province_name = { id = 6937 name = Yekaterinograd }
 			}
 			2590 = {
-				set_state_name = Golyy-Karamysh
-				set_province_name = { id = 12241 name = Golyy-Karamysh }
+				set_state_name = "Golyy Karamysh"
+				set_province_name = { id = 12241 name = "Golyy Karamysh" }
 			}
 	}
 }

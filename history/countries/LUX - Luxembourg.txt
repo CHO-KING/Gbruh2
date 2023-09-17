@@ -11,7 +11,7 @@ set_war_support = 0.1
 set_stability = 0.8
 
 recruit_character = LUX_william_iv
-recruit_character = LUX_marieaddlaide
+recruit_character = LUX_marie
 
 set_politics = {
 	ruling_party = democratic
@@ -20,7 +20,7 @@ set_politics = {
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 92
-	fascism = 3
+	democratic = 74
+	neutrality = 21
 	communism = 5
 }

@@ -8,13 +8,15 @@ state={
 		add_core_of = SER
 		buildings = {
 			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
 			14631 = {
 				bunker = 1
 			}
 		}
 		 
 		victory_points = {
-			14631 40 
+			14631 10 #Sarajewo
 		}
 		set_compliance = 25
 	}

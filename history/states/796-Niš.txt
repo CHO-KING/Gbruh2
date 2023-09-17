@@ -13,7 +13,7 @@ state={
 		}
 		 
 		victory_points = {
-			14718 20 
+			14718 10 #Nis 
 		}
 
 	}

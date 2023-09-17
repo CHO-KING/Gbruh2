@@ -16,11 +16,11 @@ state={
 		}
 	
         victory_points = {
-            13775 5
+            13775 5 #Szombathely
         }
     }
 	manpower=234466
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=town
 	local_supplies=0.000
 }

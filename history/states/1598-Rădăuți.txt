@@ -5,8 +5,9 @@ state={
 		owner = AUS
 		add_core_of = ROM
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 		}
+		victory_points = { 5863 2 } #Radautz
 	}
 	provinces={
 		2582 5863 13589 
@@ -14,5 +15,5 @@ state={
 	manpower=119995
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = town
+	state_category = rural
 }

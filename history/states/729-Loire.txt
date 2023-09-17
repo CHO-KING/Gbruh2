@@ -18,7 +18,7 @@ state={
 			arms_factory = 6
 		}
         victory_points = {
-            14288 10 #Saint-Étienne
+            14288 20 #Saint-Étienne
         }
         victory_points = {
             19824 2 #Roanne

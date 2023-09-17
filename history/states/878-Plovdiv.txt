@@ -6,25 +6,23 @@ state={
 	history={
 		owner = BUL
 		add_core_of = BUL
-		
-		
 		buildings = {
 			infrastructure = 3
-			arms_factory = 3
+			arms_factory = 4
 			industrial_complex = 3
-
 		}
 		victory_points = {
-			14892 20 
+			14892 10 #Plovdiv 
 		}
-
+		victory_points = {
+			1821 2 #Stanimaka 
+		}
 	}
-
 	provinces={
 		1821 4984 5140 5846 14806 14820 14881 14892 15941 
 	}
 	manpower=362169
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=city
 	local_supplies=0.000
 }

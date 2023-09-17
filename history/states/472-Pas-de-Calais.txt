@@ -3,7 +3,7 @@ state={
 	id=472
 	name="STATE_472"
 	resources={
-		aluminium = 150
+		aluminium = 80
 	}
 	history={
 		owner = FRA
@@ -11,21 +11,18 @@ state={
 		
 		buildings = {
 			infrastructure = 4
-			arms_factory = 5
-			industrial_complex = 5
+			arms_factory = 3
+			industrial_complex = 3
 			12325 = { naval_base = 5 }
 		}
 		victory_points = {
-			12325 5 #Calais
+			12325 15 #Calais
 		}
 		victory_points = {
-			6129 5 #Lens
+			6129 2 #Lens
 		}
 		victory_points = {
-			1406 2 #Béthune
-		}
-		victory_points = {
-			73 5 #Boulogne-sur-Mer
+			73 10 #Boulogne-sur-Mer
 		}
 	}
 	provinces={
@@ -33,6 +30,6 @@ state={
 	}
 	manpower=1179500
 	buildings_max_level_factor=1.000
-	state_category=metropolis
+	state_category=city
 	local_supplies=0.000
 }

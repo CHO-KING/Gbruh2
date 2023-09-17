@@ -14,7 +14,7 @@ state={
 		}
 	
         victory_points = {
-            19840 10 #Genève
+            19840 20 #Genève
         }
     }
 	manpower=175686

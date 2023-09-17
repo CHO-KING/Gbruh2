@@ -9,7 +9,7 @@ state={
 		buildings = {
 			infrastructure = 2
 		}
-        	victory_points = { 9623 2 }
+        	victory_points = { 13587 2 } #Maramossziget
    	 }	
 	provinces={
 		9623 13587 20455 

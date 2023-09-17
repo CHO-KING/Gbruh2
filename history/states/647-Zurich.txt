@@ -13,7 +13,7 @@ state={
 		}
 	
         victory_points = {
-            20098 20 #Zürich
+            20098 25 #Zürich
         }
     }
 	manpower=652000

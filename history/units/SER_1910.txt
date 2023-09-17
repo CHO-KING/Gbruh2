@@ -94,8 +94,8 @@ units = {
 	
 	
 	division= { 
-		name = "Timocka divizija II poziva"
-		location = 3833 #Knjacevac
+		name = "Nišava divizija II poziva"
+		location = 14718 #Nis
 		division_template="Infantry Division"
 		start_experience_factor=0.1
 	}

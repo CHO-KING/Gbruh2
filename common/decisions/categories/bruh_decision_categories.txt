@@ -109,3 +109,15 @@ AUS_trialism = {
 ROM_integration_decisions = {
 		icon = generic_crisis
 }
+
+FIN_integration_decisions = {
+		icon = generic_crisis
+}
+
+ITA_encroaching_decisions = {
+		icon = generic_crisis
+}
+
+GRE_integration_decisions = {
+		icon = generic_crisis
+}

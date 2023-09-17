@@ -13,12 +13,17 @@ state={
 			industrial_complex = 1
 		}
 		victory_points = {
-			20091 10 
+			20091 10 #Kecskemet
 		}
 		victory_points = {
-			4997 2 
+			4997 2 #Kiskunhalas
 		}
-
+		victory_points = {
+			14011 2 #Kiskunmajsa
+		}
+		victory_points = {
+			13941 5 #Kiskunfelegyhaza
+		}
 	}
 
 	provinces={

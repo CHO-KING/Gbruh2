@@ -10,7 +10,7 @@ state={
 			infrastructure = 3
 		}
 		victory_points = {
-			20395 10
+			20395 5 #Turnu
 		}
 	}
 	provinces={
@@ -18,6 +18,6 @@ state={
 	}
 	manpower=321615
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=town
 	local_supplies=0.000
 }

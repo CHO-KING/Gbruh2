@@ -10,16 +10,12 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		
-		
+				
         victory_points = {
             14611 5 #Avignon
-        }
-        victory_points = {
-            14576 2 #Orange
         }
     }
 	manpower=245500
 	buildings_max_level_factor=1.000
-	state_category = large_town
+	state_category = town
 }

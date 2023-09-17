@@ -13,7 +13,7 @@ state={
 			infrastructure = 2
 		}
 		victory_points = {
-			5637 2 #Kilkís
+			5637 2 #Kilkís destroyed in 1913
 		}
 	}
 	provinces={
@@ -21,6 +21,6 @@ state={
 	}
 	manpower=46341
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 	local_supplies=0.000
 }

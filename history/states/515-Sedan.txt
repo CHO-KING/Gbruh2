@@ -10,7 +10,7 @@ state={
             20532 2 #Sedan
         }
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
     }
 	provinces={
@@ -19,5 +19,5 @@ state={
 	manpower=28860
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = pastoral
+	state_category = rural
 }

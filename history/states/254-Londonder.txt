@@ -8,6 +8,7 @@ state={
 	history={
 		owner = ENG
 		add_core_of = ENG
+		add_core_of = IRE
 		buildings = {
 			infrastructure = 3
 			19389 = { naval_base = 1 }
@@ -16,11 +17,11 @@ state={
 		add_core_of = ENG
 	
         victory_points = {
-            19389 5
+            19390 10 #Londonderry
         }
     }
 	manpower=142700
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = rural
+	state_category = town
 }

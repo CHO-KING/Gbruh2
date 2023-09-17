@@ -1,5 +1,5 @@
 characters={
-	LUX_marieaddlaide={
+	LUX_marie={
 		name="Marie-Adélaïde"
 		portraits={
 			civilian={
@@ -7,8 +7,7 @@ characters={
 			}
 		}
 		country_leader={
-			desc="LUX_marie_adelaide_DESC"
-			ideology=liberalism
+			ideology=conservatism
 			expire="1935.1.1.1"
 			id=-1
 		}
@@ -21,7 +20,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=conservatism
+			ideology=liberalism
 			expire="1912.2.24.1"
 			id=-1
 		}

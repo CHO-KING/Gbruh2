@@ -6,21 +6,16 @@ state={
 	history={
 		owner = BUL
 		add_core_of = BUL
-		
-		
 		buildings = {
-			infrastructure = 3
-			arms_factory = 2
-			industrial_complex = 3
+			infrastructure = 2
 			20372 = { naval_base = 1 }
 			20372 = {
 				bunker = 1
 			}
 		}
 		victory_points = {
-			20372 10 
+			20372 2 #Burgaz
 		}
-
 	}
 
 	provinces={
@@ -28,6 +23,6 @@ state={
 	}
 	manpower=192635
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 	local_supplies=0.000
 }

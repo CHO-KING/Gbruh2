@@ -12,10 +12,16 @@ state={
 		buildings = {
 			infrastructure = 2
 		}
+		victory_points = {
+			14166 2 #Zenta
+		}
+		victory_points = {
+			14124 2 #Nagykanisza
+		}
 		
 	}
 	manpower=92141
-	state_category=pastoral
+	state_category=town
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

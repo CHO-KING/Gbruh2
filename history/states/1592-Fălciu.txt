@@ -8,6 +8,9 @@ state={
 		buildings = {
 			infrastructure = 2
 		}
+		victory_points = {
+			9450 2 #Husi 
+		}
 	}
 	provinces={
 		6328 9450 14034 20435 

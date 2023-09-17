@@ -6,7 +6,7 @@ state={
 		owner = FRA
 		add_core_of = FRA
 		victory_points = {
-			9580 5 #Versailles
+			9580 10 #Versailles
 		}
 		buildings = {
 			infrastructure = 4
@@ -20,5 +20,5 @@ state={
 	manpower=427500
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = large_town
 }

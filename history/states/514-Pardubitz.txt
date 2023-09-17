@@ -7,12 +7,10 @@ state={
 		add_core_of = CZE
 		
         victory_points = {
-            20071 5 #Pardubice
+            20071 2 #Pardubitz
         }
 		buildings = {
 			infrastructure = 3
-			arms_factory = 2
-			industrial_complex = 2
 		}
 	}
 	provinces={
@@ -21,5 +19,5 @@ state={
 	manpower=370600
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = rural
 }

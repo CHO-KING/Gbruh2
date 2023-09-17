@@ -15,12 +15,12 @@ state={
 			6862 = {
 				bunker = 1
 			}
-			12739 = {
+			12743 = {
 				bunker = 1
 			}
 		}
         victory_points = {
-            6862 40 #Kraków
+            6862 20 #Krakau
         }
   	}
 	manpower=306800

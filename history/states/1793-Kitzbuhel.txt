@@ -7,10 +7,6 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		
-		victory_points = {
-            20810 1 #Kufstein
-        }
 	}
 	provinces={
 		5566 9121 13668 13706 20810 
@@ -18,5 +14,5 @@ state={
 	manpower=75381
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = rural
+	state_category = pastoral
 }

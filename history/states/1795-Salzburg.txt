@@ -18,7 +18,7 @@ state={
 		}
 		
         victory_points = {
-            13572 10 #Salzburg
+            13572 5 #Salzburg
         }
     }
 	manpower=151699

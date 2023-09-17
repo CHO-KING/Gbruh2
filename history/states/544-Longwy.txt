@@ -2,13 +2,12 @@
 state={
 	id=544
 	name="STATE_544"
+	resources={
+		steel=50
+	}
 	history={
 		owner = FRA
 		add_core_of = FRA
-        
-		victory_points = {
-            16743 2 #Longwy
-        }
 		
 		buildings = {
 			infrastructure = 4

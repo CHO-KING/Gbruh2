@@ -7,15 +7,12 @@ state={
 		owner = TUR
 		add_core_of = BUL
 		add_core_of = SER
-		
 		buildings = {
 			infrastructure = 2
-
 		}
 		victory_points = {
-			404 2 
+			404 2 #Istip
 		}
-
 	}
 
 	provinces={
@@ -23,6 +20,6 @@ state={
 	}
 	manpower=35619
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 	local_supplies=0.000
 }

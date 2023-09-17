@@ -1,0 +1,31 @@
+
+state={
+	id=640
+	name="STATE_640"
+	resources={
+		aluminium = 70
+	}
+	history={
+		owner = FRA
+		add_core_of = FRA
+		
+		buildings = {
+			infrastructure = 4
+			arms_factory = 4
+			industrial_complex = 5
+		}
+		victory_points = {
+			6834 20 #Roubaix
+		}
+		victory_points = {
+			19817 15 #Tourcoing
+		}
+    }
+	provinces={
+		6834 19817
+	}
+	manpower=38700
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = city
+}

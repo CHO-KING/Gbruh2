@@ -15,11 +15,9 @@ state={
 		
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
-			industrial_complex = 1
 		}
         victory_points = {
-            19815 5 #Albi
+            19815 2 #Albi
         }
         victory_points = {
             8331 2 #Castres
@@ -28,5 +26,5 @@ state={
 	manpower=297900
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = town
 }

@@ -78,7 +78,7 @@ division_template = {
 units = {
 	division= { 
 			name = "4-a Konna brigada"
-			location = 20366 # Sofia
+			location = 5762 #Dobrich
 			division_template="Kavaleriya Divizija"
 			start_experience_factor=0.1
 			}
@@ -86,7 +86,7 @@ units = {
 	
 	division= { 
 			name = "Border Guards"
-			location = 20366 # Sofia
+			location = 14892 #Plovidiv
 			division_template="Granichar"
 			start_experience_factor=0.05
 			}
@@ -94,14 +94,14 @@ units = {
 	
 	division= { 
 			name = "Northern Border Guards"
-			location = 20366 # Sofia
+			location = 4965 #Ruse
 			division_template="Granichar"
 			start_experience_factor=0.05
 			}
 
 	division= { 
 			name = "Border Guards"
-			location = 20366 # Sofia
+			location = 20369 #Hashkovo
 			division_template="Granichar"
 			start_experience_factor=0.05
 			}
@@ -109,7 +109,7 @@ units = {
 	
 	division= { 
 			name = "Northern Border Guards"
-			location = 20366 # Sofia
+			location = 14608 #Vidin
 			division_template="Granichar"
 			start_experience_factor=0.05
 			}
@@ -124,14 +124,14 @@ units = {
 	
 	division= { 
 		name = "2-ta Pehotna Divizija"
-		location = 20366 # Sofia
+		location = 14710 #Varna
 		division_template="Pehotna Divizija"
 		start_experience_factor=0.3
 	}
 	
 	division= { 
 		name = "3-ta Pehotna Divizija"
-		location = 20366 # Sofia
+		location = 20364 #Pleven
 		division_template="Pehotna Divizija"
 		start_experience_factor=0.3
 	}
@@ -139,7 +139,7 @@ units = {
 	
 	division= { 
 			name = "6-ta 'Bdinska' Pehotna Divizija"
-			location = 20366 # Sofia
+			location = 20381 # Vratsa
 			division_template="Pehotna Divizija"
 			start_experience_factor=0.3
 			}
@@ -147,7 +147,7 @@ units = {
 	
 	division= { 
 			name = "7-ma 'Rilska' Pekhotna Divizija"
-			location = 20366 # Sofia
+			location = 7297 #Kyustendil
 			division_template="Pehotna Divizija"
 			start_experience_factor=0.3
 			}

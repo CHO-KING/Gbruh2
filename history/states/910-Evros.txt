@@ -2,12 +2,10 @@
 state={
 	id=910
 	name="STATE_910"
-	provinces={
-		4231 8483 20338 
-	}
 	resources={
-		tungsten = 20
+		tungsten=20.000
 	}
+
 	history={
 		owner = TUR
 		add_core_of = TUR
@@ -15,14 +13,14 @@ state={
 		add_core_of = GRE
 		buildings = {
 			infrastructure = 2
-			20338 = { naval_base = 1 }
 		}
-	
-        victory_points = {
-            20338 5
-        }
-    }
-	manpower=63544
+
+	}
+
+	provinces={
+		1094 4231 8483 15895 20338 
+	}
+	manpower=74438
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 	local_supplies=0.000

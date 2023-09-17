@@ -14,9 +14,14 @@ state={
 		add_claim_by = CZE
 		buildings = {
 			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 1
 		}
         victory_points = {
-            12818 10 #Bielitz
+            12818 2 #Bielitz
+        }
+        victory_points = {
+            12829 2 #Teschen
         }
   	}
 	manpower=183054

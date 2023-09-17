@@ -10,15 +10,16 @@ state={
 		
 		buildings = {
 			infrastructure = 2
+			industrial_complex = 1
 			20349 = { naval_base = 1 }
 		}
 	
         victory_points = {
-            20349 5
+            20349 5 #Chania
         }
     }
 	manpower=45142
-	state_category=pastoral
+	state_category=town
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

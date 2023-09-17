@@ -5,17 +5,13 @@ state={
 	history={
 		owner = FRA
 		add_core_of = FRA
-		
-		
-        victory_points = {
-            1225 2 #Mont-de-Marsan
-        }
+
 		buildings = {
 			infrastructure = 3
 		}
     }
 	provinces={
-		1225 6248 
+		1225 6248 14646
 	}
 	manpower=37710
 	buildings_max_level_factor=1.000

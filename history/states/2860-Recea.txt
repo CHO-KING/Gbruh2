@@ -8,14 +8,12 @@ state={
 		owner = AUS
 		add_core_of = ROM
 		add_claim_by = HUN
-		
 		buildings = {
 			infrastructure = 2
-
 		}
 	}
 	manpower=4398
-	state_category=enclave
+	state_category=pastoral
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

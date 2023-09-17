@@ -634,12 +634,11 @@ focus_tree = {
 				limit = {
 					is_core_of = HUN
 					OR = {
+						has_state_category = large_town
 						has_state_category = city
 						has_state_category = large_city
-						has_state_category = metropolis
-						has_state_category = megalopolis
 					}
-					industrial_complex < 1
+					industrial_complex < 2
 				}
 				add_dynamic_modifier = { modifier = AUS_hun_industrialisation }
 			}
@@ -704,12 +703,12 @@ focus_tree = {
 		completion_reward = {
 			every_owned_state = {
 				limit = {
+					is_claimed_by = HUN
 					is_core_of = CZE
 					OR = {
-						has_state_category = city
-						has_state_category = large_city
-						has_state_category = metropolis
-						has_state_category = megalopolis
+						has_state_category = rural
+						has_state_category = town
+						has_state_category = large_town
 					}
 					arms_factory < 1
 				}
@@ -768,20 +767,20 @@ focus_tree = {
 		relative_position_id = AUS_end_hungary_industry
 		cost = 10
 		available = {
-			489 = {
+			523 = {
 				has_state_flag = coal_developed_1
 			}
-			489 = {
+			1427 = {
 				has_state_flag = steel_developed_1
 			}
 			OR = {
+				536 = {
+					has_state_flag = coal_developed_1
+				}
 				648 = {
 					has_state_flag = coal_developed_1
 				}
-				2670 = {
-					has_state_flag = coal_developed_1
-				}
-				1581 = {
+				736 = {
 					has_state_flag = coal_developed_1
 				}
 			}
@@ -850,6 +849,9 @@ focus_tree = {
 		
 		completion_reward = {
 			navy_experience = 50
+			744 = {
+				add_dynamic_modifier = { modifier = AUS_stabilimento_tecnico_triestino }
+			}
 		}
 	}
 

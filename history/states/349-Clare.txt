@@ -5,12 +5,10 @@ state={
 	history={
 		owner = ENG
 		add_core_of = ENG
+		add_core_of = IRE
 		buildings = {
 			infrastructure = 3
 		}
-		victory_points = {
-            8520 2
-        }
 	}
 	provinces={
 		3822 5970 7429 8520 9641 19392 
@@ -18,5 +16,5 @@ state={
 	manpower=95064
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = rural
+	state_category = pastoral
 }

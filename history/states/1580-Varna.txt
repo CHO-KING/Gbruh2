@@ -16,9 +16,8 @@ state={
 				bunker = 1
 			}
 		}
-	
         victory_points = {
-            14710 20
+            14710 10 #Varna
         }
     }
 	manpower=262844

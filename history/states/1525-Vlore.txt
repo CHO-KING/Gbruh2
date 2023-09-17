@@ -7,24 +7,20 @@ state={
 		owner = TUR
 		add_core_of = ALB
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 			20231 = {
 				naval_base = 4
-
 			}
-
 		}
 		victory_points = {
-			20231 20 
+			20231 5 #Vlore 
 		}
-
 	}
-
 	provinces={
 		15141 16006 20231 
 	}
 	manpower=55191
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=rural
 	local_supplies=0.000
 }

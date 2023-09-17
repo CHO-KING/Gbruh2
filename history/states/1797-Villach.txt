@@ -13,11 +13,11 @@ state={
 		}
 		
         victory_points = {
-            20843 5 #Villach
+            20843 2 #Villach
         }
     }
 	manpower=154192
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = town
+	state_category = rural
 }

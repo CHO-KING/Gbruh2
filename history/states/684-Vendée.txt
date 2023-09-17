@@ -10,14 +10,11 @@ state={
 		add_core_of = FRA
 		
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
-        victory_points = {
-            7052 5 #La Roche-sur-Yon
-        }
     }
 	manpower=389200
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = pastoral
 }

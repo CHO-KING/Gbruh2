@@ -11,22 +11,17 @@ state={
 			infrastructure = 4
 			arms_factory = 5
 			industrial_complex = 5
-			dockyard = 3
+			dockyard = 2
 			8560 = { naval_base = 3 }
-		}
-		
-		
+		}	
         victory_points = {
             8560 40 #Marseille
         }
         victory_points = {
-            14667 10 #Aix-en-Provence
+            14667 2 #Aix-en-Provence
         }
         victory_points = {
-            8806 5 #Arles
-        }
-        victory_points = {
-            8802 2 #Miramas
+            8806 2 #Arles
         }
     }
 	manpower=1224800

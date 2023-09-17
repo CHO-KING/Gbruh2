@@ -7,11 +7,6 @@ state={
 		owner = AUS
 		add_core_of = SER
 		add_claim_by = ITA
-		set_compliance = 25
-		
-		victory_points = {
-			14257 1 
-		}
 		buildings = {
 			infrastructure = 2
 

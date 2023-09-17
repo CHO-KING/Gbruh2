@@ -8,9 +8,9 @@ state={
 		owner = FRA
 		add_core_of = FRA
 		buildings = {
-			infrastructure = 4
-			arms_factory = 2
-			industrial_complex = 2
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
 			13616 = { naval_base = 4 }
 			13658 = { naval_base = 1 }
 		}
@@ -19,10 +19,10 @@ state={
             13616 5 #Lorient
         }
 		victory_points = {
-            13658 5 #Vannes
+            13658 2 #Vannes
         }
     }
 	manpower=542200
 	buildings_max_level_factor=1.000
-	state_category = large_city
+	state_category = town
 }

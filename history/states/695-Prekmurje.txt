@@ -11,9 +11,6 @@ state={
 			infrastructure = 2
 
 		}
-		victory_points = {
-			2360 2 
-		}
 		set_compliance = 25
 	}
 

@@ -7,10 +7,10 @@ state={
 		add_core_of = FRA
 		
         victory_points = {
-            3088 2 #Angoulême
+            3088 5 #Angoulême
         }
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
     }
 	provinces={
@@ -19,5 +19,5 @@ state={
 	manpower=247440
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = large_town
+	state_category = town
 }

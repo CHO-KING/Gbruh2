@@ -8,11 +8,8 @@ state={
 	history={
 		owner = FRA
 		add_core_of = FRA
-        victory_points = {
-            13294 2 #Alençon
-        }
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
 		
     }
@@ -21,6 +18,6 @@ state={
 	}
 	manpower=269300
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=pastoral
 	local_supplies=0.000
 }

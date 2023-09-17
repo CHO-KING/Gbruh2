@@ -14,14 +14,14 @@ state={
 			industrial_complex = 2
 		}
         victory_points = {
-            14746 5
+            14746 2 #Tarnovo
         }
 		victory_points = {
-            14672 2
+            14672 2 #Sistova
         }
     }
 	manpower=130244
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = large_town
+	state_category = town
 }

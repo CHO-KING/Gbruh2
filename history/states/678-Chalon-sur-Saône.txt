@@ -9,8 +9,11 @@ state={
         victory_points = {
             2934 2 #Chalon-sur-Saône
         }
+        victory_points = {
+            7544 2 #Le Creusot
+        }
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
 		}
     }
 	provinces={
@@ -18,6 +21,6 @@ state={
 	}
 	manpower=289135
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=town
 	local_supplies=0.000
 }

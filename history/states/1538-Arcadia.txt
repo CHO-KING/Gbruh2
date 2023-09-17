@@ -19,7 +19,7 @@ state={
 		1856 20265 20266 20269 20270 
 	}
 	manpower=64552
-	state_category=pastoral
+	state_category=rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

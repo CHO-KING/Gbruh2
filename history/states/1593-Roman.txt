@@ -9,7 +9,7 @@ state={
 			infrastructure = 2
 		}
 		victory_points = {
-			13877 5
+			13877 2 #Roman
 		}
 	}
 	provinces={
@@ -18,5 +18,5 @@ state={
 	manpower=109495
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = town
+	state_category = rural
 }

@@ -2,7 +2,7 @@ state={
 	id=747
 	name="STATE_747"
 	provinces={
-		8147 
+		7994 8147 
 	}
 	history={
 		owner = FRA
@@ -10,14 +10,17 @@ state={
 		
 		buildings = {
 			infrastructure = 4
-			arms_factory = 2
-			industrial_complex = 2
+			arms_factory = 5
+			industrial_complex = 5
 		}
         victory_points = {
-            8147 20 #Lyon
+            8147 40 #Lyon
+        }
+        victory_points = {
+            7994 5 #Villeurbane
         }
     }
 	manpower=463060
 	buildings_max_level_factor=1.000
-	state_category = city
+	state_category = large_city
 }

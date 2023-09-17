@@ -10,7 +10,7 @@ state={
 		add_core_of = FRA
 		
 		victory_points = {
-			19885 10 #Amiens
+			19885 15 #Amiens
 		}
 		buildings = {
 			infrastructure = 4

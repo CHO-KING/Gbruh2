@@ -17,11 +17,11 @@ state={
 		}
 	
         victory_points = {
-            13239 20
+            13239 10 #Kassa
         }
     }
 	manpower=349075
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category = city
+	state_category = large_town
 }

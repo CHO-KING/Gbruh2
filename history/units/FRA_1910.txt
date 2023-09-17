@@ -225,7 +225,7 @@ units = {
 	
 	division= { 
 			name = "40eme Division d'Infanterie"
-			location = 1406 # Bethune
+			location = 19814 #Nantes
 			division_template="Division d'Infanterie"
 			start_experience_factor=0.1
 			}
@@ -265,7 +265,7 @@ units = {
 	
 	division= { 
 			name = "10eme Division d'Infanterie"
-			location = 1712 # Frejus
+			location = 20533 #Menton
 			division_template="Division d'Infanterie"
 			start_experience_factor=0.1
 			}
@@ -385,7 +385,7 @@ units = {
 	
 	division= { 
 			name = "43eme Division d'Infanterie"
-			location = 783 # Dordogne
+			location = 14711 #Tarbes
 			division_template="Division d'Infanterie"
 			start_experience_factor=0.1
 			}
@@ -401,7 +401,7 @@ units = {
 	
 	division= { 
 			name = "14eme Division d'Infanterie"
-			location = 14604 # Alpes
+			location = 9644 #Chambery
 			division_template="Division d'Infanterie"
 			start_experience_factor=0.1
 			}
@@ -409,7 +409,7 @@ units = {
 	
 	division= { 
 			name = "41eme Division d'Infanterie"
-			location = 14473 # Gap
+			location = 14611 #Avignon
 			division_template="Division d'Infanterie"
 			start_experience_factor=0.1
 			}
@@ -548,7 +548,7 @@ units = {
 	
 	division= { 
 			name = "6e Division de Gendarmerie"
-			location = 19887 # Val de Marnes
+			location = 12284 #Dunkerque
 			division_template="Brigade de Gendarmerie"
 			start_experience_factor = 0.15
 			start_equipment_factor = 0.9
@@ -558,7 +558,7 @@ units = {
 	
 	division= { 
 			name = "7e Division de Gendarmerie"
-			location = 13260 # Melun
+			location = 12957 #Rouen
 			division_template="Brigade de Gendarmerie"
 			start_experience_factor = 0.15
 			start_equipment_factor = 0.9
@@ -568,7 +568,7 @@ units = {
 	
 	division= { 
 			name = "10e Division de Gendarmerie"
-			location = 13114 # Melun
+			location = 12502 #Lille
 			division_template="Brigade de Gendarmerie"
 			start_experience_factor = 0.15
 			start_equipment_factor = 0.9

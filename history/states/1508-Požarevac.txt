@@ -10,11 +10,16 @@ state={
 		add_core_of = SER
 		buildings = {
 			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 2
+		}
+		victory_points = { 
+			1000 5 #Požarevac
 		}
 		 
 	}
 	manpower=251201
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 	local_supplies=0.000
 }

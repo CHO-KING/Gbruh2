@@ -123,7 +123,7 @@ focus_tree = {
 				category = cat_heavy_artillery
 			}
 			1749 = {
-				add_dynamic_modifier = { modifier = krupp_works }
+				add_dynamic_modifier = { modifier = GER_krupp_works }
 			}
 		}
 	}
@@ -252,13 +252,16 @@ focus_tree = {
 		x = -3
 		y = 1
 		relative_position_id = GER_weltkrieg
-		cost = 5
+		cost = 10
 		ai_will_do = {
 			factor = 1
 		}
 		
 		completion_reward = {
 			navy_experience = 50
+			1706 = {
+				add_dynamic_modifier = { modifier = GER_germaniawerft }
+			}				
 		}
 	}
 
@@ -280,6 +283,9 @@ focus_tree = {
 				add_idea = GER_naval_arms_race_2
 				remove_idea = GER_naval_arms_race
 			}
+			314 = {
+				add_dynamic_modifier = { modifier = GER_wilhelmshaven_shipyards }
+			}	
 		}
 	}
 
@@ -382,6 +388,9 @@ focus_tree = {
 		completion_reward = {
 			remove_ideas = GER_naval_arms_race_2
 			add_war_support = -0.05
+			314 = {
+				remove_dynamic_modifier = { modifier = GER_wilhelmshaven_shipyards }
+			}	
 		}
 	}
 
@@ -841,6 +850,10 @@ focus_tree = {
 		
 		completion_reward = {
 			add_ideas = GER_rathenau_programme
+			add_popularity = {
+				ideology = democratic
+				popularity = 0.1
+			}
 		}
 	}
 
@@ -927,7 +940,7 @@ focus_tree = {
 						free_building_slots = {
 							building = arms_factory
 							size > 9
-							include_locked = yes
+							include_locked = no
 						}
 					}
 					add_building_construction = {
@@ -961,7 +974,7 @@ focus_tree = {
 						free_building_slots = {
 							building = arms_factory
 							size > 4
-							include_locked = yes
+							include_locked = no
 						}
 					}
 					add_building_construction = {
@@ -995,7 +1008,7 @@ focus_tree = {
 						free_building_slots = {
 							building = arms_factory
 							size > 4
-							include_locked = yes
+							include_locked = no
 						}
 					}
 					add_building_construction = {
@@ -1029,7 +1042,7 @@ focus_tree = {
 						free_building_slots = {
 							building = arms_factory
 							size > 9
-							include_locked = yes
+							include_locked = no
 						}
 					}
 					add_building_construction = {
@@ -1061,6 +1074,22 @@ focus_tree = {
 		
 		completion_reward = {
 			add_ideas = GER_hindenburg_programme
+			add_popularity = {
+				ideology = fascism
+				popularity = 0.1
+			}
+			hidden_effect = {
+				set_party_name = { 
+					ideology = neutrality 
+					long_name = "Kabinett Michaelis"
+					name = OHL
+				}
+				set_party_name = { 
+					ideology = fascism 
+					long_name = "Deutsche Vaterlandspartei"
+					name = DVLP
+				}
+			}
 		}
 	}
 	

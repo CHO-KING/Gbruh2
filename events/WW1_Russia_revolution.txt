@@ -389,10 +389,11 @@ country_event = {
 				transfer_state = 1005
 			}	
 			release = FIN
+			SOV_carl_gustaf_emil_mannerheim = { set_nationality = FIN }
 			FIN = {
 				start_civil_war = {
 					ideology = communism
-					size = 0.2
+					size = 0.5
 					capital = 114
 				}
 			}
@@ -433,6 +434,18 @@ country_event = {
 		add_popularity = {
 			ideology = communism
 			popularity = 0.80
+		}
+		hidden_effect = {
+			set_party_name = { 
+				ideology = communism  
+				long_name = "Rossiyskaya Kommunisticheskaya Partiya (bolshevikov)"
+				name = "RKP(b)"
+			}
+			set_party_name = { 
+				ideology = neutrality  
+				long_name = "Vremennoye Vserossiyskoye Pravitelstvo"
+				name = VVp
+			}
 		}
 		division_template = {
 			name = "Red Guards"
@@ -495,6 +508,18 @@ country_event = {
 		add_popularity = {
 			ideology = neutrality
 			popularity = 0.80
+		}
+		hidden_effect = {
+			set_party_name = { 
+				ideology = communism  
+				long_name = "Rossiyskaya Kommunisticheskaya Partiya (bolshevikov)"
+				name = "RKP(b)"
+			}
+			set_party_name = { 
+				ideology = neutrality  
+				long_name = "Vremennoye Vserossiyskoye Pravitelstvo"
+				name = VVp
+			}
 		}
 	}
 }

@@ -9,14 +9,17 @@ state={
 			6087 2 #Maubeuge
 		}		
 			buildings = {
-			infrastructure = 1
+			infrastructure = 3
+			6087 = {
+				bunker = 1
+			}
 		}
 	}
 	provinces={
 		6087
 	}
 	manpower=29650
-	state_category=pastoral
+	state_category=rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

@@ -10,13 +10,13 @@ state={
 			infrastructure = 3
 			9109 = { naval_base = 2 }
 		}
-		victory_points = { 9109 2 }
+		victory_points = { 9109 5 }
 	}
 	provinces={
 		9109 20482 20483
 	}
 	manpower=125602
-	state_category=rural
+	state_category=town
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }
